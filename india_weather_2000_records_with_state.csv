@@ -1,0 +1,2001 @@
+RecordID,Date,City,State,Season,Temperature_C,Humidity_%,WindSpeed_kmph,Precipitation_mm,AirPressure_hPa,WeatherCondition
+1,2022-02-07,Kolkata,West Bengal,Monsoon,26.4,42,12.1,2.02,1000.2,Storm
+2,2022-06-28,Mumbai,Maharashtra,Monsoon,26.6,55,7.2,8.42,1016.0,Rain
+3,2023-02-03,Mumbai,Maharashtra,Monsoon,25.4,76,15.1,11.2,1022.4,Rain
+4,2022-03-28,Jaipur,Rajasthan,Monsoon,31.4,36,30.3,7.07,1002.3,Rain
+5,2023-12-30,Mumbai,Maharashtra,Winter,20.7,92,6.9,0.34,1009.4,Rain
+6,2022-02-13,Ahmedabad,Gujarat,Monsoon,30.7,80,1.2,3.91,1013.5,Haze
+7,2022-03-06,Jaipur,Rajasthan,Monsoon,25.4,58,7.8,0.3,1016.7,Fog
+8,2022-01-23,Lucknow,Uttar Pradesh,Monsoon,27.2,58,4.2,2.98,1013.7,Cloudy
+9,2022-11-10,Delhi,Delhi,Monsoon,24.8,69,10.5,3.51,1014.6,Cloudy
+10,2022-03-29,Delhi,Delhi,Winter,12.4,45,9.1,0.26,1011.6,Haze
+11,2022-06-01,Kolkata,West Bengal,Autumn,31.1,38,18.9,1.45,1004.8,Fog
+12,2024-02-14,Delhi,Delhi,Winter,19.0,47,1.0,2.15,1024.7,Sunny
+13,2022-03-19,Bangalore,Karnataka,Autumn,24.8,42,22.8,0.45,1018.8,Cloudy
+14,2023-05-24,Bangalore,Karnataka,Summer,37.4,58,24.2,1.04,1016.5,Storm
+15,2022-06-02,Pune,Maharashtra,Winter,11.5,47,26.3,2.13,1004.1,Sunny
+16,2022-06-02,Jaipur,Rajasthan,Monsoon,31.4,79,27.5,0.26,1020.6,Fog
+17,2023-11-26,Bangalore,Karnataka,Autumn,20.6,41,26.7,1.48,1020.8,Sunny
+18,2023-07-21,Ahmedabad,Gujarat,Winter,19.6,72,24.8,0.64,995.8,Rain
+19,2023-11-25,Bangalore,Karnataka,Monsoon,27.8,91,24.2,23.69,1010.1,Sunny
+20,2023-05-21,Lucknow,Uttar Pradesh,Autumn,31.0,48,24.4,0.07,1008.7,Fog
+21,2023-12-19,Bangalore,Karnataka,Autumn,21.6,94,24.9,0.13,1010.3,Cloudy
+22,2022-11-22,Chennai,Tamil Nadu,Autumn,23.4,75,8.6,1.97,1008.4,Rain
+23,2022-10-31,Lucknow,Uttar Pradesh,Winter,13.3,80,20.5,3.49,1004.6,Rain
+24,2022-10-30,Chennai,Tamil Nadu,Autumn,29.4,70,8.2,1.65,1006.6,Fog
+25,2023-04-14,Ahmedabad,Gujarat,Monsoon,32.6,63,15.0,1.8,1006.9,Storm
+26,2022-08-11,Bangalore,Karnataka,Winter,16.8,85,1.3,1.06,1007.6,Storm
+27,2022-07-31,Ahmedabad,Gujarat,Monsoon,23.9,49,5.3,0.71,1012.2,Cloudy
+28,2022-08-24,Bangalore,Karnataka,Summer,35.7,82,25.9,0.35,1010.5,Haze
+29,2022-04-11,Pune,Maharashtra,Winter,23.6,59,26.6,1.05,1012.9,Haze
+30,2023-11-19,Pune,Maharashtra,Winter,30.3,84,15.9,0.76,1007.8,Cloudy
+31,2023-12-08,Lucknow,Uttar Pradesh,Summer,26.6,39,7.5,2.48,1018.7,Sunny
+32,2022-05-26,Kolkata,West Bengal,Autumn,25.4,57,7.4,0.08,1009.2,Sunny
+33,2022-11-23,Delhi,Delhi,Monsoon,30.4,89,32.6,3.44,1005.6,Fog
+34,2022-10-03,Hyderabad,Telangana,Winter,17.2,82,25.5,0.74,1012.0,Storm
+35,2022-09-28,Kolkata,West Bengal,Summer,36.1,49,19.5,2.47,1011.0,Storm
+36,2023-12-26,Bangalore,Karnataka,Autumn,25.4,81,21.2,0.8,1013.0,Cloudy
+37,2023-04-21,Delhi,Delhi,Summer,32.0,94,33.7,0.19,1018.1,Fog
+38,2023-02-28,Delhi,Delhi,Summer,34.9,73,0.8,2.96,1006.5,Storm
+39,2024-01-09,Bangalore,Karnataka,Summer,32.6,40,11.6,0.14,995.6,Storm
+40,2022-02-13,Delhi,Delhi,Monsoon,22.6,67,20.4,8.44,1012.0,Storm
+41,2022-03-06,Bangalore,Karnataka,Monsoon,22.3,54,10.0,2.7,1004.0,Haze
+42,2024-02-21,Pune,Maharashtra,Summer,35.1,93,15.2,1.65,1009.2,Sunny
+43,2023-07-20,Delhi,Delhi,Winter,21.4,80,6.4,1.55,1006.0,Rain
+44,2024-04-30,Kolkata,West Bengal,Autumn,25.6,77,0.0,3.76,1006.1,Fog
+45,2022-12-04,Bangalore,Karnataka,Autumn,25.1,80,29.0,0.85,1008.7,Haze
+46,2023-06-25,Chennai,Tamil Nadu,Autumn,30.0,92,26.3,1.95,1003.0,Rain
+47,2022-08-14,Lucknow,Uttar Pradesh,Autumn,26.5,75,11.3,1.11,1010.9,Haze
+48,2022-12-24,Ahmedabad,Gujarat,Summer,28.9,46,14.1,0.38,1005.2,Sunny
+49,2023-07-25,Kolkata,West Bengal,Winter,20.1,76,24.0,0.32,1009.6,Storm
+50,2023-06-03,Bangalore,Karnataka,Autumn,24.9,73,29.9,0.75,1010.1,Storm
+51,2023-03-31,Chennai,Tamil Nadu,Summer,33.7,65,19.9,0.63,1005.9,Fog
+52,2023-04-15,Kolkata,West Bengal,Summer,39.0,94,8.3,0.05,1014.4,Fog
+53,2022-05-17,Pune,Maharashtra,Monsoon,28.7,37,23.1,0.83,1011.4,Cloudy
+54,2023-10-20,Jaipur,Rajasthan,Autumn,19.7,76,29.6,1.82,1006.9,Fog
+55,2024-06-08,Kolkata,West Bengal,Autumn,24.5,88,16.8,0.41,1007.8,Fog
+56,2023-05-17,Delhi,Delhi,Summer,31.3,51,1.9,0.17,1004.6,Haze
+57,2024-04-16,Mumbai,Maharashtra,Monsoon,30.1,47,16.7,0.66,1007.7,Haze
+58,2022-12-23,Bangalore,Karnataka,Summer,30.4,65,5.1,1.39,1013.3,Rain
+59,2023-09-01,Bangalore,Karnataka,Monsoon,25.0,50,2.8,1.74,1017.8,Haze
+60,2022-01-05,Kolkata,West Bengal,Autumn,26.9,73,1.7,1.29,1011.8,Cloudy
+61,2023-12-23,Kolkata,West Bengal,Summer,39.0,62,20.5,3.49,1013.2,Fog
+62,2023-06-02,Kolkata,West Bengal,Winter,13.6,49,23.5,1.51,1003.9,Cloudy
+63,2022-01-31,Pune,Maharashtra,Summer,39.8,38,15.6,3.44,1008.1,Sunny
+64,2022-08-16,Pune,Maharashtra,Autumn,26.3,72,33.8,0.23,1016.5,Fog
+65,2023-03-31,Pune,Maharashtra,Autumn,30.5,81,16.0,2.18,1028.2,Rain
+66,2022-06-07,Mumbai,Maharashtra,Winter,22.0,64,12.8,1.98,1011.0,Rain
+67,2024-05-24,Bangalore,Karnataka,Autumn,23.1,42,19.4,0.31,1014.1,Fog
+68,2023-12-18,Lucknow,Uttar Pradesh,Summer,30.4,65,26.3,0.61,1004.8,Storm
+69,2022-12-28,Delhi,Delhi,Autumn,25.7,57,28.0,0.35,1017.3,Rain
+70,2022-01-19,Hyderabad,Telangana,Summer,34.0,80,17.9,0.78,1001.1,Haze
+71,2022-07-19,Hyderabad,Telangana,Autumn,23.3,78,4.6,0.47,1016.1,Cloudy
+72,2022-08-03,Bangalore,Karnataka,Autumn,31.8,50,15.0,0.12,1010.4,Sunny
+73,2023-01-07,Kolkata,West Bengal,Summer,33.5,74,26.8,0.42,1006.5,Rain
+74,2022-10-01,Jaipur,Rajasthan,Winter,22.1,83,21.9,0.15,1006.0,Fog
+75,2023-05-16,Delhi,Delhi,Winter,26.1,36,16.1,0.12,1016.5,Haze
+76,2024-03-13,Pune,Maharashtra,Winter,23.6,46,15.8,0.65,1007.4,Fog
+77,2023-08-04,Lucknow,Uttar Pradesh,Summer,32.8,40,21.6,0.01,1010.7,Cloudy
+78,2023-08-12,Pune,Maharashtra,Summer,32.7,85,31.7,1.59,1006.1,Haze
+79,2024-01-22,Bangalore,Karnataka,Autumn,24.8,36,6.6,0.97,1011.5,Fog
+80,2023-02-16,Chennai,Tamil Nadu,Summer,38.4,66,9.3,8.37,1011.2,Cloudy
+81,2022-01-29,Jaipur,Rajasthan,Monsoon,25.9,86,31.1,8.3,1006.2,Haze
+82,2024-02-13,Jaipur,Rajasthan,Autumn,24.3,78,34.7,1.61,1016.6,Cloudy
+83,2024-05-14,Delhi,Delhi,Autumn,27.8,92,32.2,0.05,1008.1,Haze
+84,2022-03-10,Delhi,Delhi,Winter,20.9,77,5.0,0.36,1012.3,Sunny
+85,2022-02-03,Kolkata,West Bengal,Summer,34.7,66,9.3,2.12,1017.8,Rain
+86,2023-01-23,Kolkata,West Bengal,Autumn,20.7,93,29.4,0.74,1015.0,Cloudy
+87,2024-03-09,Ahmedabad,Gujarat,Monsoon,25.9,81,31.0,3.42,1000.6,Cloudy
+88,2022-02-10,Lucknow,Uttar Pradesh,Summer,33.5,35,6.1,0.93,1008.8,Rain
+89,2022-05-30,Mumbai,Maharashtra,Monsoon,24.4,66,20.1,1.72,1008.5,Cloudy
+90,2022-01-24,Bangalore,Karnataka,Summer,35.5,63,6.1,0.85,1006.6,Fog
+91,2024-06-15,Delhi,Delhi,Monsoon,27.7,49,34.2,9.27,1003.3,Rain
+92,2024-01-23,Ahmedabad,Gujarat,Monsoon,32.3,45,2.3,2.4,1016.1,Fog
+93,2024-04-20,Lucknow,Uttar Pradesh,Autumn,28.8,68,34.0,1.46,998.7,Storm
+94,2022-03-19,Lucknow,Uttar Pradesh,Monsoon,29.2,47,16.7,0.05,1002.4,Fog
+95,2024-04-30,Mumbai,Maharashtra,Summer,31.2,47,16.4,0.61,1014.6,Fog
+96,2023-01-21,Lucknow,Uttar Pradesh,Summer,31.1,90,11.2,4.16,1007.7,Sunny
+97,2022-11-13,Mumbai,Maharashtra,Autumn,32.5,61,26.4,0.62,1005.8,Haze
+98,2023-12-22,Kolkata,West Bengal,Summer,37.0,82,4.6,0.02,1012.7,Cloudy
+99,2022-02-08,Chennai,Tamil Nadu,Summer,33.7,48,23.5,1.16,1015.2,Sunny
+100,2023-04-13,Pune,Maharashtra,Autumn,22.8,72,0.2,0.66,1011.6,Sunny
+101,2022-05-08,Lucknow,Uttar Pradesh,Winter,28.0,65,23.6,0.86,1017.4,Haze
+102,2023-11-22,Delhi,Delhi,Summer,39.3,40,12.3,1.94,1007.7,Fog
+103,2023-06-27,Delhi,Delhi,Summer,30.7,66,27.1,0.56,1004.2,Cloudy
+104,2023-11-18,Ahmedabad,Gujarat,Autumn,24.8,48,26.9,0.37,1009.3,Storm
+105,2024-01-26,Ahmedabad,Gujarat,Autumn,26.5,49,5.0,0.47,1000.7,Sunny
+106,2023-04-13,Ahmedabad,Gujarat,Winter,24.4,81,8.1,0.23,1017.5,Fog
+107,2024-04-22,Pune,Maharashtra,Autumn,26.7,53,10.7,1.8,1025.0,Fog
+108,2023-06-18,Bangalore,Karnataka,Winter,13.9,48,16.7,0.13,1011.7,Haze
+109,2023-01-17,Mumbai,Maharashtra,Autumn,24.6,92,15.1,0.52,1019.8,Haze
+110,2022-11-25,Hyderabad,Telangana,Autumn,22.5,36,22.5,1.4,1000.9,Fog
+111,2023-12-29,Kolkata,West Bengal,Autumn,26.4,77,22.3,0.91,1011.2,Rain
+112,2023-07-20,Lucknow,Uttar Pradesh,Autumn,25.6,68,14.9,1.52,1007.0,Haze
+113,2023-08-27,Bangalore,Karnataka,Monsoon,30.0,46,13.8,1.43,1015.5,Rain
+114,2022-03-01,Hyderabad,Telangana,Winter,16.0,44,4.6,0.23,1022.1,Sunny
+115,2022-02-01,Ahmedabad,Gujarat,Monsoon,28.7,67,12.5,0.46,1018.1,Fog
+116,2024-04-12,Kolkata,West Bengal,Summer,39.4,55,6.2,0.85,1013.3,Cloudy
+117,2022-12-12,Delhi,Delhi,Summer,31.6,40,20.4,0.49,1013.9,Storm
+118,2023-02-18,Bangalore,Karnataka,Autumn,21.6,52,29.6,1.69,1011.8,Fog
+119,2023-06-04,Bangalore,Karnataka,Winter,18.9,75,22.7,0.23,1017.8,Fog
+120,2023-11-24,Chennai,Tamil Nadu,Autumn,27.3,47,18.4,0.03,1014.8,Rain
+121,2023-11-23,Pune,Maharashtra,Winter,24.5,60,24.5,0.91,1005.8,Sunny
+122,2023-09-09,Hyderabad,Telangana,Monsoon,28.9,59,18.4,0.4,1011.5,Rain
+123,2024-05-25,Jaipur,Rajasthan,Summer,36.7,41,6.7,0.22,1007.5,Rain
+124,2022-11-26,Lucknow,Uttar Pradesh,Autumn,28.5,88,1.4,0.62,999.4,Sunny
+125,2023-04-17,Lucknow,Uttar Pradesh,Summer,40.6,53,23.6,0.25,1021.0,Fog
+126,2022-01-15,Ahmedabad,Gujarat,Winter,17.0,44,30.7,0.59,1015.8,Rain
+127,2024-04-06,Lucknow,Uttar Pradesh,Summer,42.2,63,4.4,0.14,1006.1,Haze
+128,2022-08-23,Ahmedabad,Gujarat,Summer,39.5,65,32.9,0.48,1013.8,Haze
+129,2022-09-02,Mumbai,Maharashtra,Monsoon,28.4,47,32.1,0.37,1005.0,Storm
+130,2022-12-22,Kolkata,West Bengal,Monsoon,26.6,64,19.8,11.77,1014.5,Haze
+131,2022-09-07,Bangalore,Karnataka,Summer,38.3,62,21.7,0.82,1012.8,Rain
+132,2022-11-13,Chennai,Tamil Nadu,Winter,19.9,49,0.4,0.09,1009.0,Storm
+133,2024-01-26,Pune,Maharashtra,Summer,27.6,93,21.5,0.76,1007.2,Sunny
+134,2022-02-01,Ahmedabad,Gujarat,Autumn,29.5,71,21.3,0.07,1009.8,Cloudy
+135,2022-07-05,Ahmedabad,Gujarat,Winter,11.1,53,32.9,0.25,1010.2,Fog
+136,2024-04-05,Bangalore,Karnataka,Summer,36.0,80,7.6,2.35,1022.0,Rain
+137,2024-03-29,Bangalore,Karnataka,Autumn,24.6,36,22.8,0.16,1019.7,Sunny
+138,2022-09-11,Pune,Maharashtra,Monsoon,28.3,73,11.2,16.18,1018.4,Cloudy
+139,2022-12-10,Chennai,Tamil Nadu,Summer,26.8,52,21.7,0.29,1011.4,Sunny
+140,2024-01-26,Chennai,Tamil Nadu,Summer,32.5,53,9.4,1.65,1010.6,Rain
+141,2024-01-04,Lucknow,Uttar Pradesh,Winter,13.9,65,11.5,1.66,1030.9,Cloudy
+142,2023-01-30,Jaipur,Rajasthan,Monsoon,29.0,39,32.3,1.31,998.9,Storm
+143,2022-01-07,Ahmedabad,Gujarat,Monsoon,27.5,39,0.5,2.16,1014.4,Sunny
+144,2022-12-25,Pune,Maharashtra,Monsoon,29.1,41,6.1,1.67,997.2,Storm
+145,2024-04-11,Chennai,Tamil Nadu,Summer,29.0,35,24.1,0.29,1011.7,Sunny
+146,2024-05-10,Hyderabad,Telangana,Winter,31.1,68,13.0,0.44,994.9,Haze
+147,2024-03-30,Hyderabad,Telangana,Autumn,24.2,42,17.6,0.18,1006.8,Storm
+148,2024-03-30,Jaipur,Rajasthan,Autumn,26.1,80,27.1,4.03,1001.7,Rain
+149,2022-02-16,Ahmedabad,Gujarat,Monsoon,27.7,35,23.2,7.04,990.5,Storm
+150,2022-04-08,Hyderabad,Telangana,Winter,20.0,65,17.5,0.01,1013.2,Rain
+151,2022-10-19,Jaipur,Rajasthan,Monsoon,22.3,91,30.1,6.72,1010.6,Rain
+152,2023-06-28,Jaipur,Rajasthan,Summer,33.7,43,34.4,0.94,1002.6,Haze
+153,2022-09-09,Pune,Maharashtra,Monsoon,35.4,39,16.4,2.23,997.2,Rain
+154,2023-07-29,Delhi,Delhi,Monsoon,27.5,69,20.3,10.35,1007.3,Storm
+155,2022-06-13,Lucknow,Uttar Pradesh,Winter,14.3,61,7.0,0.55,1009.9,Rain
+156,2024-03-28,Kolkata,West Bengal,Monsoon,26.5,44,22.5,4.37,1010.9,Fog
+157,2022-01-13,Ahmedabad,Gujarat,Winter,12.5,48,0.1,3.16,1020.6,Storm
+158,2022-02-24,Ahmedabad,Gujarat,Winter,17.7,48,17.5,0.09,1020.1,Cloudy
+159,2024-01-13,Jaipur,Rajasthan,Monsoon,24.4,66,34.0,0.64,1005.3,Cloudy
+160,2023-02-27,Mumbai,Maharashtra,Summer,33.9,44,22.3,2.54,1010.8,Fog
+161,2024-06-18,Kolkata,West Bengal,Summer,28.9,40,17.9,3.57,1004.9,Sunny
+162,2024-03-03,Mumbai,Maharashtra,Monsoon,31.2,91,6.3,3.99,1013.6,Storm
+163,2022-04-27,Chennai,Tamil Nadu,Monsoon,28.8,39,24.8,6.01,1004.7,Rain
+164,2022-11-30,Chennai,Tamil Nadu,Monsoon,23.4,52,12.9,0.61,1009.1,Sunny
+165,2023-02-10,Jaipur,Rajasthan,Winter,17.0,78,31.0,0.75,1006.2,Cloudy
+166,2022-12-13,Delhi,Delhi,Summer,36.3,70,10.2,0.7,1012.8,Haze
+167,2024-05-05,Hyderabad,Telangana,Winter,19.6,69,0.1,1.45,1004.9,Storm
+168,2023-09-22,Jaipur,Rajasthan,Summer,33.3,55,26.7,0.21,1004.7,Sunny
+169,2023-10-21,Jaipur,Rajasthan,Summer,30.2,63,13.6,0.31,1005.1,Sunny
+170,2022-06-29,Mumbai,Maharashtra,Autumn,24.3,49,14.9,0.42,1011.4,Haze
+171,2023-12-06,Chennai,Tamil Nadu,Summer,29.6,53,18.1,0.34,1021.9,Haze
+172,2023-08-14,Hyderabad,Telangana,Summer,36.0,77,19.2,1.38,1016.0,Sunny
+173,2023-07-22,Delhi,Delhi,Winter,7.3,59,12.0,1.58,1007.4,Fog
+174,2022-07-31,Chennai,Tamil Nadu,Autumn,25.6,74,8.9,0.32,1016.6,Cloudy
+175,2023-05-15,Kolkata,West Bengal,Summer,30.6,65,23.5,0.15,1017.9,Storm
+176,2022-07-07,Lucknow,Uttar Pradesh,Summer,31.5,40,18.4,0.08,1001.4,Rain
+177,2024-05-06,Chennai,Tamil Nadu,Monsoon,28.7,91,19.0,1.15,997.3,Sunny
+178,2023-10-27,Kolkata,West Bengal,Winter,23.5,84,33.9,0.03,1001.4,Sunny
+179,2023-01-26,Ahmedabad,Gujarat,Monsoon,27.6,35,16.4,0.95,1004.5,Haze
+180,2022-03-23,Lucknow,Uttar Pradesh,Autumn,25.6,35,24.3,1.11,1012.8,Rain
+181,2023-06-18,Lucknow,Uttar Pradesh,Monsoon,24.9,55,1.4,0.58,1013.2,Cloudy
+182,2022-07-08,Ahmedabad,Gujarat,Summer,39.2,81,21.2,0.72,1014.6,Fog
+183,2022-07-28,Pune,Maharashtra,Autumn,27.1,60,30.9,0.56,1002.4,Fog
+184,2024-03-18,Kolkata,West Bengal,Autumn,29.1,81,3.0,0.58,1013.5,Storm
+185,2023-11-13,Kolkata,West Bengal,Summer,33.5,69,10.1,0.71,1005.2,Cloudy
+186,2022-11-14,Mumbai,Maharashtra,Monsoon,29.0,38,6.1,1.82,1006.9,Rain
+187,2022-06-24,Chennai,Tamil Nadu,Autumn,26.4,35,24.7,0.03,1014.0,Cloudy
+188,2022-03-04,Chennai,Tamil Nadu,Monsoon,23.5,91,23.1,1.2,1007.4,Storm
+189,2023-02-07,Bangalore,Karnataka,Monsoon,29.2,64,17.4,0.05,1015.1,Cloudy
+190,2023-06-02,Kolkata,West Bengal,Summer,38.9,64,19.0,1.55,1012.7,Fog
+191,2023-06-26,Mumbai,Maharashtra,Winter,21.0,89,18.5,3.03,1026.1,Rain
+192,2023-07-11,Ahmedabad,Gujarat,Summer,31.2,51,2.8,0.36,1009.1,Cloudy
+193,2022-05-24,Delhi,Delhi,Monsoon,27.9,68,13.9,0.24,1017.3,Haze
+194,2023-08-02,Pune,Maharashtra,Monsoon,26.7,53,14.5,1.52,1015.1,Storm
+195,2023-10-28,Ahmedabad,Gujarat,Monsoon,29.5,75,31.3,1.92,1000.2,Haze
+196,2024-04-27,Hyderabad,Telangana,Summer,35.3,75,7.6,0.98,1017.7,Sunny
+197,2022-12-03,Jaipur,Rajasthan,Summer,40.6,62,10.4,1.57,1019.9,Haze
+198,2022-09-20,Ahmedabad,Gujarat,Autumn,21.9,83,23.1,0.57,1011.1,Rain
+199,2023-04-18,Lucknow,Uttar Pradesh,Summer,34.7,35,32.0,0.05,1015.4,Rain
+200,2022-03-25,Delhi,Delhi,Summer,32.6,53,3.0,0.06,1015.3,Sunny
+201,2022-02-19,Jaipur,Rajasthan,Monsoon,28.7,92,8.2,7.61,1003.0,Sunny
+202,2023-05-22,Chennai,Tamil Nadu,Monsoon,30.9,67,15.3,0.22,1012.7,Fog
+203,2023-05-19,Pune,Maharashtra,Summer,34.1,92,25.2,2.67,1015.5,Rain
+204,2022-10-04,Mumbai,Maharashtra,Monsoon,25.1,76,3.1,13.62,999.8,Cloudy
+205,2022-09-06,Chennai,Tamil Nadu,Autumn,28.2,71,10.8,0.64,1014.3,Sunny
+206,2024-02-20,Mumbai,Maharashtra,Autumn,31.8,76,12.2,0.14,1005.8,Fog
+207,2022-04-14,Pune,Maharashtra,Winter,22.5,44,34.7,0.15,1020.6,Haze
+208,2023-05-25,Pune,Maharashtra,Autumn,25.4,70,21.5,1.3,1012.1,Haze
+209,2023-05-14,Delhi,Delhi,Summer,35.7,37,16.7,0.03,1018.3,Sunny
+210,2022-02-23,Pune,Maharashtra,Autumn,25.1,54,32.7,0.37,1003.9,Cloudy
+211,2024-05-03,Mumbai,Maharashtra,Winter,17.5,57,8.2,0.62,1023.8,Haze
+212,2022-05-14,Delhi,Delhi,Autumn,25.4,45,25.4,0.4,995.2,Sunny
+213,2024-04-11,Lucknow,Uttar Pradesh,Winter,20.8,66,15.4,1.75,1003.7,Sunny
+214,2023-04-22,Bangalore,Karnataka,Summer,37.9,45,17.2,2.06,1010.5,Storm
+215,2022-03-24,Hyderabad,Telangana,Winter,24.1,56,28.7,0.67,1002.1,Cloudy
+216,2023-09-17,Hyderabad,Telangana,Monsoon,29.2,45,4.4,2.57,1007.6,Haze
+217,2024-04-07,Delhi,Delhi,Winter,23.0,85,29.4,0.46,1012.7,Storm
+218,2022-09-25,Kolkata,West Bengal,Monsoon,24.1,52,5.3,7.83,1012.7,Fog
+219,2023-12-03,Ahmedabad,Gujarat,Autumn,22.1,62,14.4,2.15,1010.5,Rain
+220,2023-10-30,Delhi,Delhi,Autumn,22.5,38,29.3,2.95,1022.6,Rain
+221,2022-08-16,Pune,Maharashtra,Autumn,23.5,81,15.3,0.12,993.9,Fog
+222,2024-05-01,Ahmedabad,Gujarat,Monsoon,23.3,51,22.3,4.52,1006.3,Fog
+223,2023-04-09,Jaipur,Rajasthan,Summer,36.3,91,7.1,0.7,1003.2,Storm
+224,2022-10-28,Lucknow,Uttar Pradesh,Monsoon,28.2,39,1.7,0.61,1009.7,Sunny
+225,2022-05-06,Pune,Maharashtra,Winter,13.7,70,31.4,2.06,997.3,Fog
+226,2024-03-11,Kolkata,West Bengal,Summer,31.7,88,17.4,0.45,1007.5,Cloudy
+227,2022-08-09,Jaipur,Rajasthan,Autumn,26.0,48,7.0,0.6,1008.1,Rain
+228,2024-04-24,Delhi,Delhi,Autumn,27.6,52,20.7,0.28,1003.0,Fog
+229,2022-06-08,Lucknow,Uttar Pradesh,Summer,28.4,40,10.2,3.98,1017.9,Storm
+230,2024-01-21,Pune,Maharashtra,Autumn,23.7,80,34.0,0.22,1015.8,Sunny
+231,2023-07-06,Ahmedabad,Gujarat,Autumn,24.9,78,0.0,0.83,1006.4,Storm
+232,2023-10-03,Ahmedabad,Gujarat,Summer,40.2,87,31.1,2.87,1017.3,Storm
+233,2022-09-10,Bangalore,Karnataka,Summer,31.2,37,29.5,4.05,1011.1,Storm
+234,2024-02-15,Bangalore,Karnataka,Winter,8.2,73,19.1,1.7,1002.1,Haze
+235,2024-05-22,Mumbai,Maharashtra,Summer,39.4,50,2.2,0.15,1013.0,Rain
+236,2024-02-14,Chennai,Tamil Nadu,Monsoon,29.4,78,6.4,11.91,1010.8,Cloudy
+237,2024-05-28,Pune,Maharashtra,Winter,12.0,53,14.1,0.15,1021.4,Fog
+238,2024-05-15,Pune,Maharashtra,Autumn,24.0,47,32.4,1.17,1011.8,Haze
+239,2024-06-13,Ahmedabad,Gujarat,Winter,18.4,78,24.5,2.67,991.2,Rain
+240,2023-11-01,Mumbai,Maharashtra,Autumn,27.2,43,2.5,3.85,1015.4,Fog
+241,2024-02-27,Lucknow,Uttar Pradesh,Winter,15.0,43,7.4,0.7,1024.2,Storm
+242,2023-08-06,Jaipur,Rajasthan,Monsoon,28.5,52,11.9,3.25,1015.8,Haze
+243,2023-05-31,Delhi,Delhi,Monsoon,32.3,88,23.7,4.65,1017.8,Storm
+244,2022-02-12,Delhi,Delhi,Summer,34.0,69,32.8,0.91,1005.6,Cloudy
+245,2022-12-31,Kolkata,West Bengal,Autumn,30.9,72,5.5,0.03,1007.2,Rain
+246,2022-01-23,Chennai,Tamil Nadu,Autumn,30.7,71,18.7,1.53,1011.4,Cloudy
+247,2022-02-22,Bangalore,Karnataka,Winter,20.8,40,26.6,0.71,1011.4,Cloudy
+248,2023-03-14,Mumbai,Maharashtra,Monsoon,29.6,67,26.7,3.96,1019.9,Cloudy
+249,2023-07-21,Bangalore,Karnataka,Monsoon,26.3,52,2.6,0.06,1015.8,Storm
+250,2024-05-02,Hyderabad,Telangana,Monsoon,26.0,41,24.0,2.67,1005.3,Haze
+251,2024-01-17,Kolkata,West Bengal,Monsoon,27.8,82,31.9,5.17,997.1,Fog
+252,2023-12-01,Kolkata,West Bengal,Autumn,29.5,65,27.0,0.4,1017.5,Cloudy
+253,2024-05-23,Pune,Maharashtra,Autumn,25.5,83,31.1,0.73,1023.2,Fog
+254,2024-03-26,Lucknow,Uttar Pradesh,Monsoon,30.5,55,21.2,18.59,997.3,Fog
+255,2022-01-03,Ahmedabad,Gujarat,Autumn,28.0,74,6.5,0.75,1020.6,Fog
+256,2022-12-17,Kolkata,West Bengal,Summer,33.4,62,6.2,1.97,1011.4,Sunny
+257,2022-12-27,Ahmedabad,Gujarat,Autumn,20.4,93,10.9,0.06,1010.0,Haze
+258,2023-10-02,Bangalore,Karnataka,Autumn,22.9,35,17.6,1.03,1013.8,Sunny
+259,2022-07-10,Hyderabad,Telangana,Summer,27.7,49,29.5,2.21,996.0,Storm
+260,2022-03-13,Mumbai,Maharashtra,Winter,17.3,72,7.9,3.55,1014.1,Cloudy
+261,2023-04-20,Hyderabad,Telangana,Summer,42.7,69,32.3,0.17,1002.8,Fog
+262,2022-05-02,Delhi,Delhi,Summer,28.2,35,12.1,0.17,1000.8,Storm
+263,2022-10-01,Hyderabad,Telangana,Autumn,27.1,76,20.1,2.07,1001.2,Haze
+264,2023-11-03,Delhi,Delhi,Summer,20.8,47,18.1,1.99,1000.3,Fog
+265,2024-01-05,Lucknow,Uttar Pradesh,Monsoon,28.0,57,9.0,1.79,1008.0,Fog
+266,2023-03-20,Jaipur,Rajasthan,Autumn,22.9,65,17.3,0.31,1003.5,Storm
+267,2023-04-08,Bangalore,Karnataka,Autumn,32.9,56,12.0,0.34,1009.5,Storm
+268,2022-09-16,Mumbai,Maharashtra,Monsoon,25.0,57,33.8,5.25,1003.4,Cloudy
+269,2022-06-06,Kolkata,West Bengal,Summer,36.2,70,34.2,1.17,1009.9,Fog
+270,2022-08-25,Delhi,Delhi,Winter,19.8,59,32.2,2.48,1003.1,Haze
+271,2023-04-15,Hyderabad,Telangana,Autumn,16.5,63,0.5,2.78,1005.4,Rain
+272,2022-09-19,Chennai,Tamil Nadu,Autumn,28.3,55,3.2,0.38,1002.4,Storm
+273,2023-10-31,Kolkata,West Bengal,Winter,16.3,71,22.1,0.51,1014.3,Storm
+274,2023-09-01,Hyderabad,Telangana,Autumn,32.7,74,29.4,0.1,1006.2,Sunny
+275,2022-08-27,Chennai,Tamil Nadu,Autumn,20.3,72,2.4,0.44,1013.9,Rain
+276,2023-07-08,Delhi,Delhi,Winter,13.4,46,11.9,0.4,1005.6,Cloudy
+277,2022-08-29,Mumbai,Maharashtra,Autumn,23.8,90,31.3,1.3,1012.5,Sunny
+278,2022-02-22,Chennai,Tamil Nadu,Winter,16.0,52,12.9,0.1,1016.2,Rain
+279,2024-04-08,Kolkata,West Bengal,Autumn,27.1,77,21.9,0.41,1015.8,Cloudy
+280,2024-03-11,Ahmedabad,Gujarat,Summer,35.2,72,16.7,0.23,1030.4,Cloudy
+281,2023-06-02,Pune,Maharashtra,Winter,18.1,35,5.8,0.48,1019.1,Haze
+282,2022-01-25,Delhi,Delhi,Monsoon,23.4,88,20.3,12.43,997.4,Sunny
+283,2023-04-02,Pune,Maharashtra,Autumn,25.9,55,7.9,1.45,1006.3,Sunny
+284,2023-05-05,Bangalore,Karnataka,Autumn,29.0,89,2.9,0.98,1009.5,Storm
+285,2023-04-03,Lucknow,Uttar Pradesh,Summer,34.1,51,23.5,0.21,1014.0,Haze
+286,2022-06-28,Lucknow,Uttar Pradesh,Summer,32.2,42,25.6,0.52,1014.8,Sunny
+287,2022-09-07,Bangalore,Karnataka,Summer,38.6,74,21.2,0.9,999.8,Rain
+288,2022-09-09,Mumbai,Maharashtra,Winter,26.2,60,16.7,1.07,1015.9,Rain
+289,2022-12-05,Lucknow,Uttar Pradesh,Autumn,27.0,38,30.4,0.78,1008.0,Haze
+290,2022-07-22,Hyderabad,Telangana,Autumn,27.9,69,14.6,0.19,1009.7,Rain
+291,2022-01-23,Hyderabad,Telangana,Summer,36.3,46,11.3,0.94,1002.7,Fog
+292,2022-05-24,Hyderabad,Telangana,Autumn,23.8,46,23.1,0.86,1011.0,Fog
+293,2022-07-27,Jaipur,Rajasthan,Monsoon,32.5,60,31.3,1.49,999.7,Storm
+294,2022-03-27,Jaipur,Rajasthan,Autumn,22.7,62,26.9,0.85,1015.3,Cloudy
+295,2023-06-09,Ahmedabad,Gujarat,Autumn,23.9,72,21.7,0.34,1012.5,Rain
+296,2022-07-20,Mumbai,Maharashtra,Winter,23.1,37,29.9,1.22,1013.2,Haze
+297,2023-03-18,Delhi,Delhi,Autumn,26.3,46,22.8,0.9,1003.8,Cloudy
+298,2023-05-26,Kolkata,West Bengal,Summer,33.7,82,21.9,0.3,1014.5,Fog
+299,2024-05-01,Delhi,Delhi,Monsoon,29.7,58,31.9,11.42,1007.0,Sunny
+300,2022-11-25,Hyderabad,Telangana,Winter,9.9,69,26.3,1.39,1013.9,Rain
+301,2023-10-13,Chennai,Tamil Nadu,Summer,39.2,59,22.1,1.24,1010.9,Storm
+302,2024-03-13,Ahmedabad,Gujarat,Summer,27.0,90,3.2,0.14,1005.0,Haze
+303,2022-02-07,Ahmedabad,Gujarat,Autumn,27.6,84,27.2,0.04,1003.6,Haze
+304,2023-02-21,Mumbai,Maharashtra,Monsoon,24.5,61,1.5,11.87,1019.7,Rain
+305,2023-02-11,Bangalore,Karnataka,Monsoon,27.4,93,30.1,2.45,1014.6,Storm
+306,2023-05-01,Jaipur,Rajasthan,Monsoon,27.5,69,21.7,16.92,1016.6,Sunny
+307,2022-10-24,Hyderabad,Telangana,Monsoon,21.2,59,17.2,1.2,1012.8,Sunny
+308,2022-09-08,Delhi,Delhi,Summer,34.4,67,28.0,0.7,1013.1,Storm
+309,2023-11-08,Chennai,Tamil Nadu,Winter,21.8,37,14.0,4.29,1010.5,Haze
+310,2022-05-24,Bangalore,Karnataka,Monsoon,27.6,73,13.7,0.97,996.2,Rain
+311,2024-04-08,Chennai,Tamil Nadu,Monsoon,28.0,39,8.9,1.37,1011.2,Haze
+312,2022-09-27,Pune,Maharashtra,Autumn,27.2,39,30.2,0.43,1009.2,Haze
+313,2022-01-19,Jaipur,Rajasthan,Autumn,24.9,42,1.5,4.58,1026.0,Fog
+314,2022-02-08,Delhi,Delhi,Monsoon,33.0,52,25.3,0.21,1020.3,Haze
+315,2022-04-30,Lucknow,Uttar Pradesh,Monsoon,27.9,61,33.7,1.32,1013.4,Sunny
+316,2022-01-24,Pune,Maharashtra,Monsoon,27.9,60,10.5,6.84,999.4,Fog
+317,2023-09-14,Lucknow,Uttar Pradesh,Monsoon,21.7,74,5.3,2.01,1008.3,Cloudy
+318,2022-02-09,Chennai,Tamil Nadu,Winter,13.6,71,18.5,0.44,1014.2,Haze
+319,2024-05-04,Hyderabad,Telangana,Winter,17.2,67,25.0,1.06,998.4,Storm
+320,2023-02-24,Lucknow,Uttar Pradesh,Winter,24.1,87,32.9,1.88,1001.2,Haze
+321,2023-11-23,Ahmedabad,Gujarat,Autumn,22.2,42,32.7,1.99,997.2,Cloudy
+322,2022-11-09,Chennai,Tamil Nadu,Autumn,29.1,91,20.0,1.22,1011.1,Haze
+323,2023-02-11,Chennai,Tamil Nadu,Summer,36.6,70,1.1,0.11,1008.4,Storm
+324,2022-02-22,Mumbai,Maharashtra,Summer,34.2,54,18.8,2.31,1007.8,Fog
+325,2022-01-25,Hyderabad,Telangana,Summer,28.7,60,33.4,1.65,1018.4,Fog
+326,2023-11-11,Kolkata,West Bengal,Autumn,24.7,42,8.2,0.35,1017.3,Fog
+327,2023-04-18,Hyderabad,Telangana,Monsoon,29.9,54,12.8,3.51,1015.1,Rain
+328,2023-08-18,Mumbai,Maharashtra,Autumn,25.9,46,13.8,1.48,998.6,Storm
+329,2023-05-31,Delhi,Delhi,Summer,25.0,62,0.1,1.29,1014.7,Rain
+330,2022-11-08,Lucknow,Uttar Pradesh,Autumn,27.5,36,8.5,2.45,1017.6,Cloudy
+331,2022-07-01,Bangalore,Karnataka,Autumn,28.2,42,19.8,1.52,1004.8,Fog
+332,2023-04-07,Chennai,Tamil Nadu,Summer,27.9,85,13.1,0.29,1013.5,Rain
+333,2023-11-16,Pune,Maharashtra,Autumn,29.2,38,15.1,0.06,1013.7,Rain
+334,2023-03-13,Chennai,Tamil Nadu,Winter,22.9,66,0.8,0.76,1008.3,Haze
+335,2023-11-15,Hyderabad,Telangana,Autumn,27.0,64,4.0,0.17,1012.5,Fog
+336,2023-10-10,Ahmedabad,Gujarat,Summer,39.6,38,11.1,0.0,999.5,Storm
+337,2023-09-28,Ahmedabad,Gujarat,Winter,24.0,43,16.3,0.68,1008.1,Cloudy
+338,2023-04-22,Jaipur,Rajasthan,Summer,31.9,58,29.9,0.12,1025.4,Rain
+339,2023-02-11,Chennai,Tamil Nadu,Autumn,22.9,53,10.8,2.25,1013.6,Storm
+340,2022-03-21,Delhi,Delhi,Summer,33.3,77,29.6,1.58,999.4,Cloudy
+341,2024-05-25,Bangalore,Karnataka,Autumn,31.2,57,23.4,2.54,1004.4,Sunny
+342,2024-06-08,Hyderabad,Telangana,Autumn,25.0,48,33.8,1.02,1008.2,Fog
+343,2024-02-13,Pune,Maharashtra,Autumn,28.4,74,17.3,6.51,1008.5,Cloudy
+344,2022-05-10,Bangalore,Karnataka,Winter,13.4,54,9.4,0.8,1026.4,Storm
+345,2024-01-22,Lucknow,Uttar Pradesh,Summer,33.2,55,28.8,2.4,1009.0,Storm
+346,2022-07-06,Jaipur,Rajasthan,Autumn,24.8,66,7.7,0.4,1017.0,Sunny
+347,2023-04-17,Bangalore,Karnataka,Summer,32.5,78,0.5,4.04,1007.5,Rain
+348,2023-11-02,Hyderabad,Telangana,Monsoon,21.9,45,28.0,1.25,1011.5,Storm
+349,2023-11-17,Pune,Maharashtra,Monsoon,28.8,75,15.8,10.96,1012.7,Rain
+350,2022-12-04,Jaipur,Rajasthan,Monsoon,32.4,58,16.2,1.63,1010.4,Sunny
+351,2022-07-14,Hyderabad,Telangana,Winter,13.1,35,23.4,1.14,1006.3,Rain
+352,2024-04-18,Chennai,Tamil Nadu,Winter,12.8,35,28.9,1.04,1017.3,Rain
+353,2024-03-03,Jaipur,Rajasthan,Monsoon,26.5,39,19.0,2.6,1017.2,Haze
+354,2022-10-31,Pune,Maharashtra,Winter,18.9,56,24.3,0.75,1011.1,Fog
+355,2024-04-29,Kolkata,West Bengal,Summer,27.5,79,31.4,1.04,1016.5,Rain
+356,2022-05-25,Jaipur,Rajasthan,Winter,19.8,61,3.9,0.76,1003.9,Sunny
+357,2023-04-02,Lucknow,Uttar Pradesh,Monsoon,24.4,65,29.9,7.73,1010.2,Rain
+358,2022-02-14,Pune,Maharashtra,Summer,27.9,90,18.2,1.19,1004.7,Storm
+359,2022-01-18,Mumbai,Maharashtra,Autumn,32.2,37,32.7,0.13,997.8,Sunny
+360,2022-09-04,Pune,Maharashtra,Monsoon,29.3,74,25.9,1.91,1007.1,Storm
+361,2023-05-27,Mumbai,Maharashtra,Monsoon,28.8,83,21.5,2.97,1016.7,Fog
+362,2023-09-05,Pune,Maharashtra,Summer,25.4,57,34.4,1.19,1011.0,Haze
+363,2022-10-15,Ahmedabad,Gujarat,Winter,14.8,47,4.0,0.44,1004.1,Sunny
+364,2023-11-12,Bangalore,Karnataka,Summer,34.3,70,34.4,0.54,1011.5,Rain
+365,2023-11-20,Hyderabad,Telangana,Winter,10.2,45,10.0,1.46,1003.2,Sunny
+366,2023-04-01,Hyderabad,Telangana,Monsoon,25.6,84,8.1,3.96,1019.4,Rain
+367,2023-04-15,Jaipur,Rajasthan,Winter,16.9,47,25.9,2.97,1000.8,Cloudy
+368,2022-06-18,Pune,Maharashtra,Autumn,31.3,54,8.7,0.68,1004.1,Fog
+369,2022-09-07,Bangalore,Karnataka,Monsoon,26.0,48,30.8,9.57,1017.1,Fog
+370,2022-06-16,Ahmedabad,Gujarat,Monsoon,28.7,64,30.9,1.1,999.0,Haze
+371,2023-07-16,Chennai,Tamil Nadu,Autumn,23.0,87,3.7,0.25,1011.3,Haze
+372,2023-10-06,Delhi,Delhi,Winter,21.4,71,13.2,0.55,1002.6,Sunny
+373,2024-03-21,Mumbai,Maharashtra,Monsoon,26.9,73,27.0,0.59,998.4,Storm
+374,2022-07-17,Hyderabad,Telangana,Monsoon,37.4,91,23.5,2.92,1002.2,Haze
+375,2022-07-03,Chennai,Tamil Nadu,Summer,25.7,89,7.9,1.86,1007.2,Fog
+376,2022-07-17,Ahmedabad,Gujarat,Autumn,24.6,94,34.4,0.14,1010.9,Sunny
+377,2023-09-27,Delhi,Delhi,Winter,11.6,59,9.8,0.38,1019.5,Fog
+378,2023-10-14,Delhi,Delhi,Summer,40.8,75,30.0,1.14,1015.0,Fog
+379,2024-04-19,Delhi,Delhi,Monsoon,33.8,37,22.2,1.3,1012.9,Fog
+380,2023-10-09,Mumbai,Maharashtra,Summer,34.9,62,5.7,1.05,1010.1,Rain
+381,2023-04-15,Chennai,Tamil Nadu,Winter,10.9,64,24.8,0.89,1010.7,Sunny
+382,2024-01-27,Ahmedabad,Gujarat,Winter,14.1,82,13.9,0.82,1004.8,Haze
+383,2024-01-18,Ahmedabad,Gujarat,Monsoon,27.3,44,9.8,2.2,1016.7,Sunny
+384,2024-02-17,Mumbai,Maharashtra,Summer,38.7,83,21.7,0.87,1015.7,Haze
+385,2022-11-04,Pune,Maharashtra,Autumn,23.2,85,11.2,0.16,1000.1,Storm
+386,2022-12-02,Bangalore,Karnataka,Winter,17.7,51,11.2,1.06,1007.2,Haze
+387,2024-03-09,Pune,Maharashtra,Monsoon,29.3,79,13.2,4.76,1010.5,Storm
+388,2023-05-13,Jaipur,Rajasthan,Summer,36.5,50,21.7,1.39,1011.9,Cloudy
+389,2022-02-04,Pune,Maharashtra,Autumn,24.5,75,23.5,0.23,999.9,Fog
+390,2022-06-30,Ahmedabad,Gujarat,Summer,28.6,66,18.8,1.49,1009.6,Rain
+391,2022-10-23,Ahmedabad,Gujarat,Summer,34.6,86,16.8,1.38,1009.6,Rain
+392,2024-03-21,Hyderabad,Telangana,Winter,8.6,88,6.6,0.5,1017.7,Sunny
+393,2024-01-02,Hyderabad,Telangana,Winter,24.0,73,18.4,0.03,998.9,Sunny
+394,2023-10-12,Jaipur,Rajasthan,Summer,28.9,61,25.6,0.58,1015.2,Cloudy
+395,2022-12-09,Pune,Maharashtra,Monsoon,27.3,71,8.5,11.31,1006.0,Rain
+396,2023-11-19,Jaipur,Rajasthan,Winter,11.4,78,25.1,1.22,1005.6,Fog
+397,2023-09-17,Pune,Maharashtra,Summer,31.9,44,15.4,0.75,998.3,Cloudy
+398,2022-12-14,Chennai,Tamil Nadu,Winter,20.8,74,25.6,0.79,1014.1,Rain
+399,2023-08-10,Mumbai,Maharashtra,Monsoon,30.5,68,26.5,1.97,1012.6,Storm
+400,2023-05-04,Chennai,Tamil Nadu,Winter,13.2,91,32.6,0.4,1000.0,Fog
+401,2022-07-15,Mumbai,Maharashtra,Autumn,29.5,90,9.4,1.14,1004.2,Cloudy
+402,2022-11-03,Pune,Maharashtra,Winter,17.9,91,9.6,0.66,1000.2,Haze
+403,2022-09-03,Chennai,Tamil Nadu,Autumn,29.2,35,20.5,0.05,1004.3,Fog
+404,2023-03-31,Lucknow,Uttar Pradesh,Monsoon,23.9,84,1.8,2.17,1007.1,Rain
+405,2022-04-16,Kolkata,West Bengal,Autumn,28.5,49,28.7,1.64,1010.1,Rain
+406,2023-09-15,Delhi,Delhi,Summer,28.2,70,29.3,0.75,1016.7,Fog
+407,2023-08-19,Kolkata,West Bengal,Autumn,23.1,66,14.6,0.54,1012.3,Sunny
+408,2023-09-12,Mumbai,Maharashtra,Summer,37.7,91,33.0,0.76,1012.8,Sunny
+409,2022-05-30,Lucknow,Uttar Pradesh,Summer,31.0,63,18.9,0.78,1008.7,Haze
+410,2022-07-15,Hyderabad,Telangana,Summer,34.4,61,1.2,1.18,1004.8,Rain
+411,2023-06-20,Chennai,Tamil Nadu,Monsoon,27.1,59,31.0,3.33,1015.9,Rain
+412,2022-03-02,Bangalore,Karnataka,Summer,43.5,46,26.0,0.44,1019.7,Haze
+413,2024-05-08,Pune,Maharashtra,Winter,19.3,86,9.6,0.11,1009.6,Rain
+414,2022-05-15,Pune,Maharashtra,Winter,15.7,88,1.8,1.37,1009.9,Haze
+415,2024-04-08,Mumbai,Maharashtra,Winter,22.8,66,23.2,0.09,1006.9,Storm
+416,2023-05-08,Hyderabad,Telangana,Autumn,29.7,89,26.8,0.34,1017.5,Sunny
+417,2022-03-13,Lucknow,Uttar Pradesh,Summer,36.0,77,32.6,0.31,1011.1,Cloudy
+418,2022-09-03,Delhi,Delhi,Monsoon,29.2,59,21.4,1.31,1001.6,Fog
+419,2024-03-23,Ahmedabad,Gujarat,Winter,23.2,38,1.7,0.59,998.7,Cloudy
+420,2024-03-13,Bangalore,Karnataka,Winter,13.7,44,12.2,0.59,1020.1,Rain
+421,2023-07-22,Kolkata,West Bengal,Summer,34.1,82,9.7,0.67,1005.5,Cloudy
+422,2022-03-13,Mumbai,Maharashtra,Monsoon,31.8,60,4.0,2.6,1019.0,Fog
+423,2023-02-23,Pune,Maharashtra,Summer,37.7,69,8.8,0.56,1016.7,Haze
+424,2023-08-09,Hyderabad,Telangana,Autumn,24.3,82,13.2,0.03,1013.6,Rain
+425,2022-09-11,Kolkata,West Bengal,Monsoon,28.7,59,9.7,3.82,1004.6,Storm
+426,2022-11-05,Delhi,Delhi,Autumn,28.2,88,27.5,0.1,1007.1,Sunny
+427,2022-09-24,Pune,Maharashtra,Autumn,24.2,56,32.4,0.52,999.5,Sunny
+428,2024-01-03,Hyderabad,Telangana,Summer,30.2,80,11.2,3.3,1007.8,Fog
+429,2022-03-19,Kolkata,West Bengal,Autumn,27.4,77,20.6,1.85,1017.0,Rain
+430,2023-09-28,Delhi,Delhi,Autumn,29.3,80,6.8,1.43,1022.9,Storm
+431,2023-08-12,Pune,Maharashtra,Summer,37.5,46,0.5,0.03,1009.4,Sunny
+432,2022-08-05,Hyderabad,Telangana,Winter,15.2,85,28.3,0.04,992.2,Haze
+433,2023-09-23,Pune,Maharashtra,Winter,23.2,71,30.0,1.04,1009.2,Cloudy
+434,2023-12-05,Jaipur,Rajasthan,Winter,23.8,40,14.1,0.66,1023.5,Cloudy
+435,2023-01-26,Jaipur,Rajasthan,Summer,33.4,61,6.1,0.18,1000.8,Storm
+436,2022-09-20,Pune,Maharashtra,Monsoon,28.5,75,30.4,4.32,1011.7,Storm
+437,2023-07-03,Jaipur,Rajasthan,Winter,14.4,37,26.5,2.78,1019.8,Haze
+438,2024-03-04,Kolkata,West Bengal,Winter,18.2,45,13.6,0.11,1008.6,Rain
+439,2022-09-09,Ahmedabad,Gujarat,Summer,28.8,82,31.7,1.01,993.7,Rain
+440,2023-05-20,Mumbai,Maharashtra,Monsoon,25.5,74,3.5,0.18,1021.1,Haze
+441,2023-02-23,Kolkata,West Bengal,Summer,23.7,36,19.8,0.04,1021.5,Haze
+442,2023-10-09,Bangalore,Karnataka,Autumn,27.4,83,15.8,0.43,1000.1,Rain
+443,2022-05-24,Lucknow,Uttar Pradesh,Monsoon,31.6,92,19.3,3.62,1007.8,Rain
+444,2023-01-19,Hyderabad,Telangana,Winter,16.5,85,29.1,0.17,1003.0,Cloudy
+445,2022-01-19,Hyderabad,Telangana,Autumn,24.4,67,12.3,3.2,1008.0,Haze
+446,2024-01-07,Bangalore,Karnataka,Autumn,29.0,61,22.6,0.93,1015.0,Haze
+447,2023-01-13,Jaipur,Rajasthan,Summer,32.1,68,0.3,0.9,995.9,Cloudy
+448,2023-09-15,Jaipur,Rajasthan,Winter,15.8,75,12.4,0.7,1016.6,Cloudy
+449,2024-03-26,Bangalore,Karnataka,Winter,23.3,89,30.5,0.3,1015.7,Fog
+450,2022-03-08,Jaipur,Rajasthan,Monsoon,28.4,48,8.5,3.16,1001.6,Haze
+451,2022-05-05,Bangalore,Karnataka,Autumn,20.9,42,5.6,1.26,1014.0,Storm
+452,2022-08-03,Chennai,Tamil Nadu,Autumn,26.2,86,4.1,0.91,1004.6,Sunny
+453,2022-01-08,Delhi,Delhi,Winter,19.6,63,31.4,0.86,1008.1,Sunny
+454,2023-08-08,Bangalore,Karnataka,Autumn,27.4,94,2.1,0.14,1010.4,Rain
+455,2023-02-24,Pune,Maharashtra,Summer,27.9,49,24.1,0.88,1004.4,Storm
+456,2022-06-07,Bangalore,Karnataka,Monsoon,29.3,36,25.8,1.17,1012.4,Haze
+457,2023-06-17,Lucknow,Uttar Pradesh,Winter,16.7,36,18.1,1.18,1004.2,Rain
+458,2022-12-04,Pune,Maharashtra,Winter,16.2,89,34.6,2.33,1004.8,Haze
+459,2023-02-03,Mumbai,Maharashtra,Autumn,30.8,60,10.4,0.42,1008.3,Fog
+460,2022-10-28,Lucknow,Uttar Pradesh,Monsoon,29.2,40,23.8,0.34,1012.7,Storm
+461,2023-09-05,Lucknow,Uttar Pradesh,Autumn,23.3,83,27.2,0.26,1016.5,Cloudy
+462,2022-05-20,Delhi,Delhi,Autumn,36.1,92,27.9,0.65,1012.9,Storm
+463,2023-10-18,Kolkata,West Bengal,Winter,13.6,56,28.7,1.21,1000.9,Sunny
+464,2022-03-28,Mumbai,Maharashtra,Autumn,33.8,38,0.7,0.51,1009.5,Storm
+465,2023-09-04,Delhi,Delhi,Monsoon,30.7,77,26.2,3.32,1016.4,Rain
+466,2023-08-09,Delhi,Delhi,Winter,19.3,65,34.6,0.83,1014.9,Rain
+467,2023-08-10,Jaipur,Rajasthan,Autumn,24.9,48,32.4,1.09,1011.1,Rain
+468,2023-04-27,Chennai,Tamil Nadu,Autumn,26.3,58,25.2,0.91,1022.4,Fog
+469,2023-12-11,Ahmedabad,Gujarat,Summer,36.7,86,10.7,2.85,1009.9,Storm
+470,2023-10-18,Ahmedabad,Gujarat,Autumn,26.8,64,1.1,0.26,1011.8,Haze
+471,2023-07-23,Lucknow,Uttar Pradesh,Autumn,30.4,77,12.0,0.27,1009.6,Haze
+472,2023-11-28,Lucknow,Uttar Pradesh,Summer,35.0,57,5.6,1.87,1008.6,Fog
+473,2022-07-21,Mumbai,Maharashtra,Autumn,32.0,40,10.8,0.88,1016.8,Fog
+474,2022-02-05,Bangalore,Karnataka,Autumn,34.5,39,6.7,2.34,1012.8,Rain
+475,2022-01-26,Jaipur,Rajasthan,Winter,24.5,40,18.6,0.4,1005.0,Haze
+476,2023-05-18,Kolkata,West Bengal,Winter,11.5,79,34.1,1.41,1006.3,Fog
+477,2023-07-04,Pune,Maharashtra,Autumn,27.7,47,21.4,0.16,1003.7,Cloudy
+478,2022-02-01,Mumbai,Maharashtra,Monsoon,28.2,67,16.5,3.66,1011.3,Storm
+479,2023-04-09,Chennai,Tamil Nadu,Winter,12.7,59,33.4,0.43,1004.9,Fog
+480,2022-01-20,Mumbai,Maharashtra,Summer,34.4,46,25.8,1.66,1015.3,Haze
+481,2022-08-13,Ahmedabad,Gujarat,Monsoon,28.0,73,25.1,11.31,1013.1,Fog
+482,2022-09-14,Chennai,Tamil Nadu,Summer,34.9,78,25.1,1.38,1025.0,Rain
+483,2023-03-23,Ahmedabad,Gujarat,Summer,30.6,94,11.9,0.68,1007.5,Rain
+484,2023-02-19,Lucknow,Uttar Pradesh,Monsoon,26.8,58,7.7,2.66,1003.9,Haze
+485,2023-11-20,Ahmedabad,Gujarat,Monsoon,29.8,35,28.6,2.8,1019.3,Storm
+486,2023-07-11,Lucknow,Uttar Pradesh,Winter,14.0,80,6.5,0.56,1003.3,Rain
+487,2024-02-25,Jaipur,Rajasthan,Winter,18.0,93,9.1,1.2,1002.8,Rain
+488,2022-07-27,Ahmedabad,Gujarat,Summer,33.4,80,9.3,1.19,1014.4,Fog
+489,2023-09-25,Mumbai,Maharashtra,Winter,20.5,40,32.8,2.34,1018.3,Haze
+490,2022-04-15,Chennai,Tamil Nadu,Summer,34.3,64,25.8,1.96,1005.3,Storm
+491,2024-01-08,Lucknow,Uttar Pradesh,Summer,32.5,64,22.5,2.09,1000.8,Rain
+492,2023-03-07,Pune,Maharashtra,Summer,30.3,50,10.2,1.26,1009.3,Rain
+493,2024-02-27,Mumbai,Maharashtra,Autumn,21.4,86,24.4,0.59,1011.8,Cloudy
+494,2024-04-05,Lucknow,Uttar Pradesh,Autumn,21.4,37,7.5,0.68,1004.0,Rain
+495,2024-01-21,Jaipur,Rajasthan,Summer,31.5,47,34.4,0.15,1015.1,Cloudy
+496,2024-03-05,Hyderabad,Telangana,Autumn,28.3,83,29.5,1.97,1004.5,Storm
+497,2022-09-03,Pune,Maharashtra,Summer,32.2,50,20.1,0.83,1011.7,Sunny
+498,2022-08-31,Kolkata,West Bengal,Summer,34.7,48,18.1,0.74,1004.5,Cloudy
+499,2023-04-23,Lucknow,Uttar Pradesh,Monsoon,25.2,86,11.3,12.58,1013.7,Cloudy
+500,2023-02-11,Kolkata,West Bengal,Monsoon,30.4,56,0.6,3.25,1001.1,Haze
+501,2023-02-17,Bangalore,Karnataka,Autumn,23.5,38,5.8,1.3,1006.8,Sunny
+502,2022-03-03,Hyderabad,Telangana,Winter,21.6,38,8.3,0.02,1006.4,Sunny
+503,2023-11-29,Mumbai,Maharashtra,Winter,23.5,88,3.8,0.19,1014.3,Storm
+504,2022-07-22,Ahmedabad,Gujarat,Summer,32.6,90,6.0,0.21,1006.9,Cloudy
+505,2022-08-09,Mumbai,Maharashtra,Monsoon,24.2,78,34.9,0.56,1008.6,Haze
+506,2023-01-21,Bangalore,Karnataka,Summer,28.9,42,16.2,2.24,1007.1,Haze
+507,2023-09-05,Bangalore,Karnataka,Summer,29.5,69,0.3,0.85,1007.1,Storm
+508,2024-05-30,Hyderabad,Telangana,Summer,36.6,84,3.2,0.87,1012.1,Haze
+509,2022-03-11,Kolkata,West Bengal,Summer,33.2,75,28.0,1.67,1010.1,Haze
+510,2022-10-03,Pune,Maharashtra,Winter,17.2,77,29.0,1.1,1005.6,Cloudy
+511,2024-01-13,Lucknow,Uttar Pradesh,Winter,14.4,84,0.9,1.33,1019.7,Cloudy
+512,2022-09-25,Ahmedabad,Gujarat,Winter,12.6,56,23.0,0.23,999.7,Sunny
+513,2023-01-28,Kolkata,West Bengal,Autumn,28.7,53,33.8,0.83,1003.4,Haze
+514,2023-04-25,Mumbai,Maharashtra,Autumn,24.1,54,32.4,0.65,1006.2,Haze
+515,2022-03-06,Delhi,Delhi,Autumn,23.0,92,1.4,1.55,1008.3,Sunny
+516,2024-06-15,Jaipur,Rajasthan,Autumn,25.8,43,33.2,0.58,1020.7,Cloudy
+517,2023-01-07,Ahmedabad,Gujarat,Summer,38.8,45,23.1,1.19,1012.7,Cloudy
+518,2022-01-23,Pune,Maharashtra,Autumn,23.1,84,7.9,0.0,1004.5,Cloudy
+519,2024-02-16,Delhi,Delhi,Autumn,28.3,41,10.5,0.81,1008.3,Rain
+520,2023-03-22,Chennai,Tamil Nadu,Autumn,28.5,88,15.1,1.17,1022.7,Storm
+521,2024-02-15,Jaipur,Rajasthan,Summer,37.7,41,34.5,0.87,1004.9,Rain
+522,2023-03-31,Jaipur,Rajasthan,Autumn,26.0,44,25.9,5.89,1009.2,Rain
+523,2023-05-27,Chennai,Tamil Nadu,Summer,33.1,69,17.9,0.44,1015.6,Rain
+524,2022-09-09,Pune,Maharashtra,Summer,34.3,73,9.6,1.3,1004.0,Haze
+525,2024-04-26,Jaipur,Rajasthan,Autumn,29.6,72,2.0,0.1,996.4,Fog
+526,2022-05-28,Kolkata,West Bengal,Autumn,23.9,90,6.7,0.4,1007.7,Storm
+527,2022-03-19,Mumbai,Maharashtra,Winter,15.0,66,10.7,0.79,1020.5,Cloudy
+528,2022-02-21,Delhi,Delhi,Monsoon,25.3,84,22.8,7.38,1001.9,Sunny
+529,2023-02-02,Kolkata,West Bengal,Winter,21.6,60,30.7,4.49,1018.6,Sunny
+530,2022-03-28,Delhi,Delhi,Summer,31.8,69,11.0,0.46,1014.8,Sunny
+531,2022-10-29,Pune,Maharashtra,Summer,39.3,85,7.5,0.29,997.8,Fog
+532,2022-08-26,Hyderabad,Telangana,Winter,18.6,72,17.1,5.42,1006.0,Sunny
+533,2023-08-05,Chennai,Tamil Nadu,Winter,14.0,75,7.5,0.78,1001.3,Fog
+534,2023-07-12,Pune,Maharashtra,Monsoon,30.7,80,24.6,4.3,1014.0,Sunny
+535,2022-06-18,Delhi,Delhi,Summer,39.8,86,30.0,1.49,1011.0,Rain
+536,2023-12-06,Mumbai,Maharashtra,Winter,18.3,37,25.2,0.2,1013.8,Storm
+537,2023-09-13,Bangalore,Karnataka,Autumn,29.6,49,6.2,0.36,1018.6,Storm
+538,2023-09-05,Hyderabad,Telangana,Autumn,29.4,68,3.4,0.77,1016.0,Sunny
+539,2022-04-25,Delhi,Delhi,Winter,17.8,66,29.0,1.36,1020.8,Fog
+540,2022-05-04,Ahmedabad,Gujarat,Autumn,25.9,54,15.1,0.4,1010.3,Storm
+541,2023-04-15,Hyderabad,Telangana,Summer,34.3,46,12.7,0.33,1010.6,Sunny
+542,2022-01-29,Mumbai,Maharashtra,Winter,25.3,65,15.0,2.74,1012.9,Sunny
+543,2022-09-05,Lucknow,Uttar Pradesh,Monsoon,30.0,45,23.6,2.08,1016.3,Sunny
+544,2024-03-17,Lucknow,Uttar Pradesh,Winter,16.4,93,17.4,0.47,1012.5,Sunny
+545,2023-08-03,Hyderabad,Telangana,Summer,25.9,77,29.6,0.54,1004.8,Cloudy
+546,2022-09-03,Ahmedabad,Gujarat,Monsoon,25.7,57,21.7,1.28,1016.1,Rain
+547,2024-05-29,Kolkata,West Bengal,Monsoon,27.3,87,5.8,3.26,1002.2,Rain
+548,2022-02-28,Ahmedabad,Gujarat,Summer,24.7,91,34.2,0.62,997.8,Sunny
+549,2024-05-27,Kolkata,West Bengal,Summer,42.0,91,7.9,0.12,1011.5,Rain
+550,2022-04-28,Bangalore,Karnataka,Monsoon,29.5,85,20.5,1.91,997.6,Sunny
+551,2023-01-10,Bangalore,Karnataka,Autumn,24.2,61,0.6,0.49,1003.3,Fog
+552,2022-04-25,Ahmedabad,Gujarat,Monsoon,24.5,44,33.5,3.33,1005.3,Cloudy
+553,2024-03-18,Bangalore,Karnataka,Autumn,23.7,82,8.4,0.11,1009.3,Storm
+554,2022-11-13,Delhi,Delhi,Autumn,30.7,55,15.3,1.58,1014.6,Fog
+555,2023-07-18,Mumbai,Maharashtra,Monsoon,27.8,48,30.9,1.29,1021.6,Storm
+556,2024-04-21,Lucknow,Uttar Pradesh,Winter,8.1,39,4.5,1.48,1015.7,Storm
+557,2023-12-12,Bangalore,Karnataka,Winter,18.5,72,34.6,0.38,1021.9,Sunny
+558,2023-12-24,Chennai,Tamil Nadu,Winter,21.8,85,11.8,2.14,1012.4,Rain
+559,2023-07-02,Lucknow,Uttar Pradesh,Winter,16.2,44,30.3,0.36,1015.4,Rain
+560,2022-05-15,Hyderabad,Telangana,Autumn,22.2,70,14.7,0.49,1001.9,Storm
+561,2023-08-31,Delhi,Delhi,Monsoon,25.4,58,26.4,4.49,1013.9,Sunny
+562,2023-07-24,Hyderabad,Telangana,Monsoon,26.5,58,8.0,0.12,1018.5,Rain
+563,2023-04-17,Hyderabad,Telangana,Autumn,28.0,75,27.9,0.01,995.5,Storm
+564,2023-06-13,Ahmedabad,Gujarat,Winter,18.1,76,29.6,0.82,1010.5,Haze
+565,2022-02-01,Delhi,Delhi,Monsoon,27.3,54,5.4,1.9,1001.4,Sunny
+566,2022-06-16,Kolkata,West Bengal,Winter,12.4,53,4.3,0.42,1007.1,Fog
+567,2023-02-01,Pune,Maharashtra,Winter,16.0,46,21.5,1.68,1010.5,Cloudy
+568,2023-03-20,Chennai,Tamil Nadu,Autumn,25.6,54,3.1,0.36,1007.8,Fog
+569,2024-01-27,Hyderabad,Telangana,Autumn,26.2,47,3.6,1.54,1010.9,Cloudy
+570,2023-10-20,Lucknow,Uttar Pradesh,Autumn,29.6,71,30.5,0.25,1004.6,Storm
+571,2022-08-16,Jaipur,Rajasthan,Monsoon,29.1,81,11.6,4.31,1011.4,Storm
+572,2022-09-09,Ahmedabad,Gujarat,Autumn,31.4,50,12.4,0.39,1004.7,Storm
+573,2024-02-17,Kolkata,West Bengal,Summer,32.5,67,32.9,0.47,1015.8,Haze
+574,2022-03-03,Delhi,Delhi,Winter,19.2,55,3.4,1.67,1020.5,Cloudy
+575,2023-01-25,Kolkata,West Bengal,Autumn,22.3,69,15.5,0.7,1010.4,Haze
+576,2022-07-16,Kolkata,West Bengal,Summer,34.4,52,23.9,0.55,1013.1,Storm
+577,2023-01-18,Pune,Maharashtra,Monsoon,27.4,85,8.4,3.27,996.2,Fog
+578,2022-04-14,Ahmedabad,Gujarat,Winter,15.9,89,5.5,1.4,1005.7,Fog
+579,2022-02-23,Chennai,Tamil Nadu,Monsoon,32.3,74,15.5,0.92,1008.6,Haze
+580,2022-02-01,Delhi,Delhi,Winter,22.7,60,31.8,1.53,1003.2,Haze
+581,2022-09-28,Pune,Maharashtra,Monsoon,30.2,52,22.8,6.74,1013.9,Sunny
+582,2024-06-06,Bangalore,Karnataka,Autumn,25.3,79,9.1,0.41,1017.4,Cloudy
+583,2023-11-25,Kolkata,West Bengal,Autumn,25.0,71,12.2,0.77,1014.7,Cloudy
+584,2023-03-13,Ahmedabad,Gujarat,Winter,20.2,46,4.7,0.03,1014.6,Haze
+585,2022-08-27,Lucknow,Uttar Pradesh,Autumn,24.5,61,2.3,2.12,1010.1,Storm
+586,2022-02-18,Chennai,Tamil Nadu,Monsoon,29.6,51,15.0,2.05,1007.7,Sunny
+587,2022-06-07,Kolkata,West Bengal,Monsoon,30.6,91,8.8,4.81,1014.9,Storm
+588,2023-09-24,Chennai,Tamil Nadu,Winter,12.2,44,8.1,0.66,1003.1,Fog
+589,2022-10-28,Delhi,Delhi,Winter,11.1,87,34.5,0.25,1013.4,Cloudy
+590,2024-03-07,Lucknow,Uttar Pradesh,Summer,36.7,82,2.1,1.12,1016.3,Rain
+591,2024-01-12,Ahmedabad,Gujarat,Summer,32.8,46,1.1,0.47,1022.4,Haze
+592,2023-08-03,Pune,Maharashtra,Summer,35.0,43,11.9,0.55,1005.0,Haze
+593,2023-03-27,Bangalore,Karnataka,Summer,30.0,75,34.3,0.69,1005.7,Fog
+594,2022-01-12,Kolkata,West Bengal,Monsoon,30.7,35,17.1,2.01,1005.6,Sunny
+595,2023-11-22,Ahmedabad,Gujarat,Monsoon,26.6,41,4.1,2.83,1018.2,Storm
+596,2023-03-12,Lucknow,Uttar Pradesh,Summer,27.9,58,30.3,0.19,1012.6,Storm
+597,2023-07-01,Jaipur,Rajasthan,Autumn,23.1,58,29.5,0.13,1010.4,Rain
+598,2023-01-30,Lucknow,Uttar Pradesh,Monsoon,28.9,45,31.8,2.29,1012.8,Haze
+599,2023-11-09,Bangalore,Karnataka,Monsoon,24.3,73,5.2,6.44,1013.6,Cloudy
+600,2022-04-21,Hyderabad,Telangana,Winter,21.9,37,3.8,0.07,1012.5,Cloudy
+601,2023-11-06,Jaipur,Rajasthan,Summer,35.8,40,4.7,0.17,1006.6,Sunny
+602,2023-09-21,Hyderabad,Telangana,Summer,47.6,37,24.8,0.67,1013.2,Storm
+603,2024-05-13,Hyderabad,Telangana,Winter,16.7,72,34.4,1.18,1014.4,Rain
+604,2022-09-20,Jaipur,Rajasthan,Winter,17.7,65,1.5,0.45,1010.2,Cloudy
+605,2023-02-14,Mumbai,Maharashtra,Summer,35.8,56,4.1,0.83,1013.7,Rain
+606,2023-06-21,Mumbai,Maharashtra,Monsoon,24.5,35,28.6,1.3,1013.1,Sunny
+607,2022-12-21,Kolkata,West Bengal,Winter,22.0,61,10.3,0.93,1003.8,Haze
+608,2023-10-23,Delhi,Delhi,Summer,32.5,47,25.6,2.64,1003.3,Sunny
+609,2023-03-07,Delhi,Delhi,Monsoon,25.2,81,11.1,1.92,985.4,Cloudy
+610,2024-01-24,Lucknow,Uttar Pradesh,Winter,24.3,72,9.4,0.19,1011.2,Rain
+611,2023-04-13,Pune,Maharashtra,Winter,11.7,38,32.0,0.31,1006.3,Fog
+612,2022-02-07,Mumbai,Maharashtra,Monsoon,31.4,38,28.2,1.07,1020.2,Cloudy
+613,2024-05-27,Lucknow,Uttar Pradesh,Autumn,28.6,42,7.2,1.27,1003.2,Sunny
+614,2022-11-24,Pune,Maharashtra,Winter,16.8,58,28.6,0.38,1009.9,Storm
+615,2022-10-05,Chennai,Tamil Nadu,Monsoon,29.1,41,10.4,4.03,1012.0,Sunny
+616,2024-02-12,Pune,Maharashtra,Summer,32.6,85,9.4,0.05,1012.6,Sunny
+617,2022-05-14,Pune,Maharashtra,Autumn,23.9,45,10.0,0.19,1011.8,Fog
+618,2023-11-12,Ahmedabad,Gujarat,Autumn,24.9,66,20.9,0.04,1002.1,Storm
+619,2022-04-05,Bangalore,Karnataka,Monsoon,29.6,64,28.0,2.46,1007.8,Rain
+620,2023-01-17,Mumbai,Maharashtra,Summer,34.8,42,32.1,0.34,1004.6,Haze
+621,2022-06-09,Ahmedabad,Gujarat,Monsoon,27.8,48,18.9,1.92,1018.8,Cloudy
+622,2023-12-20,Delhi,Delhi,Winter,16.0,55,2.9,0.65,1019.7,Storm
+623,2024-04-14,Chennai,Tamil Nadu,Autumn,20.6,90,9.4,0.16,1020.8,Rain
+624,2023-01-08,Pune,Maharashtra,Autumn,25.7,55,8.4,0.18,1003.2,Fog
+625,2023-03-19,Mumbai,Maharashtra,Summer,34.2,59,23.8,0.62,1004.9,Cloudy
+626,2022-01-11,Hyderabad,Telangana,Autumn,27.8,53,10.8,0.18,1002.7,Fog
+627,2023-01-16,Chennai,Tamil Nadu,Summer,35.2,38,27.2,1.49,1014.3,Fog
+628,2023-11-05,Chennai,Tamil Nadu,Summer,30.0,54,19.4,0.32,1016.5,Fog
+629,2023-07-08,Lucknow,Uttar Pradesh,Summer,35.0,62,30.6,0.13,1005.4,Rain
+630,2024-02-20,Bangalore,Karnataka,Autumn,28.7,69,31.9,0.84,1016.9,Storm
+631,2023-01-10,Pune,Maharashtra,Summer,30.9,88,24.9,1.23,1002.6,Storm
+632,2023-11-15,Kolkata,West Bengal,Winter,19.1,94,1.9,2.57,1016.8,Cloudy
+633,2023-12-01,Delhi,Delhi,Autumn,24.1,81,10.5,0.14,1008.2,Sunny
+634,2024-04-21,Delhi,Delhi,Monsoon,30.8,44,18.8,3.08,1005.2,Fog
+635,2022-02-10,Mumbai,Maharashtra,Monsoon,29.4,70,15.3,1.31,1019.2,Haze
+636,2023-10-12,Delhi,Delhi,Winter,14.1,73,0.5,0.58,1008.3,Haze
+637,2023-12-25,Bangalore,Karnataka,Monsoon,30.8,60,29.0,0.92,1012.3,Rain
+638,2022-05-30,Chennai,Tamil Nadu,Monsoon,28.3,59,17.2,8.28,1007.2,Cloudy
+639,2022-04-11,Hyderabad,Telangana,Winter,19.7,47,34.3,1.12,1011.1,Storm
+640,2023-08-20,Chennai,Tamil Nadu,Winter,22.7,65,26.7,1.76,1011.2,Storm
+641,2023-07-20,Bangalore,Karnataka,Winter,9.0,45,0.0,0.01,1014.9,Fog
+642,2024-06-13,Jaipur,Rajasthan,Summer,33.0,45,11.1,0.68,1021.8,Haze
+643,2023-10-20,Pune,Maharashtra,Summer,27.4,86,7.7,0.24,999.2,Fog
+644,2022-06-02,Chennai,Tamil Nadu,Autumn,23.7,57,31.1,1.52,1005.2,Fog
+645,2023-08-10,Lucknow,Uttar Pradesh,Winter,22.5,62,25.2,0.85,1014.4,Fog
+646,2024-02-10,Chennai,Tamil Nadu,Winter,12.7,73,7.8,5.85,1012.4,Fog
+647,2023-08-12,Kolkata,West Bengal,Autumn,28.7,88,8.6,1.57,1021.7,Sunny
+648,2023-04-08,Ahmedabad,Gujarat,Autumn,31.4,88,34.8,1.07,1003.9,Fog
+649,2022-06-25,Kolkata,West Bengal,Summer,36.8,46,8.5,2.05,1014.1,Cloudy
+650,2023-01-10,Pune,Maharashtra,Autumn,24.3,68,19.7,1.75,1009.4,Storm
+651,2023-01-14,Chennai,Tamil Nadu,Monsoon,28.4,63,31.9,1.21,1008.3,Sunny
+652,2023-01-25,Bangalore,Karnataka,Autumn,27.4,50,1.3,0.87,1004.2,Cloudy
+653,2024-01-10,Ahmedabad,Gujarat,Autumn,23.7,82,8.1,1.36,999.1,Haze
+654,2022-01-16,Jaipur,Rajasthan,Winter,15.7,88,4.2,2.22,1022.5,Storm
+655,2022-01-03,Pune,Maharashtra,Monsoon,33.7,40,16.2,3.75,998.4,Rain
+656,2022-07-21,Hyderabad,Telangana,Winter,17.5,62,19.2,0.83,1004.9,Cloudy
+657,2022-10-16,Kolkata,West Bengal,Summer,29.5,60,1.3,0.48,1004.9,Fog
+658,2023-03-19,Lucknow,Uttar Pradesh,Monsoon,26.7,67,16.1,4.6,1015.6,Fog
+659,2023-12-04,Bangalore,Karnataka,Winter,32.0,71,31.3,0.76,1019.8,Rain
+660,2022-08-09,Pune,Maharashtra,Winter,9.1,91,4.6,0.56,1004.4,Sunny
+661,2023-06-09,Pune,Maharashtra,Monsoon,26.5,92,32.8,1.88,1018.1,Cloudy
+662,2024-03-11,Pune,Maharashtra,Summer,31.2,69,11.0,0.26,1001.1,Haze
+663,2024-03-01,Bangalore,Karnataka,Autumn,24.0,58,4.2,0.3,1010.5,Storm
+664,2023-12-02,Pune,Maharashtra,Winter,14.0,35,22.2,1.04,1015.1,Cloudy
+665,2024-02-20,Pune,Maharashtra,Summer,41.5,72,10.3,0.4,1015.5,Haze
+666,2022-10-27,Chennai,Tamil Nadu,Autumn,30.4,62,27.9,0.95,1002.2,Sunny
+667,2022-06-09,Mumbai,Maharashtra,Monsoon,27.5,76,5.2,1.26,997.0,Rain
+668,2023-07-21,Chennai,Tamil Nadu,Monsoon,27.9,71,30.2,2.48,1003.3,Rain
+669,2023-09-18,Pune,Maharashtra,Winter,19.0,82,19.5,0.21,1009.7,Cloudy
+670,2024-03-22,Hyderabad,Telangana,Monsoon,31.3,58,21.8,1.19,1017.0,Storm
+671,2023-03-06,Delhi,Delhi,Monsoon,31.2,60,9.9,0.88,1017.0,Haze
+672,2022-01-30,Lucknow,Uttar Pradesh,Autumn,26.2,88,15.0,0.96,1007.1,Cloudy
+673,2022-05-03,Ahmedabad,Gujarat,Winter,11.7,89,24.7,1.59,1011.5,Sunny
+674,2023-01-08,Lucknow,Uttar Pradesh,Autumn,23.9,79,3.4,1.62,1003.3,Cloudy
+675,2022-09-20,Hyderabad,Telangana,Summer,36.7,44,21.1,0.78,1008.0,Haze
+676,2024-05-25,Bangalore,Karnataka,Autumn,24.9,91,16.6,1.43,1019.9,Haze
+677,2022-04-19,Pune,Maharashtra,Winter,11.0,59,0.7,0.74,1000.9,Haze
+678,2023-02-26,Hyderabad,Telangana,Winter,14.7,40,8.5,2.04,1008.3,Sunny
+679,2023-06-19,Lucknow,Uttar Pradesh,Monsoon,30.9,41,3.7,5.1,1020.2,Sunny
+680,2022-06-18,Ahmedabad,Gujarat,Winter,20.5,41,12.6,1.92,1021.0,Rain
+681,2022-06-10,Bangalore,Karnataka,Monsoon,32.8,50,18.5,0.42,1005.8,Haze
+682,2022-11-19,Kolkata,West Bengal,Winter,16.5,83,14.2,0.13,1016.0,Cloudy
+683,2022-03-03,Hyderabad,Telangana,Winter,19.1,40,29.1,1.38,1016.1,Sunny
+684,2023-02-14,Ahmedabad,Gujarat,Summer,37.1,62,10.4,0.21,1011.0,Haze
+685,2022-11-26,Kolkata,West Bengal,Summer,29.6,71,10.1,1.77,1005.8,Cloudy
+686,2022-05-18,Lucknow,Uttar Pradesh,Autumn,23.8,40,3.1,0.88,1021.1,Sunny
+687,2022-08-16,Jaipur,Rajasthan,Monsoon,27.2,48,5.6,8.54,1008.9,Storm
+688,2023-07-17,Pune,Maharashtra,Monsoon,29.0,88,21.5,1.03,1009.6,Haze
+689,2022-02-27,Pune,Maharashtra,Summer,32.0,72,0.2,1.79,1013.0,Fog
+690,2023-10-03,Delhi,Delhi,Summer,34.8,72,26.9,1.16,997.3,Storm
+691,2024-05-10,Chennai,Tamil Nadu,Winter,22.5,75,29.5,0.28,1017.6,Rain
+692,2024-02-03,Ahmedabad,Gujarat,Summer,36.1,52,12.4,0.65,1013.9,Rain
+693,2024-03-04,Lucknow,Uttar Pradesh,Autumn,30.1,79,28.3,0.78,1014.5,Sunny
+694,2022-08-27,Pune,Maharashtra,Monsoon,24.1,44,7.7,5.82,1027.1,Cloudy
+695,2022-01-13,Pune,Maharashtra,Autumn,30.8,87,15.5,2.0,1014.2,Sunny
+696,2023-05-30,Bangalore,Karnataka,Autumn,23.8,85,2.2,0.45,1002.4,Rain
+697,2024-04-21,Pune,Maharashtra,Summer,26.4,73,26.9,1.0,1010.0,Fog
+698,2023-11-21,Mumbai,Maharashtra,Winter,22.6,40,3.6,0.03,1029.3,Haze
+699,2023-01-03,Pune,Maharashtra,Winter,18.3,56,33.8,1.45,1000.3,Cloudy
+700,2022-08-19,Hyderabad,Telangana,Autumn,32.0,79,26.3,0.18,1004.9,Cloudy
+701,2024-03-03,Lucknow,Uttar Pradesh,Monsoon,31.3,44,29.3,0.79,1009.2,Rain
+702,2023-03-23,Bangalore,Karnataka,Autumn,28.8,79,1.5,4.19,1011.6,Rain
+703,2022-04-29,Ahmedabad,Gujarat,Winter,11.6,47,31.6,0.06,1010.7,Storm
+704,2023-01-03,Kolkata,West Bengal,Winter,15.9,82,3.2,0.07,1005.7,Rain
+705,2024-02-28,Kolkata,West Bengal,Summer,33.9,71,25.7,0.02,1018.7,Sunny
+706,2023-12-13,Kolkata,West Bengal,Monsoon,27.0,46,24.1,4.84,1014.6,Haze
+707,2023-04-24,Lucknow,Uttar Pradesh,Summer,29.3,53,4.6,0.09,1008.3,Cloudy
+708,2023-11-03,Pune,Maharashtra,Monsoon,27.4,56,26.4,1.55,1011.9,Fog
+709,2023-05-17,Bangalore,Karnataka,Summer,38.7,66,15.0,0.1,1013.0,Sunny
+710,2024-03-21,Chennai,Tamil Nadu,Monsoon,25.5,44,3.3,9.19,1013.5,Cloudy
+711,2023-05-24,Delhi,Delhi,Monsoon,28.7,40,17.7,21.45,1001.8,Haze
+712,2022-10-01,Mumbai,Maharashtra,Winter,26.0,74,11.9,0.38,1013.8,Fog
+713,2024-05-27,Ahmedabad,Gujarat,Winter,10.6,60,25.5,1.3,999.7,Sunny
+714,2023-08-26,Pune,Maharashtra,Summer,34.7,62,23.4,0.77,1029.0,Rain
+715,2023-11-15,Jaipur,Rajasthan,Summer,30.9,50,30.8,0.1,1010.9,Sunny
+716,2024-04-15,Kolkata,West Bengal,Monsoon,29.0,59,5.4,5.89,989.0,Haze
+717,2024-06-06,Lucknow,Uttar Pradesh,Autumn,24.1,38,31.0,0.04,1015.6,Cloudy
+718,2023-01-31,Chennai,Tamil Nadu,Autumn,24.0,53,6.9,1.25,1005.0,Storm
+719,2024-04-19,Hyderabad,Telangana,Monsoon,28.8,75,0.8,0.18,1010.7,Haze
+720,2022-08-01,Lucknow,Uttar Pradesh,Autumn,26.1,81,27.7,1.59,1015.5,Fog
+721,2022-03-17,Hyderabad,Telangana,Autumn,27.7,38,9.5,0.65,1011.7,Sunny
+722,2024-02-07,Ahmedabad,Gujarat,Summer,27.4,91,10.2,1.65,1005.5,Sunny
+723,2023-11-18,Bangalore,Karnataka,Monsoon,29.1,38,5.5,3.69,1016.6,Rain
+724,2024-04-03,Jaipur,Rajasthan,Winter,16.5,60,16.7,1.28,1006.8,Fog
+725,2023-08-13,Hyderabad,Telangana,Monsoon,31.2,71,23.7,1.55,1012.1,Haze
+726,2023-12-07,Bangalore,Karnataka,Summer,34.5,62,13.0,0.82,1010.5,Sunny
+727,2022-12-30,Kolkata,West Bengal,Autumn,25.4,55,2.8,0.19,1011.0,Rain
+728,2024-05-25,Pune,Maharashtra,Monsoon,27.0,43,9.8,0.2,1020.1,Cloudy
+729,2023-10-21,Jaipur,Rajasthan,Monsoon,23.5,64,20.7,1.94,1011.5,Sunny
+730,2022-06-16,Delhi,Delhi,Monsoon,32.4,80,15.2,5.3,1015.9,Haze
+731,2024-02-21,Ahmedabad,Gujarat,Summer,34.9,71,8.0,0.37,1008.4,Rain
+732,2022-04-29,Lucknow,Uttar Pradesh,Summer,31.1,48,12.1,0.83,999.4,Storm
+733,2023-04-13,Kolkata,West Bengal,Monsoon,32.9,51,26.7,3.2,1007.7,Haze
+734,2023-11-18,Delhi,Delhi,Monsoon,22.5,85,17.8,0.81,1016.0,Storm
+735,2022-12-10,Jaipur,Rajasthan,Autumn,23.7,88,10.5,0.27,1003.0,Fog
+736,2022-11-28,Delhi,Delhi,Winter,21.4,36,1.1,1.02,1021.0,Rain
+737,2024-01-13,Jaipur,Rajasthan,Winter,13.1,39,9.6,0.18,1011.7,Haze
+738,2022-04-01,Lucknow,Uttar Pradesh,Monsoon,24.4,37,28.6,5.59,1015.7,Rain
+739,2023-08-09,Kolkata,West Bengal,Summer,30.5,35,12.7,1.97,996.0,Storm
+740,2023-04-21,Bangalore,Karnataka,Winter,23.1,68,0.5,0.68,1011.5,Storm
+741,2023-03-08,Delhi,Delhi,Winter,16.7,75,17.9,0.09,1002.1,Rain
+742,2023-12-05,Pune,Maharashtra,Summer,34.7,49,17.8,0.01,1009.6,Storm
+743,2022-10-05,Bangalore,Karnataka,Monsoon,23.5,83,1.3,0.59,1022.2,Haze
+744,2024-03-16,Hyderabad,Telangana,Autumn,26.2,85,33.8,0.87,999.5,Storm
+745,2022-04-20,Lucknow,Uttar Pradesh,Monsoon,24.5,42,17.3,0.07,1014.7,Sunny
+746,2023-12-16,Kolkata,West Bengal,Winter,15.1,69,17.0,3.61,1010.5,Sunny
+747,2023-05-22,Delhi,Delhi,Winter,3.6,49,23.3,0.95,1017.1,Sunny
+748,2023-01-20,Bangalore,Karnataka,Winter,14.0,63,2.5,2.02,1028.2,Haze
+749,2024-05-12,Ahmedabad,Gujarat,Monsoon,26.3,92,3.5,7.95,1019.8,Sunny
+750,2022-01-05,Kolkata,West Bengal,Autumn,23.7,91,34.9,0.57,1013.7,Sunny
+751,2022-07-30,Pune,Maharashtra,Autumn,22.1,90,7.9,0.57,1020.7,Sunny
+752,2024-03-15,Ahmedabad,Gujarat,Monsoon,34.0,51,7.6,5.22,1011.5,Rain
+753,2022-11-15,Lucknow,Uttar Pradesh,Summer,39.7,49,17.4,3.1,1016.6,Fog
+754,2023-09-22,Bangalore,Karnataka,Winter,21.4,46,27.1,0.23,1011.1,Storm
+755,2024-04-12,Mumbai,Maharashtra,Summer,29.3,41,33.5,0.87,1013.9,Rain
+756,2023-07-02,Kolkata,West Bengal,Winter,24.3,54,13.4,0.2,1006.4,Storm
+757,2023-12-30,Delhi,Delhi,Monsoon,34.4,69,16.8,1.99,1006.6,Sunny
+758,2023-06-23,Delhi,Delhi,Winter,21.9,87,8.1,0.41,1013.9,Storm
+759,2022-05-17,Ahmedabad,Gujarat,Summer,33.4,88,19.8,0.59,1022.2,Fog
+760,2022-06-08,Delhi,Delhi,Summer,30.6,75,25.7,1.15,999.3,Storm
+761,2024-05-13,Kolkata,West Bengal,Monsoon,28.3,35,14.0,1.19,1001.6,Sunny
+762,2022-09-18,Lucknow,Uttar Pradesh,Winter,19.8,93,34.5,0.67,1005.2,Fog
+763,2022-05-30,Mumbai,Maharashtra,Monsoon,30.3,37,16.2,4.22,1016.3,Fog
+764,2022-09-22,Pune,Maharashtra,Autumn,26.0,81,33.6,0.02,1020.9,Cloudy
+765,2023-05-20,Mumbai,Maharashtra,Winter,11.2,89,23.7,0.68,1000.4,Sunny
+766,2022-05-30,Jaipur,Rajasthan,Summer,33.2,71,4.7,1.57,1005.2,Sunny
+767,2023-06-12,Jaipur,Rajasthan,Autumn,24.5,85,16.5,0.45,1008.5,Sunny
+768,2022-10-15,Bangalore,Karnataka,Autumn,21.1,40,15.6,0.02,1004.4,Storm
+769,2022-03-05,Mumbai,Maharashtra,Winter,15.8,43,16.7,1.3,1008.3,Storm
+770,2023-06-23,Bangalore,Karnataka,Winter,17.6,55,30.1,0.05,1001.9,Fog
+771,2023-03-13,Pune,Maharashtra,Summer,35.5,74,11.4,0.04,1010.4,Cloudy
+772,2024-01-25,Hyderabad,Telangana,Autumn,24.9,55,5.2,0.12,1010.5,Rain
+773,2023-03-27,Bangalore,Karnataka,Monsoon,29.7,94,5.8,1.39,997.7,Fog
+774,2024-05-01,Jaipur,Rajasthan,Winter,19.6,54,18.7,0.86,1013.1,Haze
+775,2023-03-26,Lucknow,Uttar Pradesh,Summer,32.2,94,15.6,0.9,1011.3,Storm
+776,2023-07-02,Chennai,Tamil Nadu,Summer,38.3,70,29.9,0.48,1012.1,Fog
+777,2022-12-07,Kolkata,West Bengal,Autumn,29.1,70,33.1,0.03,1020.2,Sunny
+778,2022-01-04,Chennai,Tamil Nadu,Monsoon,20.9,38,20.7,2.61,1018.3,Haze
+779,2022-10-20,Ahmedabad,Gujarat,Autumn,24.8,90,33.7,1.37,1005.3,Cloudy
+780,2022-09-29,Mumbai,Maharashtra,Winter,18.2,85,31.7,0.52,1006.9,Sunny
+781,2023-04-02,Kolkata,West Bengal,Monsoon,22.6,89,22.6,1.78,1010.1,Storm
+782,2023-11-16,Lucknow,Uttar Pradesh,Monsoon,25.2,65,28.2,3.35,1008.8,Storm
+783,2022-01-23,Hyderabad,Telangana,Autumn,27.8,91,27.6,0.05,1002.9,Sunny
+784,2022-12-08,Chennai,Tamil Nadu,Autumn,28.1,51,13.2,0.02,1000.5,Sunny
+785,2024-04-07,Lucknow,Uttar Pradesh,Winter,10.8,66,26.1,1.33,1000.4,Cloudy
+786,2023-10-10,Jaipur,Rajasthan,Winter,16.2,61,2.3,3.19,1007.6,Cloudy
+787,2023-03-12,Ahmedabad,Gujarat,Monsoon,26.2,84,28.2,2.2,1008.9,Haze
+788,2022-12-01,Delhi,Delhi,Winter,18.2,74,15.0,0.1,996.0,Rain
+789,2023-11-28,Hyderabad,Telangana,Autumn,23.0,63,8.7,0.08,1008.3,Storm
+790,2022-12-23,Jaipur,Rajasthan,Summer,32.8,88,10.5,0.75,1007.6,Sunny
+791,2023-03-12,Mumbai,Maharashtra,Summer,36.7,94,31.4,0.92,1009.5,Sunny
+792,2022-12-26,Hyderabad,Telangana,Monsoon,28.1,77,27.4,1.39,991.0,Sunny
+793,2024-02-05,Ahmedabad,Gujarat,Monsoon,35.1,91,8.5,9.08,1007.2,Fog
+794,2022-02-15,Delhi,Delhi,Summer,26.5,47,24.0,1.69,1016.0,Rain
+795,2023-04-15,Ahmedabad,Gujarat,Autumn,26.5,60,28.5,2.02,1000.7,Sunny
+796,2023-07-06,Bangalore,Karnataka,Monsoon,24.7,86,19.0,2.59,1004.9,Fog
+797,2024-02-09,Hyderabad,Telangana,Summer,32.5,70,5.6,2.09,995.5,Rain
+798,2023-04-09,Pune,Maharashtra,Winter,16.3,90,23.1,1.62,1015.3,Rain
+799,2023-09-24,Hyderabad,Telangana,Winter,13.4,72,16.8,1.13,1004.4,Rain
+800,2023-07-10,Delhi,Delhi,Autumn,33.8,68,32.7,2.9,1020.4,Haze
+801,2023-07-30,Kolkata,West Bengal,Summer,36.7,88,0.6,0.59,1012.8,Storm
+802,2023-11-19,Hyderabad,Telangana,Autumn,32.1,67,13.9,0.2,1015.0,Cloudy
+803,2022-04-09,Delhi,Delhi,Winter,25.7,68,22.6,0.1,1011.2,Storm
+804,2022-10-18,Delhi,Delhi,Winter,16.0,92,9.3,1.44,1016.7,Rain
+805,2024-01-16,Delhi,Delhi,Summer,27.6,94,10.9,3.44,1012.7,Sunny
+806,2022-08-22,Mumbai,Maharashtra,Summer,36.4,68,10.0,1.9,1012.7,Haze
+807,2023-04-15,Bangalore,Karnataka,Monsoon,24.7,39,4.3,10.29,1010.3,Fog
+808,2022-08-26,Delhi,Delhi,Autumn,24.8,88,8.1,0.25,1009.3,Sunny
+809,2022-05-14,Jaipur,Rajasthan,Monsoon,26.1,81,3.3,0.58,1001.3,Haze
+810,2022-12-20,Jaipur,Rajasthan,Monsoon,28.1,56,7.4,1.97,995.6,Fog
+811,2022-11-04,Ahmedabad,Gujarat,Summer,26.8,94,25.7,3.14,1012.9,Fog
+812,2023-12-14,Kolkata,West Bengal,Autumn,29.8,51,28.5,1.43,1019.3,Storm
+813,2023-03-10,Jaipur,Rajasthan,Summer,30.1,85,32.3,1.66,1007.7,Cloudy
+814,2024-04-02,Mumbai,Maharashtra,Monsoon,27.7,80,3.7,8.39,1011.3,Haze
+815,2023-04-19,Jaipur,Rajasthan,Summer,33.4,43,32.3,1.16,1008.5,Rain
+816,2023-09-26,Mumbai,Maharashtra,Winter,13.3,88,16.7,1.31,1005.3,Rain
+817,2023-11-18,Ahmedabad,Gujarat,Summer,35.2,93,14.9,2.15,997.5,Fog
+818,2023-08-03,Pune,Maharashtra,Winter,17.4,58,17.7,0.45,1011.6,Cloudy
+819,2022-11-15,Hyderabad,Telangana,Autumn,24.3,55,9.8,0.23,991.2,Cloudy
+820,2022-05-02,Mumbai,Maharashtra,Autumn,20.5,82,12.2,0.69,1014.4,Haze
+821,2022-07-14,Ahmedabad,Gujarat,Winter,20.4,59,31.2,0.53,1012.6,Haze
+822,2024-01-31,Bangalore,Karnataka,Autumn,22.5,51,32.5,0.61,1011.5,Rain
+823,2023-09-03,Delhi,Delhi,Monsoon,25.5,89,25.1,3.52,1018.9,Fog
+824,2022-03-26,Pune,Maharashtra,Summer,38.2,51,28.4,0.79,1003.9,Storm
+825,2023-04-25,Kolkata,West Bengal,Winter,14.9,77,17.7,3.2,1017.0,Cloudy
+826,2023-10-21,Delhi,Delhi,Summer,41.6,89,26.0,4.05,1009.7,Cloudy
+827,2022-05-12,Chennai,Tamil Nadu,Winter,9.0,47,5.5,1.31,997.9,Storm
+828,2024-05-20,Pune,Maharashtra,Summer,33.9,90,25.0,2.13,1012.4,Storm
+829,2022-11-23,Lucknow,Uttar Pradesh,Autumn,26.2,90,31.4,2.95,1013.5,Rain
+830,2024-06-13,Hyderabad,Telangana,Autumn,22.5,53,32.4,0.63,1016.9,Rain
+831,2023-03-07,Mumbai,Maharashtra,Summer,41.7,45,34.0,0.14,1014.8,Rain
+832,2022-10-30,Bangalore,Karnataka,Monsoon,28.9,36,1.1,0.23,1013.4,Cloudy
+833,2024-02-19,Hyderabad,Telangana,Monsoon,27.1,72,33.1,7.25,1000.7,Rain
+834,2023-10-20,Chennai,Tamil Nadu,Autumn,23.2,81,10.7,0.47,1008.4,Fog
+835,2024-02-26,Ahmedabad,Gujarat,Winter,21.5,93,18.8,3.91,1021.8,Fog
+836,2023-03-18,Ahmedabad,Gujarat,Autumn,20.9,83,14.8,0.53,1007.8,Rain
+837,2022-02-23,Ahmedabad,Gujarat,Summer,35.7,84,13.4,1.65,1012.3,Haze
+838,2024-03-15,Mumbai,Maharashtra,Summer,24.2,88,15.4,0.51,1019.0,Rain
+839,2024-05-02,Mumbai,Maharashtra,Monsoon,31.6,39,7.1,6.49,1024.4,Fog
+840,2024-05-29,Ahmedabad,Gujarat,Autumn,28.5,75,14.6,0.73,1008.7,Storm
+841,2022-07-04,Hyderabad,Telangana,Autumn,21.7,59,28.0,1.59,1018.4,Fog
+842,2023-03-22,Ahmedabad,Gujarat,Winter,16.9,81,20.7,2.07,1001.3,Cloudy
+843,2022-07-08,Bangalore,Karnataka,Winter,25.2,48,3.3,0.56,1002.9,Fog
+844,2023-04-22,Kolkata,West Bengal,Autumn,23.4,82,12.4,0.47,1013.7,Cloudy
+845,2024-03-31,Pune,Maharashtra,Autumn,28.0,81,1.1,1.16,1014.5,Fog
+846,2022-12-12,Mumbai,Maharashtra,Winter,18.6,55,20.2,0.77,1006.3,Storm
+847,2022-07-19,Lucknow,Uttar Pradesh,Monsoon,31.8,91,7.9,3.11,1004.0,Cloudy
+848,2022-04-20,Kolkata,West Bengal,Summer,30.4,69,32.8,0.22,1014.7,Haze
+849,2023-10-16,Chennai,Tamil Nadu,Autumn,26.1,72,4.6,0.34,1014.4,Cloudy
+850,2023-11-02,Delhi,Delhi,Autumn,26.2,59,15.0,1.25,990.3,Fog
+851,2023-04-16,Hyderabad,Telangana,Winter,17.4,46,27.6,0.22,1003.5,Fog
+852,2023-09-26,Bangalore,Karnataka,Summer,32.8,52,30.7,0.21,1008.7,Rain
+853,2022-06-14,Delhi,Delhi,Winter,20.6,92,17.3,0.08,1006.8,Fog
+854,2024-02-27,Mumbai,Maharashtra,Monsoon,23.9,73,20.2,0.96,1014.7,Haze
+855,2022-12-23,Delhi,Delhi,Autumn,22.9,47,27.3,0.09,1013.5,Haze
+856,2023-04-18,Lucknow,Uttar Pradesh,Monsoon,26.2,65,11.0,4.13,1002.7,Sunny
+857,2022-11-20,Ahmedabad,Gujarat,Monsoon,30.5,79,27.8,1.03,998.2,Storm
+858,2023-12-17,Ahmedabad,Gujarat,Autumn,28.5,58,15.3,2.66,1011.8,Fog
+859,2023-08-13,Kolkata,West Bengal,Winter,14.0,62,5.6,1.32,998.4,Sunny
+860,2023-12-04,Pune,Maharashtra,Summer,35.1,76,28.6,0.42,1013.4,Rain
+861,2023-12-26,Hyderabad,Telangana,Monsoon,24.6,65,28.8,2.78,1005.6,Haze
+862,2023-01-23,Delhi,Delhi,Winter,17.8,84,6.5,0.79,1018.4,Haze
+863,2022-05-24,Chennai,Tamil Nadu,Monsoon,35.8,64,6.5,5.79,999.9,Haze
+864,2023-07-07,Kolkata,West Bengal,Summer,23.9,36,3.7,0.44,1017.7,Sunny
+865,2023-02-21,Pune,Maharashtra,Monsoon,28.6,69,8.9,2.19,1010.3,Fog
+866,2022-03-30,Kolkata,West Bengal,Winter,12.2,51,19.8,3.12,1005.6,Sunny
+867,2022-08-12,Jaipur,Rajasthan,Summer,37.9,36,10.5,0.43,1011.4,Cloudy
+868,2023-10-31,Jaipur,Rajasthan,Summer,37.8,86,1.1,0.16,1002.0,Fog
+869,2023-12-25,Bangalore,Karnataka,Winter,16.7,60,17.3,0.48,1008.9,Haze
+870,2023-10-06,Pune,Maharashtra,Summer,32.0,92,32.4,0.15,1016.9,Storm
+871,2023-09-20,Kolkata,West Bengal,Winter,24.8,68,14.3,1.13,1005.0,Cloudy
+872,2022-04-01,Jaipur,Rajasthan,Winter,16.0,84,6.0,3.94,1004.3,Sunny
+873,2023-09-08,Bangalore,Karnataka,Summer,30.0,85,15.4,2.79,1007.3,Sunny
+874,2022-08-15,Mumbai,Maharashtra,Monsoon,25.1,63,11.0,3.04,1025.3,Cloudy
+875,2024-01-01,Pune,Maharashtra,Summer,29.8,63,15.6,1.94,1018.5,Sunny
+876,2023-01-29,Pune,Maharashtra,Autumn,21.0,76,34.8,0.9,1002.8,Cloudy
+877,2022-09-06,Kolkata,West Bengal,Summer,32.2,92,7.8,1.0,1014.2,Sunny
+878,2023-01-07,Ahmedabad,Gujarat,Monsoon,31.0,67,30.4,5.12,1017.5,Storm
+879,2023-04-30,Bangalore,Karnataka,Summer,28.2,76,34.9,0.45,1016.0,Rain
+880,2023-10-16,Jaipur,Rajasthan,Monsoon,29.8,88,7.1,0.02,1011.9,Cloudy
+881,2023-09-12,Lucknow,Uttar Pradesh,Autumn,23.3,74,30.3,0.34,1007.9,Cloudy
+882,2022-03-10,Delhi,Delhi,Autumn,34.2,43,29.8,0.07,1006.4,Storm
+883,2024-02-01,Lucknow,Uttar Pradesh,Winter,14.6,56,16.9,0.94,1017.5,Cloudy
+884,2024-06-14,Kolkata,West Bengal,Autumn,28.1,73,19.4,0.1,1015.0,Rain
+885,2023-11-28,Mumbai,Maharashtra,Autumn,28.7,55,28.8,0.69,1010.7,Haze
+886,2024-05-20,Pune,Maharashtra,Summer,38.4,62,8.1,0.8,1015.3,Sunny
+887,2023-08-17,Chennai,Tamil Nadu,Autumn,22.9,64,18.8,0.48,1012.4,Fog
+888,2024-03-15,Kolkata,West Bengal,Summer,36.0,85,10.9,0.51,1019.7,Storm
+889,2022-11-18,Kolkata,West Bengal,Monsoon,25.5,66,10.8,6.0,1016.7,Rain
+890,2022-05-13,Chennai,Tamil Nadu,Autumn,32.0,75,27.4,0.1,1019.1,Haze
+891,2023-12-26,Hyderabad,Telangana,Summer,41.9,74,24.3,0.21,1013.2,Cloudy
+892,2024-05-11,Mumbai,Maharashtra,Summer,39.1,84,15.7,0.93,1025.8,Fog
+893,2022-01-16,Kolkata,West Bengal,Winter,14.5,45,28.8,0.26,1011.1,Cloudy
+894,2023-04-23,Pune,Maharashtra,Winter,19.5,60,0.8,0.46,1009.5,Haze
+895,2022-10-05,Lucknow,Uttar Pradesh,Summer,36.1,45,12.6,0.04,998.9,Haze
+896,2022-04-08,Lucknow,Uttar Pradesh,Monsoon,26.7,62,0.5,3.52,1011.4,Fog
+897,2023-09-06,Pune,Maharashtra,Summer,31.4,94,34.6,1.64,1012.0,Storm
+898,2024-02-05,Mumbai,Maharashtra,Summer,34.1,72,34.0,0.87,1017.2,Fog
+899,2024-06-06,Chennai,Tamil Nadu,Monsoon,26.7,58,18.6,0.07,999.5,Haze
+900,2023-02-12,Lucknow,Uttar Pradesh,Winter,20.0,77,9.8,0.29,1005.1,Haze
+901,2024-05-03,Mumbai,Maharashtra,Summer,27.2,55,33.1,2.82,1015.5,Storm
+902,2023-11-16,Delhi,Delhi,Monsoon,28.9,60,21.3,0.89,1015.4,Rain
+903,2023-03-31,Jaipur,Rajasthan,Winter,22.0,52,4.5,0.98,1005.2,Storm
+904,2023-05-05,Ahmedabad,Gujarat,Autumn,26.8,62,23.0,0.08,1015.4,Cloudy
+905,2023-01-25,Chennai,Tamil Nadu,Winter,24.2,44,14.7,0.34,1005.9,Sunny
+906,2024-05-14,Pune,Maharashtra,Summer,28.3,48,21.7,1.02,1001.4,Storm
+907,2024-04-19,Delhi,Delhi,Summer,36.5,70,5.2,1.16,1015.1,Fog
+908,2023-03-08,Kolkata,West Bengal,Autumn,29.4,40,7.5,0.7,1013.2,Sunny
+909,2022-02-07,Delhi,Delhi,Autumn,27.0,39,19.6,1.16,1022.5,Fog
+910,2022-03-24,Bangalore,Karnataka,Autumn,27.9,43,31.9,0.69,1008.7,Cloudy
+911,2022-06-06,Jaipur,Rajasthan,Summer,29.5,72,8.5,0.82,1018.8,Storm
+912,2023-01-23,Pune,Maharashtra,Summer,28.3,75,17.5,0.88,1010.7,Cloudy
+913,2024-02-24,Kolkata,West Bengal,Summer,31.1,51,10.1,0.77,1011.1,Cloudy
+914,2023-02-06,Jaipur,Rajasthan,Winter,15.9,47,23.9,0.68,1014.4,Cloudy
+915,2023-05-01,Lucknow,Uttar Pradesh,Winter,12.1,53,24.0,6.06,1008.2,Fog
+916,2022-11-30,Mumbai,Maharashtra,Monsoon,28.1,60,5.6,7.99,1015.9,Cloudy
+917,2023-08-27,Ahmedabad,Gujarat,Winter,15.5,45,7.3,2.17,1012.0,Cloudy
+918,2023-08-06,Chennai,Tamil Nadu,Winter,23.0,49,31.9,1.58,1019.5,Rain
+919,2022-12-20,Ahmedabad,Gujarat,Monsoon,26.7,74,13.9,0.16,1012.3,Fog
+920,2023-12-17,Chennai,Tamil Nadu,Summer,32.0,49,11.7,0.69,1019.9,Fog
+921,2023-04-20,Ahmedabad,Gujarat,Autumn,24.0,36,6.9,0.73,1004.4,Sunny
+922,2022-05-16,Kolkata,West Bengal,Winter,24.1,47,29.7,0.83,1009.3,Storm
+923,2023-05-20,Mumbai,Maharashtra,Winter,24.6,70,16.3,4.83,1006.7,Rain
+924,2022-10-07,Lucknow,Uttar Pradesh,Winter,18.4,67,23.2,0.53,1011.5,Cloudy
+925,2022-03-29,Pune,Maharashtra,Monsoon,30.6,38,10.6,1.97,1014.9,Cloudy
+926,2023-09-17,Ahmedabad,Gujarat,Monsoon,29.4,81,26.0,0.94,1029.9,Sunny
+927,2022-06-25,Kolkata,West Bengal,Winter,19.5,67,23.1,0.67,1000.2,Sunny
+928,2023-01-29,Delhi,Delhi,Winter,16.1,80,18.0,0.6,1006.0,Fog
+929,2022-06-15,Bangalore,Karnataka,Summer,24.8,64,4.6,0.12,1016.9,Storm
+930,2022-07-13,Ahmedabad,Gujarat,Autumn,24.3,61,27.5,1.17,1006.9,Rain
+931,2023-09-24,Kolkata,West Bengal,Summer,31.7,60,2.6,0.2,1000.1,Sunny
+932,2023-07-16,Lucknow,Uttar Pradesh,Monsoon,33.1,69,14.4,3.93,1019.2,Haze
+933,2023-11-03,Chennai,Tamil Nadu,Summer,24.0,66,32.7,1.72,1025.8,Cloudy
+934,2022-02-11,Delhi,Delhi,Summer,35.0,57,22.3,1.15,1024.4,Cloudy
+935,2023-03-31,Hyderabad,Telangana,Autumn,20.6,37,24.0,0.41,1012.9,Storm
+936,2022-06-19,Mumbai,Maharashtra,Autumn,26.5,50,32.7,0.56,1034.9,Storm
+937,2023-07-10,Delhi,Delhi,Monsoon,27.2,58,30.2,1.33,1013.3,Cloudy
+938,2023-11-29,Jaipur,Rajasthan,Summer,30.4,77,14.7,0.18,1006.5,Fog
+939,2022-01-23,Lucknow,Uttar Pradesh,Autumn,25.8,66,3.6,0.38,1001.7,Cloudy
+940,2024-02-22,Kolkata,West Bengal,Winter,20.6,64,29.0,0.6,1014.8,Haze
+941,2023-06-24,Lucknow,Uttar Pradesh,Winter,23.6,88,4.2,1.69,1004.1,Fog
+942,2022-01-13,Delhi,Delhi,Summer,29.2,91,18.5,4.23,1005.3,Cloudy
+943,2024-03-04,Pune,Maharashtra,Winter,22.8,79,18.9,1.63,1013.3,Haze
+944,2022-08-30,Chennai,Tamil Nadu,Autumn,23.4,78,19.3,3.02,1004.7,Rain
+945,2023-01-25,Jaipur,Rajasthan,Winter,19.1,70,9.9,0.33,1001.6,Rain
+946,2023-11-16,Delhi,Delhi,Winter,17.6,45,33.7,0.16,1005.8,Haze
+947,2024-06-11,Bangalore,Karnataka,Winter,20.6,92,25.9,1.95,1003.7,Haze
+948,2024-06-15,Jaipur,Rajasthan,Monsoon,30.6,59,10.6,1.27,1012.7,Rain
+949,2024-03-04,Ahmedabad,Gujarat,Monsoon,34.4,89,31.4,1.24,1016.8,Sunny
+950,2022-02-19,Jaipur,Rajasthan,Summer,29.8,62,4.0,0.63,1011.0,Fog
+951,2023-08-16,Jaipur,Rajasthan,Monsoon,33.4,54,32.4,3.64,1005.9,Cloudy
+952,2023-01-16,Bangalore,Karnataka,Autumn,22.8,67,4.9,0.03,1014.6,Haze
+953,2022-08-13,Jaipur,Rajasthan,Autumn,21.9,93,20.3,0.15,1003.1,Rain
+954,2022-09-10,Kolkata,West Bengal,Autumn,26.9,77,25.3,0.57,1001.0,Storm
+955,2022-07-02,Ahmedabad,Gujarat,Autumn,22.7,38,8.5,0.37,996.0,Cloudy
+956,2024-04-09,Lucknow,Uttar Pradesh,Summer,30.1,91,16.4,1.0,1013.4,Sunny
+957,2024-04-30,Bangalore,Karnataka,Autumn,31.7,41,7.8,1.19,1016.5,Cloudy
+958,2023-09-18,Pune,Maharashtra,Monsoon,27.0,83,17.2,3.36,1018.6,Rain
+959,2022-01-02,Delhi,Delhi,Autumn,26.3,66,30.1,0.56,1005.7,Storm
+960,2023-04-14,Lucknow,Uttar Pradesh,Monsoon,28.7,61,2.9,3.82,1020.8,Sunny
+961,2022-06-08,Jaipur,Rajasthan,Monsoon,26.9,94,28.6,6.58,995.9,Cloudy
+962,2024-05-05,Chennai,Tamil Nadu,Winter,12.6,46,25.7,0.33,1017.9,Sunny
+963,2022-06-12,Pune,Maharashtra,Monsoon,29.5,59,11.3,2.11,999.3,Cloudy
+964,2022-04-01,Bangalore,Karnataka,Summer,31.4,73,17.4,0.15,1010.1,Rain
+965,2023-09-24,Delhi,Delhi,Winter,18.3,92,28.9,0.99,1002.5,Storm
+966,2023-02-12,Chennai,Tamil Nadu,Summer,36.2,41,0.4,0.48,1013.2,Sunny
+967,2022-01-08,Hyderabad,Telangana,Autumn,26.5,85,25.9,0.16,1013.7,Sunny
+968,2024-03-14,Pune,Maharashtra,Monsoon,24.9,45,24.9,0.67,1008.7,Fog
+969,2022-11-01,Hyderabad,Telangana,Monsoon,28.4,83,30.1,1.77,1001.4,Fog
+970,2022-06-13,Hyderabad,Telangana,Monsoon,23.4,49,21.6,8.79,993.6,Haze
+971,2022-06-02,Delhi,Delhi,Autumn,27.7,49,17.8,0.39,1021.2,Fog
+972,2023-12-20,Hyderabad,Telangana,Summer,31.4,58,32.1,0.06,1005.1,Sunny
+973,2023-09-16,Mumbai,Maharashtra,Monsoon,33.4,60,32.1,3.9,1004.3,Sunny
+974,2022-09-21,Jaipur,Rajasthan,Autumn,24.3,83,18.5,1.78,1018.4,Sunny
+975,2023-02-18,Jaipur,Rajasthan,Monsoon,25.6,54,26.9,1.22,1003.8,Rain
+976,2024-02-04,Lucknow,Uttar Pradesh,Autumn,23.2,55,34.8,2.17,1012.4,Sunny
+977,2022-09-02,Hyderabad,Telangana,Monsoon,29.9,39,16.6,0.59,1011.2,Sunny
+978,2023-11-09,Ahmedabad,Gujarat,Winter,29.2,44,24.7,1.0,1011.5,Sunny
+979,2023-01-31,Mumbai,Maharashtra,Monsoon,25.6,66,27.5,2.4,1007.3,Sunny
+980,2023-05-13,Pune,Maharashtra,Monsoon,21.9,63,26.0,3.0,994.3,Haze
+981,2022-05-11,Delhi,Delhi,Summer,29.6,93,17.4,0.44,1017.4,Fog
+982,2023-10-16,Bangalore,Karnataka,Summer,30.6,40,1.9,1.49,1010.1,Haze
+983,2022-09-14,Delhi,Delhi,Monsoon,31.6,59,11.3,3.32,1008.5,Storm
+984,2024-02-26,Delhi,Delhi,Monsoon,26.6,66,33.5,1.94,1009.8,Cloudy
+985,2022-09-26,Bangalore,Karnataka,Winter,16.2,93,32.9,1.1,1007.2,Storm
+986,2024-03-12,Pune,Maharashtra,Monsoon,27.5,65,28.4,5.62,1015.0,Storm
+987,2023-08-20,Mumbai,Maharashtra,Summer,30.9,36,3.8,1.02,1001.4,Storm
+988,2024-01-25,Hyderabad,Telangana,Autumn,27.9,46,1.6,0.36,1025.8,Storm
+989,2022-04-21,Jaipur,Rajasthan,Winter,19.8,80,32.9,1.6,1010.3,Rain
+990,2023-03-08,Ahmedabad,Gujarat,Winter,9.1,64,9.1,0.32,1009.5,Fog
+991,2023-07-24,Hyderabad,Telangana,Winter,27.1,69,29.9,0.16,1018.8,Cloudy
+992,2024-02-27,Hyderabad,Telangana,Autumn,25.9,44,15.0,0.76,1025.3,Haze
+993,2022-08-24,Jaipur,Rajasthan,Monsoon,28.7,71,19.1,5.44,997.4,Cloudy
+994,2023-10-27,Pune,Maharashtra,Winter,17.9,80,6.8,1.5,1024.6,Haze
+995,2022-07-09,Kolkata,West Bengal,Autumn,27.2,65,28.8,1.34,1002.1,Haze
+996,2023-12-29,Delhi,Delhi,Winter,10.9,50,19.0,0.27,1010.6,Cloudy
+997,2022-07-16,Ahmedabad,Gujarat,Autumn,25.8,80,29.4,0.17,1008.3,Haze
+998,2022-12-05,Chennai,Tamil Nadu,Summer,33.4,81,23.2,0.41,1014.5,Haze
+999,2023-03-16,Hyderabad,Telangana,Summer,35.2,84,25.1,0.78,1024.6,Storm
+1000,2023-04-08,Jaipur,Rajasthan,Autumn,26.0,70,34.8,0.8,1005.1,Sunny
+1001,2024-02-06,Delhi,Delhi,Monsoon,28.4,52,13.0,3.4,995.5,Haze
+1002,2023-03-06,Pune,Maharashtra,Autumn,20.4,88,7.7,4.45,1006.6,Sunny
+1003,2023-08-22,Delhi,Delhi,Monsoon,29.3,84,16.7,0.25,1010.9,Haze
+1004,2022-04-04,Mumbai,Maharashtra,Summer,24.8,80,0.6,0.5,1003.0,Cloudy
+1005,2022-12-25,Jaipur,Rajasthan,Autumn,27.5,61,30.4,0.47,1001.8,Rain
+1006,2023-05-29,Delhi,Delhi,Summer,28.6,62,30.8,1.32,1008.7,Storm
+1007,2024-04-04,Bangalore,Karnataka,Summer,43.2,73,14.2,0.23,1019.8,Sunny
+1008,2022-06-06,Delhi,Delhi,Winter,17.7,94,28.8,0.8,1009.2,Haze
+1009,2023-10-09,Ahmedabad,Gujarat,Summer,33.0,44,22.6,2.08,1025.6,Rain
+1010,2022-05-26,Jaipur,Rajasthan,Monsoon,24.2,78,32.3,0.83,1000.2,Haze
+1011,2024-02-25,Ahmedabad,Gujarat,Monsoon,27.5,58,16.5,7.32,1013.4,Sunny
+1012,2022-07-28,Kolkata,West Bengal,Monsoon,29.9,78,19.3,17.68,1013.4,Rain
+1013,2023-06-12,Hyderabad,Telangana,Monsoon,24.4,60,34.2,0.86,1002.4,Sunny
+1014,2023-11-18,Hyderabad,Telangana,Monsoon,24.3,51,5.2,2.89,1006.8,Cloudy
+1015,2022-08-14,Jaipur,Rajasthan,Monsoon,27.3,67,4.2,7.6,1010.9,Haze
+1016,2022-03-21,Delhi,Delhi,Winter,24.2,67,30.8,0.02,1010.4,Rain
+1017,2022-04-06,Hyderabad,Telangana,Autumn,29.7,80,7.5,0.99,1016.0,Cloudy
+1018,2022-08-30,Kolkata,West Bengal,Monsoon,24.9,79,15.8,8.06,1013.0,Cloudy
+1019,2023-10-24,Lucknow,Uttar Pradesh,Winter,29.0,68,22.7,1.86,1003.0,Haze
+1020,2022-04-01,Ahmedabad,Gujarat,Autumn,22.3,36,12.5,0.03,1001.5,Fog
+1021,2023-10-06,Jaipur,Rajasthan,Summer,33.3,93,13.2,3.16,1026.5,Haze
+1022,2024-02-20,Lucknow,Uttar Pradesh,Winter,9.3,66,27.8,2.75,1015.4,Cloudy
+1023,2022-10-24,Lucknow,Uttar Pradesh,Winter,20.3,77,11.3,0.94,1007.5,Storm
+1024,2022-11-26,Chennai,Tamil Nadu,Autumn,30.2,79,31.8,1.03,1017.4,Cloudy
+1025,2023-04-30,Bangalore,Karnataka,Winter,19.1,53,12.4,0.54,1009.7,Rain
+1026,2023-06-07,Mumbai,Maharashtra,Monsoon,25.9,38,14.4,3.2,1005.3,Fog
+1027,2024-05-13,Lucknow,Uttar Pradesh,Monsoon,28.1,86,8.3,3.48,1012.4,Sunny
+1028,2023-10-18,Bangalore,Karnataka,Autumn,16.0,36,4.0,0.57,1009.8,Cloudy
+1029,2023-12-11,Delhi,Delhi,Winter,17.4,87,30.3,1.74,1002.3,Storm
+1030,2024-03-28,Delhi,Delhi,Summer,40.4,60,2.5,0.65,1006.8,Fog
+1031,2024-06-17,Bangalore,Karnataka,Monsoon,32.3,57,16.4,3.95,1002.7,Sunny
+1032,2023-03-27,Mumbai,Maharashtra,Summer,41.4,65,26.9,1.6,1012.7,Fog
+1033,2022-08-30,Kolkata,West Bengal,Autumn,29.0,50,15.2,0.56,1018.5,Sunny
+1034,2022-04-12,Jaipur,Rajasthan,Monsoon,26.5,58,23.9,3.31,1000.9,Haze
+1035,2023-05-09,Chennai,Tamil Nadu,Monsoon,26.0,67,7.0,7.33,1019.7,Haze
+1036,2024-05-25,Ahmedabad,Gujarat,Summer,40.0,87,8.1,0.66,1002.0,Storm
+1037,2024-03-19,Jaipur,Rajasthan,Autumn,25.7,62,13.7,1.4,1007.5,Rain
+1038,2022-09-05,Pune,Maharashtra,Monsoon,28.1,79,15.1,6.6,1007.4,Storm
+1039,2023-10-20,Ahmedabad,Gujarat,Winter,19.4,61,30.8,0.86,1000.7,Sunny
+1040,2022-03-20,Bangalore,Karnataka,Monsoon,30.7,91,24.2,0.25,1021.5,Haze
+1041,2022-07-11,Ahmedabad,Gujarat,Autumn,24.8,85,28.3,1.04,1009.8,Cloudy
+1042,2022-01-24,Pune,Maharashtra,Winter,21.8,73,28.5,2.12,1009.4,Fog
+1043,2022-06-14,Delhi,Delhi,Autumn,27.3,39,25.5,0.89,1002.5,Rain
+1044,2023-04-21,Pune,Maharashtra,Summer,35.4,35,30.9,0.23,1003.3,Fog
+1045,2024-06-11,Jaipur,Rajasthan,Monsoon,26.2,51,25.2,2.61,1018.9,Fog
+1046,2023-01-11,Delhi,Delhi,Monsoon,27.2,49,8.4,9.9,1021.7,Fog
+1047,2023-05-16,Hyderabad,Telangana,Summer,32.0,49,24.6,0.08,1008.0,Cloudy
+1048,2023-11-03,Ahmedabad,Gujarat,Winter,11.0,36,10.2,0.11,1005.9,Sunny
+1049,2023-01-10,Mumbai,Maharashtra,Autumn,30.8,71,5.6,1.18,1006.7,Storm
+1050,2023-11-23,Delhi,Delhi,Summer,31.7,49,16.2,1.05,1010.2,Fog
+1051,2022-10-06,Lucknow,Uttar Pradesh,Monsoon,26.6,60,11.2,2.87,1011.4,Rain
+1052,2023-10-15,Hyderabad,Telangana,Winter,21.6,79,31.6,1.89,1006.1,Haze
+1053,2022-02-20,Delhi,Delhi,Autumn,26.2,64,18.4,1.08,1002.6,Cloudy
+1054,2023-12-08,Jaipur,Rajasthan,Summer,32.1,87,9.6,0.57,1013.1,Storm
+1055,2024-01-17,Lucknow,Uttar Pradesh,Summer,32.1,92,16.8,2.61,1011.0,Storm
+1056,2022-09-15,Kolkata,West Bengal,Winter,17.1,40,21.7,0.04,1013.6,Rain
+1057,2023-10-16,Kolkata,West Bengal,Autumn,29.2,68,18.8,1.18,1018.6,Fog
+1058,2024-01-22,Delhi,Delhi,Monsoon,33.7,52,9.7,0.52,1015.9,Haze
+1059,2024-04-08,Mumbai,Maharashtra,Summer,35.8,42,14.4,0.7,1026.7,Storm
+1060,2023-11-20,Delhi,Delhi,Autumn,29.3,45,19.6,0.69,1008.5,Cloudy
+1061,2024-03-22,Hyderabad,Telangana,Summer,35.5,45,28.9,0.45,1010.2,Haze
+1062,2022-04-19,Delhi,Delhi,Winter,26.3,40,21.6,1.23,1015.2,Cloudy
+1063,2023-12-07,Pune,Maharashtra,Autumn,24.3,37,30.2,4.02,1011.3,Rain
+1064,2023-04-07,Bangalore,Karnataka,Monsoon,31.8,48,30.0,1.68,999.3,Sunny
+1065,2023-06-09,Kolkata,West Bengal,Autumn,29.0,81,30.0,1.33,1011.0,Haze
+1066,2022-09-21,Ahmedabad,Gujarat,Winter,10.8,89,9.0,0.99,1014.6,Storm
+1067,2023-03-03,Delhi,Delhi,Autumn,24.3,80,25.6,3.96,1000.2,Fog
+1068,2024-03-24,Pune,Maharashtra,Monsoon,32.0,44,22.1,6.42,1015.7,Rain
+1069,2022-02-03,Ahmedabad,Gujarat,Autumn,29.1,78,31.9,0.82,1011.9,Rain
+1070,2023-08-30,Chennai,Tamil Nadu,Autumn,22.8,68,0.5,0.1,1011.6,Fog
+1071,2023-05-11,Jaipur,Rajasthan,Monsoon,27.7,87,16.2,1.26,1014.8,Sunny
+1072,2023-11-28,Jaipur,Rajasthan,Summer,34.0,73,2.9,0.42,1003.7,Cloudy
+1073,2023-09-05,Pune,Maharashtra,Autumn,23.8,55,22.5,0.18,1012.0,Haze
+1074,2023-05-21,Bangalore,Karnataka,Autumn,26.9,81,30.7,0.3,1015.7,Sunny
+1075,2022-01-07,Lucknow,Uttar Pradesh,Autumn,21.9,53,18.9,0.16,1011.9,Fog
+1076,2023-08-29,Ahmedabad,Gujarat,Monsoon,27.0,64,24.2,1.95,1013.6,Haze
+1077,2023-04-09,Delhi,Delhi,Summer,36.1,76,20.4,0.07,1018.6,Rain
+1078,2022-08-30,Hyderabad,Telangana,Winter,16.9,50,32.9,0.33,1009.0,Sunny
+1079,2023-11-07,Ahmedabad,Gujarat,Autumn,24.3,76,19.3,0.92,1026.5,Sunny
+1080,2022-06-17,Lucknow,Uttar Pradesh,Summer,32.7,68,6.5,0.22,1017.1,Cloudy
+1081,2023-12-06,Kolkata,West Bengal,Autumn,17.8,41,27.7,0.74,1021.9,Fog
+1082,2023-10-31,Jaipur,Rajasthan,Winter,14.6,78,15.4,0.0,1013.4,Haze
+1083,2024-02-08,Bangalore,Karnataka,Monsoon,28.8,35,16.7,0.2,998.4,Rain
+1084,2022-10-24,Ahmedabad,Gujarat,Winter,19.3,65,2.4,1.31,1008.2,Storm
+1085,2022-11-27,Mumbai,Maharashtra,Summer,39.5,93,18.8,0.08,1012.3,Haze
+1086,2023-04-14,Mumbai,Maharashtra,Autumn,23.1,37,22.8,0.95,1014.9,Sunny
+1087,2023-04-02,Chennai,Tamil Nadu,Autumn,25.8,85,0.7,1.33,1010.7,Haze
+1088,2022-02-10,Hyderabad,Telangana,Monsoon,30.5,40,34.9,0.17,1011.1,Cloudy
+1089,2023-11-16,Lucknow,Uttar Pradesh,Autumn,21.0,45,25.0,1.25,1019.6,Sunny
+1090,2023-11-28,Ahmedabad,Gujarat,Summer,38.3,85,27.9,1.55,1008.5,Rain
+1091,2023-02-07,Hyderabad,Telangana,Winter,15.5,80,16.7,1.32,1005.5,Haze
+1092,2024-04-19,Bangalore,Karnataka,Winter,21.4,49,34.6,0.34,1010.8,Fog
+1093,2023-02-19,Ahmedabad,Gujarat,Autumn,28.4,56,4.7,0.77,1008.5,Rain
+1094,2023-04-07,Bangalore,Karnataka,Monsoon,32.6,93,19.0,0.04,1016.0,Storm
+1095,2023-10-26,Kolkata,West Bengal,Autumn,27.5,82,7.7,3.1,992.2,Sunny
+1096,2022-01-29,Jaipur,Rajasthan,Summer,40.3,49,22.1,1.87,1008.3,Sunny
+1097,2023-01-03,Jaipur,Rajasthan,Autumn,25.3,64,25.5,0.89,1002.8,Haze
+1098,2022-01-16,Jaipur,Rajasthan,Monsoon,22.4,68,2.9,1.05,1008.3,Cloudy
+1099,2022-09-17,Lucknow,Uttar Pradesh,Monsoon,32.1,74,32.9,7.23,1013.1,Rain
+1100,2024-04-07,Hyderabad,Telangana,Summer,35.7,82,6.1,0.71,1005.0,Sunny
+1101,2022-01-02,Chennai,Tamil Nadu,Monsoon,27.7,74,20.6,4.16,1003.4,Fog
+1102,2023-12-29,Kolkata,West Bengal,Winter,12.9,38,31.4,1.59,1019.3,Cloudy
+1103,2023-02-16,Ahmedabad,Gujarat,Summer,38.7,94,6.6,0.87,1007.0,Haze
+1104,2023-06-04,Hyderabad,Telangana,Winter,12.8,38,0.0,0.02,1011.7,Storm
+1105,2022-02-02,Bangalore,Karnataka,Monsoon,27.3,49,9.1,4.96,1024.2,Sunny
+1106,2023-06-10,Ahmedabad,Gujarat,Monsoon,27.1,77,7.2,1.85,1005.1,Rain
+1107,2023-09-03,Mumbai,Maharashtra,Autumn,29.6,46,11.6,0.07,1016.4,Sunny
+1108,2022-04-27,Pune,Maharashtra,Monsoon,24.3,53,13.4,4.5,1010.8,Sunny
+1109,2024-05-13,Hyderabad,Telangana,Autumn,23.9,62,32.1,0.27,1012.7,Fog
+1110,2023-11-25,Lucknow,Uttar Pradesh,Autumn,30.2,50,34.3,0.67,1021.6,Fog
+1111,2022-06-28,Kolkata,West Bengal,Summer,34.7,92,23.4,5.49,997.6,Haze
+1112,2022-09-28,Kolkata,West Bengal,Summer,33.1,65,22.9,0.84,999.1,Storm
+1113,2023-09-10,Hyderabad,Telangana,Autumn,30.5,74,23.2,1.56,1004.6,Fog
+1114,2023-07-26,Jaipur,Rajasthan,Monsoon,24.6,46,27.3,4.32,1007.7,Sunny
+1115,2022-05-23,Kolkata,West Bengal,Autumn,22.8,59,34.1,1.51,1005.3,Rain
+1116,2022-07-16,Bangalore,Karnataka,Monsoon,28.3,69,15.8,0.79,1011.5,Storm
+1117,2022-11-11,Hyderabad,Telangana,Autumn,24.1,88,24.7,0.3,1022.9,Rain
+1118,2024-03-11,Jaipur,Rajasthan,Summer,34.7,60,23.7,0.04,1008.1,Rain
+1119,2022-08-05,Jaipur,Rajasthan,Summer,34.6,39,12.5,1.99,1002.7,Storm
+1120,2023-10-01,Lucknow,Uttar Pradesh,Summer,30.8,93,6.2,0.76,1012.0,Rain
+1121,2023-08-09,Jaipur,Rajasthan,Winter,19.9,63,6.0,0.25,1003.8,Haze
+1122,2022-07-23,Hyderabad,Telangana,Winter,10.1,58,19.1,1.3,1003.9,Sunny
+1123,2024-06-04,Chennai,Tamil Nadu,Monsoon,27.4,51,11.5,1.05,1003.5,Haze
+1124,2022-10-21,Jaipur,Rajasthan,Autumn,25.0,66,25.2,2.48,1002.9,Fog
+1125,2022-05-12,Bangalore,Karnataka,Winter,18.1,54,10.0,0.36,1017.2,Storm
+1126,2022-06-22,Delhi,Delhi,Monsoon,23.5,45,19.8,4.25,1008.2,Cloudy
+1127,2022-05-03,Ahmedabad,Gujarat,Winter,22.9,89,15.5,0.15,1016.0,Storm
+1128,2023-01-04,Kolkata,West Bengal,Monsoon,35.7,71,6.2,4.14,1018.3,Cloudy
+1129,2022-11-01,Delhi,Delhi,Winter,10.7,56,14.1,0.43,999.9,Haze
+1130,2022-06-26,Delhi,Delhi,Winter,26.4,54,11.8,1.4,1007.1,Fog
+1131,2022-04-14,Bangalore,Karnataka,Winter,16.0,92,32.6,0.42,1017.8,Cloudy
+1132,2024-04-18,Pune,Maharashtra,Monsoon,28.9,44,8.5,9.0,1009.0,Rain
+1133,2023-11-03,Hyderabad,Telangana,Winter,14.2,72,23.0,0.95,998.1,Sunny
+1134,2023-11-02,Hyderabad,Telangana,Autumn,28.2,74,4.9,0.25,1017.3,Fog
+1135,2023-09-25,Pune,Maharashtra,Summer,42.6,92,23.4,2.42,1011.3,Fog
+1136,2022-04-27,Pune,Maharashtra,Summer,45.4,56,2.3,1.15,1007.9,Storm
+1137,2022-12-10,Bangalore,Karnataka,Monsoon,28.3,92,30.9,9.0,1019.6,Haze
+1138,2024-01-03,Jaipur,Rajasthan,Summer,35.5,93,29.5,1.63,998.9,Cloudy
+1139,2022-07-01,Ahmedabad,Gujarat,Monsoon,24.4,63,2.4,2.9,1013.0,Cloudy
+1140,2022-10-31,Chennai,Tamil Nadu,Winter,17.0,70,9.7,1.44,995.7,Sunny
+1141,2022-11-20,Ahmedabad,Gujarat,Autumn,22.4,47,22.7,0.27,1019.1,Storm
+1142,2024-01-20,Chennai,Tamil Nadu,Monsoon,26.8,49,5.0,2.06,1011.8,Rain
+1143,2023-12-22,Pune,Maharashtra,Monsoon,24.5,82,4.4,5.37,1014.7,Cloudy
+1144,2023-04-24,Pune,Maharashtra,Monsoon,27.8,59,17.3,3.67,1013.5,Fog
+1145,2022-10-08,Jaipur,Rajasthan,Winter,17.5,52,5.5,0.02,991.4,Cloudy
+1146,2024-04-25,Delhi,Delhi,Autumn,26.4,85,21.4,0.68,1015.2,Fog
+1147,2024-05-25,Chennai,Tamil Nadu,Monsoon,24.9,76,23.0,8.61,1002.8,Cloudy
+1148,2023-08-19,Jaipur,Rajasthan,Autumn,23.8,72,28.9,1.16,1023.4,Fog
+1149,2023-04-06,Mumbai,Maharashtra,Winter,21.3,82,14.8,1.11,1007.8,Sunny
+1150,2022-04-17,Kolkata,West Bengal,Summer,34.8,58,31.0,1.22,1017.5,Haze
+1151,2022-02-20,Lucknow,Uttar Pradesh,Autumn,21.0,43,3.5,0.47,1008.2,Sunny
+1152,2023-02-24,Mumbai,Maharashtra,Autumn,33.2,37,26.6,0.37,1009.1,Sunny
+1153,2022-10-14,Lucknow,Uttar Pradesh,Winter,21.8,55,1.4,2.03,1013.2,Sunny
+1154,2024-03-31,Mumbai,Maharashtra,Autumn,29.8,74,16.4,1.2,1022.0,Haze
+1155,2023-09-23,Bangalore,Karnataka,Summer,31.5,55,1.6,0.8,1020.1,Cloudy
+1156,2023-05-15,Pune,Maharashtra,Winter,24.2,93,31.1,0.02,996.8,Haze
+1157,2022-06-02,Pune,Maharashtra,Summer,32.1,54,28.3,0.51,1022.6,Rain
+1158,2023-01-24,Kolkata,West Bengal,Winter,16.1,51,7.1,0.38,1011.4,Storm
+1159,2022-04-26,Pune,Maharashtra,Autumn,24.3,68,29.1,2.53,1004.6,Haze
+1160,2024-05-22,Hyderabad,Telangana,Winter,17.5,68,0.7,0.67,1022.1,Storm
+1161,2023-03-26,Ahmedabad,Gujarat,Summer,31.1,68,34.9,0.55,1010.7,Rain
+1162,2022-03-06,Ahmedabad,Gujarat,Winter,18.8,69,14.7,0.13,1010.3,Cloudy
+1163,2024-02-28,Mumbai,Maharashtra,Summer,38.0,60,2.9,0.49,1011.2,Rain
+1164,2022-07-16,Bangalore,Karnataka,Summer,26.8,85,24.9,1.87,1004.9,Haze
+1165,2022-05-21,Lucknow,Uttar Pradesh,Summer,29.6,59,17.8,0.93,990.6,Haze
+1166,2022-06-26,Kolkata,West Bengal,Winter,17.7,88,13.5,1.42,1009.3,Rain
+1167,2023-01-27,Chennai,Tamil Nadu,Summer,34.8,62,8.8,0.64,1010.6,Storm
+1168,2023-10-23,Lucknow,Uttar Pradesh,Monsoon,26.8,63,6.3,0.54,1009.3,Cloudy
+1169,2023-05-08,Kolkata,West Bengal,Autumn,26.5,53,29.8,2.06,1007.4,Storm
+1170,2022-06-16,Jaipur,Rajasthan,Autumn,28.0,76,13.9,1.31,1013.1,Rain
+1171,2023-03-28,Chennai,Tamil Nadu,Autumn,26.5,52,19.0,1.46,1018.7,Sunny
+1172,2022-10-11,Bangalore,Karnataka,Autumn,21.8,50,23.1,0.07,1011.4,Fog
+1173,2022-08-04,Chennai,Tamil Nadu,Winter,17.4,74,33.2,0.25,1008.8,Haze
+1174,2022-10-26,Lucknow,Uttar Pradesh,Autumn,22.9,56,4.1,1.81,1004.3,Storm
+1175,2023-06-03,Lucknow,Uttar Pradesh,Autumn,23.5,51,5.3,0.31,1009.1,Haze
+1176,2024-03-09,Lucknow,Uttar Pradesh,Autumn,26.0,83,34.2,0.83,1002.8,Haze
+1177,2022-12-08,Jaipur,Rajasthan,Summer,43.1,56,6.6,0.51,1007.2,Storm
+1178,2022-03-18,Ahmedabad,Gujarat,Monsoon,27.2,53,7.9,0.43,1014.3,Haze
+1179,2022-11-25,Mumbai,Maharashtra,Winter,16.8,79,0.6,3.64,1018.5,Rain
+1180,2022-10-18,Bangalore,Karnataka,Monsoon,31.5,67,30.5,0.19,1009.7,Storm
+1181,2023-10-30,Mumbai,Maharashtra,Winter,23.2,38,27.5,0.66,1016.6,Haze
+1182,2023-10-12,Chennai,Tamil Nadu,Autumn,22.0,68,16.6,1.95,1002.0,Cloudy
+1183,2022-09-14,Chennai,Tamil Nadu,Summer,33.9,39,3.4,0.38,1018.5,Fog
+1184,2024-06-13,Lucknow,Uttar Pradesh,Autumn,26.2,56,24.6,0.39,992.0,Sunny
+1185,2022-07-19,Chennai,Tamil Nadu,Monsoon,30.2,72,6.7,4.72,1007.0,Rain
+1186,2022-09-17,Pune,Maharashtra,Summer,32.5,41,5.5,0.27,1013.7,Sunny
+1187,2023-04-09,Chennai,Tamil Nadu,Winter,20.2,81,23.8,0.93,1015.0,Sunny
+1188,2022-03-04,Kolkata,West Bengal,Autumn,27.4,61,2.1,0.45,1016.9,Haze
+1189,2023-09-29,Chennai,Tamil Nadu,Monsoon,27.3,56,23.7,2.13,1010.6,Storm
+1190,2023-06-22,Mumbai,Maharashtra,Summer,31.6,69,14.9,0.5,1013.8,Cloudy
+1191,2022-09-07,Kolkata,West Bengal,Summer,35.5,92,28.0,1.0,1011.1,Rain
+1192,2024-03-02,Kolkata,West Bengal,Winter,20.7,38,24.0,0.66,1021.4,Sunny
+1193,2023-11-30,Lucknow,Uttar Pradesh,Winter,16.3,51,25.4,0.5,1008.2,Haze
+1194,2023-03-04,Delhi,Delhi,Winter,27.6,45,0.5,1.44,1009.9,Cloudy
+1195,2024-05-13,Ahmedabad,Gujarat,Monsoon,25.2,84,7.1,1.74,1005.0,Cloudy
+1196,2022-08-04,Lucknow,Uttar Pradesh,Winter,20.4,35,24.0,1.19,1014.6,Cloudy
+1197,2024-01-27,Pune,Maharashtra,Winter,17.7,62,10.5,0.11,1013.4,Sunny
+1198,2022-12-19,Ahmedabad,Gujarat,Monsoon,27.8,70,29.5,0.99,1011.4,Cloudy
+1199,2022-02-16,Bangalore,Karnataka,Winter,17.5,66,2.9,1.05,1006.3,Haze
+1200,2022-03-16,Ahmedabad,Gujarat,Winter,15.1,63,22.5,1.41,998.6,Fog
+1201,2022-01-03,Pune,Maharashtra,Autumn,25.9,93,32.0,10.87,1009.4,Storm
+1202,2022-08-28,Ahmedabad,Gujarat,Autumn,26.9,61,26.4,5.98,1012.9,Cloudy
+1203,2024-05-09,Mumbai,Maharashtra,Summer,37.1,56,13.1,0.76,1014.8,Fog
+1204,2023-03-18,Kolkata,West Bengal,Winter,18.0,58,17.7,1.46,994.7,Rain
+1205,2023-01-15,Jaipur,Rajasthan,Summer,34.5,43,32.8,0.47,1001.8,Haze
+1206,2023-02-08,Mumbai,Maharashtra,Autumn,27.5,82,14.5,0.51,1016.4,Sunny
+1207,2022-06-06,Pune,Maharashtra,Summer,35.7,85,20.0,0.22,1004.7,Sunny
+1208,2024-02-22,Delhi,Delhi,Summer,33.0,40,34.1,0.05,1014.8,Sunny
+1209,2023-10-26,Pune,Maharashtra,Autumn,21.0,66,33.2,2.13,1021.5,Haze
+1210,2022-10-21,Ahmedabad,Gujarat,Summer,29.8,64,7.9,0.25,1005.6,Rain
+1211,2023-10-21,Pune,Maharashtra,Winter,19.0,59,28.0,3.24,1016.2,Cloudy
+1212,2023-07-19,Jaipur,Rajasthan,Autumn,21.5,69,11.3,2.57,1010.0,Cloudy
+1213,2023-10-03,Ahmedabad,Gujarat,Autumn,27.4,48,15.8,0.83,1014.7,Storm
+1214,2023-09-07,Hyderabad,Telangana,Monsoon,24.1,52,25.9,7.76,1013.6,Storm
+1215,2022-07-05,Delhi,Delhi,Monsoon,30.2,84,4.4,6.93,1012.4,Cloudy
+1216,2022-03-20,Lucknow,Uttar Pradesh,Summer,30.2,52,5.3,0.07,1010.0,Haze
+1217,2022-10-31,Lucknow,Uttar Pradesh,Summer,38.2,94,22.7,0.83,1012.0,Haze
+1218,2022-11-25,Lucknow,Uttar Pradesh,Winter,17.7,81,17.0,0.77,1012.3,Fog
+1219,2023-12-13,Bangalore,Karnataka,Autumn,25.7,42,7.8,0.82,1009.3,Cloudy
+1220,2023-01-17,Chennai,Tamil Nadu,Autumn,23.4,89,25.9,1.28,1012.7,Rain
+1221,2022-06-19,Chennai,Tamil Nadu,Monsoon,25.6,54,2.7,12.21,1013.4,Cloudy
+1222,2022-11-01,Lucknow,Uttar Pradesh,Autumn,21.6,79,21.7,0.84,1008.6,Cloudy
+1223,2023-04-04,Hyderabad,Telangana,Summer,37.7,50,12.8,2.59,1010.6,Sunny
+1224,2023-10-09,Delhi,Delhi,Autumn,25.3,77,15.8,0.38,1005.1,Rain
+1225,2024-03-22,Chennai,Tamil Nadu,Autumn,23.3,37,18.6,2.42,1005.6,Cloudy
+1226,2022-11-06,Mumbai,Maharashtra,Summer,29.7,36,26.1,6.39,1012.9,Rain
+1227,2023-09-24,Lucknow,Uttar Pradesh,Summer,38.2,45,4.3,2.71,1007.1,Rain
+1228,2022-01-20,Mumbai,Maharashtra,Summer,39.8,93,6.3,0.34,1001.3,Fog
+1229,2023-01-22,Kolkata,West Bengal,Summer,32.2,42,23.1,0.96,1011.1,Rain
+1230,2023-04-19,Chennai,Tamil Nadu,Summer,36.4,84,5.3,0.23,1001.6,Haze
+1231,2024-02-11,Mumbai,Maharashtra,Summer,32.8,48,9.0,0.38,1015.9,Rain
+1232,2024-02-18,Hyderabad,Telangana,Winter,15.2,80,16.9,3.87,1020.6,Sunny
+1233,2022-01-24,Kolkata,West Bengal,Autumn,25.9,58,4.6,0.46,1002.3,Cloudy
+1234,2023-06-13,Kolkata,West Bengal,Monsoon,26.8,77,12.4,5.25,1019.1,Storm
+1235,2024-03-30,Lucknow,Uttar Pradesh,Summer,35.2,39,0.1,0.51,1011.1,Fog
+1236,2024-03-14,Ahmedabad,Gujarat,Winter,20.1,55,9.3,0.04,1012.8,Cloudy
+1237,2023-12-13,Jaipur,Rajasthan,Monsoon,25.6,87,22.5,2.59,1006.2,Haze
+1238,2023-10-10,Mumbai,Maharashtra,Monsoon,22.2,37,3.3,6.74,1015.9,Rain
+1239,2022-11-23,Lucknow,Uttar Pradesh,Winter,14.3,88,12.3,1.15,1016.8,Sunny
+1240,2024-06-14,Delhi,Delhi,Monsoon,30.8,92,26.3,3.26,1016.9,Cloudy
+1241,2023-09-25,Jaipur,Rajasthan,Winter,19.5,49,8.0,1.58,1021.1,Cloudy
+1242,2023-02-21,Bangalore,Karnataka,Summer,36.3,36,6.5,2.89,1013.0,Sunny
+1243,2023-08-28,Hyderabad,Telangana,Summer,29.8,48,17.2,0.87,1007.9,Fog
+1244,2023-01-02,Chennai,Tamil Nadu,Winter,7.9,88,17.8,5.41,1012.1,Haze
+1245,2024-01-15,Bangalore,Karnataka,Winter,16.5,40,23.3,0.32,1014.7,Rain
+1246,2023-10-13,Kolkata,West Bengal,Summer,30.9,68,3.1,0.02,1020.8,Rain
+1247,2023-09-02,Chennai,Tamil Nadu,Summer,32.7,83,11.3,0.05,1010.0,Storm
+1248,2022-05-01,Mumbai,Maharashtra,Autumn,27.3,80,15.3,0.12,1014.3,Fog
+1249,2023-02-21,Bangalore,Karnataka,Autumn,26.2,83,32.0,2.13,1017.3,Sunny
+1250,2022-01-25,Bangalore,Karnataka,Monsoon,27.7,44,14.8,0.67,1017.2,Storm
+1251,2024-05-18,Delhi,Delhi,Summer,26.6,47,25.2,1.98,1018.6,Haze
+1252,2022-01-09,Mumbai,Maharashtra,Monsoon,21.4,49,1.1,12.21,1019.9,Cloudy
+1253,2024-01-06,Delhi,Delhi,Summer,34.0,71,18.0,0.02,1015.6,Cloudy
+1254,2023-12-29,Bangalore,Karnataka,Monsoon,25.3,88,35.0,2.39,1011.3,Storm
+1255,2024-02-13,Kolkata,West Bengal,Monsoon,33.2,68,3.3,0.95,1010.7,Rain
+1256,2024-03-23,Pune,Maharashtra,Summer,33.4,93,27.5,0.24,1004.8,Fog
+1257,2023-07-10,Lucknow,Uttar Pradesh,Summer,39.4,74,12.5,0.5,1003.2,Fog
+1258,2024-03-09,Chennai,Tamil Nadu,Autumn,24.2,61,16.1,0.91,1001.4,Rain
+1259,2023-06-07,Delhi,Delhi,Summer,35.6,89,32.2,1.33,1013.1,Storm
+1260,2022-03-22,Pune,Maharashtra,Winter,14.1,89,21.9,3.08,997.8,Storm
+1261,2023-08-22,Hyderabad,Telangana,Autumn,25.9,94,3.7,1.16,1008.9,Fog
+1262,2023-09-15,Kolkata,West Bengal,Autumn,26.8,67,13.7,1.04,1001.4,Haze
+1263,2022-08-21,Delhi,Delhi,Summer,29.1,94,22.4,0.48,1010.1,Fog
+1264,2023-04-15,Hyderabad,Telangana,Autumn,26.0,50,0.4,0.23,1001.3,Sunny
+1265,2024-02-13,Hyderabad,Telangana,Monsoon,25.1,53,15.0,0.01,1008.1,Sunny
+1266,2023-04-11,Bangalore,Karnataka,Winter,18.4,52,32.1,1.05,998.1,Storm
+1267,2022-04-13,Chennai,Tamil Nadu,Winter,15.9,61,25.4,0.87,1014.2,Sunny
+1268,2023-05-29,Lucknow,Uttar Pradesh,Summer,29.1,88,20.0,0.28,1001.7,Haze
+1269,2023-02-12,Jaipur,Rajasthan,Autumn,25.1,77,9.4,0.14,1013.8,Sunny
+1270,2022-03-27,Ahmedabad,Gujarat,Winter,20.1,38,7.0,0.37,1008.0,Fog
+1271,2023-08-28,Bangalore,Karnataka,Monsoon,24.5,58,29.7,3.55,1011.2,Cloudy
+1272,2022-09-06,Chennai,Tamil Nadu,Monsoon,32.8,63,34.3,11.87,1001.4,Storm
+1273,2023-10-10,Jaipur,Rajasthan,Autumn,21.2,78,21.0,1.34,995.7,Storm
+1274,2022-06-07,Mumbai,Maharashtra,Monsoon,31.8,38,24.7,1.21,1017.0,Haze
+1275,2022-12-24,Kolkata,West Bengal,Summer,33.4,91,20.2,0.65,1013.4,Cloudy
+1276,2024-05-10,Pune,Maharashtra,Autumn,24.0,43,18.3,3.52,994.7,Storm
+1277,2022-07-29,Kolkata,West Bengal,Summer,33.9,55,6.0,1.75,1012.7,Storm
+1278,2023-10-09,Bangalore,Karnataka,Winter,13.1,50,11.1,0.06,1011.5,Cloudy
+1279,2022-11-07,Delhi,Delhi,Autumn,23.8,50,28.4,0.27,1021.6,Sunny
+1280,2023-01-05,Hyderabad,Telangana,Winter,19.4,46,23.0,0.28,1012.5,Fog
+1281,2023-11-10,Hyderabad,Telangana,Autumn,24.2,91,5.3,2.03,1014.5,Rain
+1282,2023-01-15,Hyderabad,Telangana,Winter,20.5,65,21.4,0.28,1004.2,Storm
+1283,2022-11-23,Jaipur,Rajasthan,Summer,33.6,57,1.2,0.27,1017.6,Fog
+1284,2022-01-21,Bangalore,Karnataka,Autumn,30.7,71,34.6,0.23,1003.4,Sunny
+1285,2022-10-05,Mumbai,Maharashtra,Autumn,24.5,38,14.2,0.25,1003.5,Haze
+1286,2022-10-28,Bangalore,Karnataka,Winter,19.1,83,33.4,0.54,1014.1,Rain
+1287,2024-02-27,Kolkata,West Bengal,Summer,31.7,91,3.9,0.97,1011.7,Cloudy
+1288,2024-02-17,Ahmedabad,Gujarat,Winter,24.8,91,8.1,0.76,1015.9,Storm
+1289,2023-08-30,Pune,Maharashtra,Autumn,25.7,42,11.1,1.1,1003.0,Cloudy
+1290,2023-01-13,Chennai,Tamil Nadu,Summer,23.4,53,18.8,1.77,1016.3,Rain
+1291,2022-03-21,Bangalore,Karnataka,Autumn,26.6,44,21.0,0.62,1007.4,Cloudy
+1292,2024-03-17,Bangalore,Karnataka,Summer,30.4,83,30.3,1.66,1010.2,Haze
+1293,2023-11-16,Mumbai,Maharashtra,Winter,19.6,72,7.4,3.11,1005.5,Sunny
+1294,2024-01-04,Pune,Maharashtra,Autumn,32.6,83,13.9,1.7,1016.1,Cloudy
+1295,2022-03-07,Chennai,Tamil Nadu,Monsoon,25.4,54,14.6,3.05,1012.4,Rain
+1296,2022-03-21,Delhi,Delhi,Autumn,23.1,92,4.9,0.02,1010.1,Haze
+1297,2023-04-11,Ahmedabad,Gujarat,Winter,27.2,81,8.1,0.1,1012.8,Storm
+1298,2022-04-07,Delhi,Delhi,Summer,32.0,76,28.9,0.35,1012.3,Sunny
+1299,2023-03-19,Ahmedabad,Gujarat,Summer,34.1,39,24.3,0.19,1010.1,Haze
+1300,2023-03-02,Mumbai,Maharashtra,Winter,16.6,64,26.9,0.29,1005.7,Storm
+1301,2024-05-02,Chennai,Tamil Nadu,Winter,13.9,94,20.5,0.31,1018.6,Fog
+1302,2022-08-30,Delhi,Delhi,Monsoon,22.7,63,14.8,1.3,1005.9,Sunny
+1303,2023-02-27,Jaipur,Rajasthan,Monsoon,29.5,62,10.8,3.09,1009.5,Rain
+1304,2022-11-08,Hyderabad,Telangana,Winter,22.8,74,21.3,0.9,1010.8,Storm
+1305,2023-09-15,Mumbai,Maharashtra,Monsoon,26.9,41,13.9,3.82,996.2,Storm
+1306,2023-07-25,Ahmedabad,Gujarat,Summer,17.7,55,22.4,0.79,1005.4,Fog
+1307,2022-08-17,Delhi,Delhi,Winter,13.4,43,33.0,2.51,1002.6,Haze
+1308,2023-02-25,Lucknow,Uttar Pradesh,Monsoon,32.8,71,8.9,4.99,1006.7,Storm
+1309,2024-03-12,Delhi,Delhi,Autumn,26.8,56,17.0,1.9,1005.3,Cloudy
+1310,2022-11-02,Jaipur,Rajasthan,Summer,38.2,77,10.1,0.31,1009.6,Fog
+1311,2022-06-10,Hyderabad,Telangana,Monsoon,30.7,62,20.4,0.3,1019.1,Fog
+1312,2023-09-10,Kolkata,West Bengal,Autumn,25.7,89,17.9,0.71,1018.5,Haze
+1313,2022-01-13,Mumbai,Maharashtra,Autumn,23.0,45,9.7,0.87,1015.9,Sunny
+1314,2023-03-23,Kolkata,West Bengal,Winter,17.3,53,0.6,0.08,1010.1,Storm
+1315,2024-04-05,Lucknow,Uttar Pradesh,Monsoon,25.8,93,21.5,0.38,1014.8,Cloudy
+1316,2024-05-09,Delhi,Delhi,Summer,33.9,84,29.4,0.9,1014.5,Storm
+1317,2022-01-06,Ahmedabad,Gujarat,Summer,32.8,67,11.9,1.31,1012.7,Fog
+1318,2024-02-14,Lucknow,Uttar Pradesh,Autumn,30.5,84,25.5,1.31,1009.3,Storm
+1319,2024-04-27,Ahmedabad,Gujarat,Winter,15.6,55,7.4,0.76,999.6,Cloudy
+1320,2022-07-20,Jaipur,Rajasthan,Summer,31.4,53,12.7,0.59,1008.4,Storm
+1321,2023-02-03,Bangalore,Karnataka,Winter,18.5,60,16.3,2.75,1014.5,Rain
+1322,2022-09-18,Delhi,Delhi,Winter,21.7,36,16.9,0.68,1009.4,Rain
+1323,2023-01-02,Lucknow,Uttar Pradesh,Winter,18.9,85,8.5,0.7,1010.8,Storm
+1324,2023-12-19,Hyderabad,Telangana,Autumn,21.9,92,1.3,0.18,1008.8,Fog
+1325,2022-02-08,Lucknow,Uttar Pradesh,Monsoon,33.7,59,26.7,3.88,1013.4,Storm
+1326,2024-01-15,Kolkata,West Bengal,Winter,18.7,37,17.9,2.7,1000.4,Rain
+1327,2023-07-06,Hyderabad,Telangana,Winter,23.5,40,4.3,0.41,1008.2,Haze
+1328,2022-01-22,Mumbai,Maharashtra,Autumn,22.3,83,30.4,0.0,998.5,Fog
+1329,2023-02-08,Jaipur,Rajasthan,Winter,10.3,55,7.0,1.98,998.9,Rain
+1330,2024-01-22,Pune,Maharashtra,Monsoon,22.9,60,19.2,0.34,1012.7,Rain
+1331,2023-06-14,Jaipur,Rajasthan,Monsoon,28.6,35,15.8,3.98,1018.4,Rain
+1332,2023-02-08,Jaipur,Rajasthan,Autumn,28.0,42,2.3,0.77,1011.5,Storm
+1333,2024-05-08,Jaipur,Rajasthan,Monsoon,25.9,60,8.0,4.63,1008.9,Fog
+1334,2022-11-17,Lucknow,Uttar Pradesh,Monsoon,31.3,80,27.6,3.69,1023.1,Storm
+1335,2022-10-22,Chennai,Tamil Nadu,Autumn,22.6,84,6.4,0.27,1013.8,Cloudy
+1336,2023-08-27,Chennai,Tamil Nadu,Winter,20.4,35,24.6,1.79,1003.1,Sunny
+1337,2022-06-14,Chennai,Tamil Nadu,Monsoon,22.0,53,3.4,8.18,1015.1,Storm
+1338,2023-09-05,Pune,Maharashtra,Winter,19.6,47,17.8,0.55,998.4,Rain
+1339,2022-04-21,Pune,Maharashtra,Monsoon,30.2,87,30.9,0.67,1011.3,Sunny
+1340,2022-03-03,Chennai,Tamil Nadu,Autumn,26.2,91,1.8,1.45,1004.5,Rain
+1341,2023-04-21,Lucknow,Uttar Pradesh,Monsoon,30.2,58,29.8,1.21,1013.4,Haze
+1342,2022-06-04,Chennai,Tamil Nadu,Winter,22.7,91,32.3,0.58,1011.4,Fog
+1343,2024-06-04,Pune,Maharashtra,Autumn,24.8,91,23.1,1.0,1011.1,Cloudy
+1344,2024-01-04,Hyderabad,Telangana,Monsoon,24.9,40,11.7,1.25,1013.8,Rain
+1345,2023-12-08,Jaipur,Rajasthan,Autumn,23.9,76,24.5,0.68,1003.9,Storm
+1346,2024-02-28,Kolkata,West Bengal,Winter,19.0,83,26.0,2.56,1012.4,Fog
+1347,2022-12-23,Lucknow,Uttar Pradesh,Autumn,27.1,57,25.8,0.32,1019.6,Storm
+1348,2023-03-13,Bangalore,Karnataka,Monsoon,24.4,58,23.9,0.24,1013.1,Haze
+1349,2023-02-28,Mumbai,Maharashtra,Summer,42.8,45,14.0,0.34,1003.9,Fog
+1350,2022-07-18,Kolkata,West Bengal,Monsoon,26.2,71,34.6,1.03,994.9,Fog
+1351,2023-05-01,Delhi,Delhi,Monsoon,27.5,57,20.5,2.47,1026.7,Haze
+1352,2022-12-01,Mumbai,Maharashtra,Summer,37.3,55,31.3,1.17,1008.3,Rain
+1353,2023-05-31,Ahmedabad,Gujarat,Summer,39.7,57,19.0,3.36,1007.0,Cloudy
+1354,2022-02-24,Delhi,Delhi,Autumn,26.7,67,25.0,0.22,1016.2,Sunny
+1355,2023-01-06,Delhi,Delhi,Summer,33.6,61,8.8,0.13,1018.4,Fog
+1356,2022-06-11,Jaipur,Rajasthan,Autumn,29.4,72,3.3,0.66,1006.1,Haze
+1357,2023-06-20,Delhi,Delhi,Autumn,25.2,81,30.4,0.06,1018.3,Sunny
+1358,2023-06-05,Bangalore,Karnataka,Summer,36.2,93,7.6,0.12,1004.8,Storm
+1359,2023-04-30,Mumbai,Maharashtra,Summer,32.5,38,4.8,0.81,1006.0,Haze
+1360,2022-08-02,Ahmedabad,Gujarat,Summer,41.3,53,34.6,3.64,1005.0,Fog
+1361,2022-02-05,Bangalore,Karnataka,Monsoon,25.8,78,26.2,2.48,1007.2,Storm
+1362,2023-10-23,Pune,Maharashtra,Monsoon,28.8,70,28.2,1.08,1010.3,Storm
+1363,2024-03-10,Jaipur,Rajasthan,Summer,35.1,48,21.3,0.56,1018.0,Fog
+1364,2022-12-03,Hyderabad,Telangana,Winter,20.1,65,22.8,1.69,1006.2,Fog
+1365,2022-01-25,Delhi,Delhi,Autumn,28.5,81,10.2,4.05,999.4,Rain
+1366,2022-11-06,Kolkata,West Bengal,Monsoon,23.5,68,24.0,14.45,1002.9,Storm
+1367,2022-01-18,Mumbai,Maharashtra,Winter,24.4,45,16.1,0.87,1004.3,Cloudy
+1368,2023-07-22,Pune,Maharashtra,Autumn,31.8,92,33.1,0.24,1009.8,Fog
+1369,2022-03-29,Pune,Maharashtra,Autumn,21.7,56,34.6,0.57,1017.9,Haze
+1370,2023-07-14,Delhi,Delhi,Summer,29.4,82,5.4,0.35,1017.7,Haze
+1371,2023-09-08,Delhi,Delhi,Summer,34.5,82,2.5,3.05,1000.5,Sunny
+1372,2024-02-08,Ahmedabad,Gujarat,Autumn,28.5,71,22.6,0.03,1015.3,Rain
+1373,2024-04-16,Chennai,Tamil Nadu,Autumn,27.9,35,20.9,2.66,1006.5,Storm
+1374,2022-05-05,Chennai,Tamil Nadu,Monsoon,21.4,72,17.7,5.76,1017.2,Sunny
+1375,2023-01-13,Mumbai,Maharashtra,Monsoon,28.9,90,15.8,1.12,1009.8,Storm
+1376,2022-10-25,Delhi,Delhi,Summer,37.0,64,15.3,1.47,1019.2,Haze
+1377,2022-11-15,Jaipur,Rajasthan,Summer,23.4,65,30.9,1.8,1018.3,Rain
+1378,2022-06-24,Jaipur,Rajasthan,Autumn,26.9,61,1.9,0.79,1002.6,Fog
+1379,2022-03-29,Mumbai,Maharashtra,Autumn,21.8,35,0.2,0.78,998.1,Cloudy
+1380,2022-04-23,Mumbai,Maharashtra,Autumn,26.3,38,28.9,2.92,1006.5,Sunny
+1381,2024-06-07,Kolkata,West Bengal,Autumn,25.4,38,10.0,1.71,1007.6,Fog
+1382,2023-09-13,Mumbai,Maharashtra,Summer,36.5,40,31.1,1.89,1009.8,Cloudy
+1383,2024-01-22,Jaipur,Rajasthan,Monsoon,30.9,48,19.7,0.67,1004.9,Storm
+1384,2022-06-10,Chennai,Tamil Nadu,Summer,37.7,91,16.9,2.17,1011.4,Haze
+1385,2023-10-24,Ahmedabad,Gujarat,Winter,14.5,42,20.5,0.49,1008.0,Storm
+1386,2023-01-15,Jaipur,Rajasthan,Monsoon,28.4,48,9.5,2.84,1001.0,Storm
+1387,2023-04-10,Mumbai,Maharashtra,Monsoon,27.5,40,6.4,3.35,1011.3,Sunny
+1388,2022-04-12,Ahmedabad,Gujarat,Autumn,24.2,49,6.5,0.16,1010.8,Haze
+1389,2022-10-02,Jaipur,Rajasthan,Summer,29.9,75,23.0,0.37,1008.8,Rain
+1390,2022-11-04,Jaipur,Rajasthan,Winter,7.9,94,2.7,0.19,1017.5,Rain
+1391,2022-03-02,Kolkata,West Bengal,Monsoon,25.2,63,19.5,8.04,1002.9,Sunny
+1392,2023-12-20,Pune,Maharashtra,Monsoon,31.8,46,9.3,18.61,1003.7,Storm
+1393,2022-08-23,Hyderabad,Telangana,Summer,32.2,74,5.9,0.02,1021.7,Cloudy
+1394,2024-05-21,Ahmedabad,Gujarat,Monsoon,27.4,39,11.3,2.99,1019.3,Sunny
+1395,2023-07-22,Chennai,Tamil Nadu,Summer,33.8,47,13.9,1.38,1013.8,Haze
+1396,2023-04-07,Hyderabad,Telangana,Monsoon,28.5,51,33.4,0.5,1019.9,Storm
+1397,2023-10-10,Bangalore,Karnataka,Autumn,28.8,59,25.2,0.35,1014.0,Sunny
+1398,2023-03-20,Jaipur,Rajasthan,Summer,34.8,59,26.0,0.19,1001.1,Fog
+1399,2022-08-13,Ahmedabad,Gujarat,Summer,37.4,90,29.0,0.03,1010.1,Storm
+1400,2022-04-26,Jaipur,Rajasthan,Summer,35.0,50,2.4,1.05,1007.1,Sunny
+1401,2022-12-11,Delhi,Delhi,Autumn,27.2,94,19.1,1.53,1002.1,Sunny
+1402,2024-01-28,Hyderabad,Telangana,Summer,34.8,67,32.2,1.36,1011.4,Sunny
+1403,2024-04-17,Mumbai,Maharashtra,Autumn,26.8,48,7.3,1.03,1014.1,Fog
+1404,2022-10-13,Ahmedabad,Gujarat,Monsoon,27.5,89,27.0,0.32,1004.4,Cloudy
+1405,2024-03-22,Pune,Maharashtra,Summer,25.6,53,5.5,0.49,1013.2,Rain
+1406,2022-01-13,Hyderabad,Telangana,Autumn,21.8,78,10.6,1.48,1006.3,Fog
+1407,2022-08-20,Mumbai,Maharashtra,Monsoon,32.1,81,31.9,3.9,1011.1,Haze
+1408,2023-12-14,Bangalore,Karnataka,Autumn,26.7,41,9.4,0.65,1013.6,Storm
+1409,2022-04-05,Mumbai,Maharashtra,Autumn,26.1,94,12.8,1.12,994.7,Cloudy
+1410,2024-03-14,Mumbai,Maharashtra,Winter,22.1,93,21.5,0.06,1000.5,Rain
+1411,2023-02-23,Mumbai,Maharashtra,Autumn,27.0,82,9.6,0.37,1003.4,Haze
+1412,2022-04-19,Pune,Maharashtra,Autumn,26.9,91,18.3,0.65,1002.1,Fog
+1413,2024-03-14,Jaipur,Rajasthan,Autumn,24.7,46,17.0,1.24,1011.3,Storm
+1414,2024-05-02,Chennai,Tamil Nadu,Monsoon,33.2,37,16.0,17.14,1011.3,Rain
+1415,2024-05-05,Bangalore,Karnataka,Autumn,27.4,64,7.6,0.14,1011.2,Fog
+1416,2023-12-16,Jaipur,Rajasthan,Autumn,27.5,71,23.4,0.55,1014.8,Storm
+1417,2023-08-30,Lucknow,Uttar Pradesh,Summer,26.3,47,20.7,0.9,1021.9,Haze
+1418,2023-11-26,Chennai,Tamil Nadu,Monsoon,33.1,89,28.9,1.09,1003.5,Cloudy
+1419,2023-08-17,Delhi,Delhi,Summer,35.7,73,23.9,1.47,1016.0,Fog
+1420,2022-05-29,Lucknow,Uttar Pradesh,Autumn,22.3,91,29.9,0.03,1008.4,Rain
+1421,2024-02-13,Bangalore,Karnataka,Summer,33.0,36,16.4,0.09,1010.1,Rain
+1422,2022-05-10,Chennai,Tamil Nadu,Summer,30.1,50,30.7,0.26,1018.0,Rain
+1423,2022-08-28,Lucknow,Uttar Pradesh,Autumn,24.0,91,8.8,0.52,1016.3,Fog
+1424,2024-01-11,Chennai,Tamil Nadu,Summer,31.5,66,6.4,0.1,1011.6,Storm
+1425,2023-09-21,Jaipur,Rajasthan,Autumn,24.0,90,14.5,0.12,1009.6,Sunny
+1426,2023-11-13,Lucknow,Uttar Pradesh,Summer,43.3,90,27.0,1.36,1000.6,Storm
+1427,2022-06-07,Chennai,Tamil Nadu,Summer,34.3,76,28.0,0.86,1005.1,Sunny
+1428,2024-03-25,Delhi,Delhi,Monsoon,22.4,84,10.1,1.83,1026.5,Rain
+1429,2024-06-01,Chennai,Tamil Nadu,Summer,33.1,83,27.1,0.2,1011.4,Sunny
+1430,2024-04-19,Mumbai,Maharashtra,Winter,22.5,57,32.5,0.42,1011.1,Fog
+1431,2024-01-15,Mumbai,Maharashtra,Winter,12.9,75,8.7,2.85,1007.8,Cloudy
+1432,2024-01-23,Delhi,Delhi,Summer,38.3,75,12.7,2.57,1005.2,Rain
+1433,2022-08-30,Hyderabad,Telangana,Autumn,23.1,71,18.0,2.18,1008.4,Fog
+1434,2023-10-14,Chennai,Tamil Nadu,Summer,46.4,55,2.5,0.3,1015.4,Haze
+1435,2024-06-18,Delhi,Delhi,Autumn,25.4,51,16.4,0.17,1003.7,Sunny
+1436,2024-01-30,Jaipur,Rajasthan,Autumn,28.8,68,2.4,1.62,1000.0,Cloudy
+1437,2023-04-07,Chennai,Tamil Nadu,Summer,37.5,94,10.4,0.73,1011.1,Cloudy
+1438,2024-01-15,Ahmedabad,Gujarat,Monsoon,24.9,46,29.2,8.04,1015.3,Cloudy
+1439,2022-03-26,Lucknow,Uttar Pradesh,Summer,37.3,36,24.6,0.39,1006.8,Sunny
+1440,2022-01-05,Delhi,Delhi,Autumn,20.4,58,4.6,0.13,1001.6,Fog
+1441,2023-09-18,Lucknow,Uttar Pradesh,Summer,39.2,74,26.3,0.53,1007.4,Sunny
+1442,2023-12-04,Pune,Maharashtra,Winter,27.2,36,28.2,1.22,1009.1,Sunny
+1443,2023-04-23,Bangalore,Karnataka,Monsoon,26.6,82,34.4,0.51,1020.1,Fog
+1444,2022-10-09,Ahmedabad,Gujarat,Autumn,32.7,56,34.7,0.01,1002.8,Rain
+1445,2022-07-31,Ahmedabad,Gujarat,Winter,23.4,52,34.4,0.81,995.6,Cloudy
+1446,2024-05-08,Bangalore,Karnataka,Summer,26.3,80,20.6,2.3,1009.4,Cloudy
+1447,2024-04-15,Chennai,Tamil Nadu,Winter,16.5,44,19.8,2.06,1023.4,Cloudy
+1448,2024-05-12,Bangalore,Karnataka,Winter,17.5,75,7.2,2.25,991.8,Rain
+1449,2022-08-20,Delhi,Delhi,Winter,16.8,55,11.7,0.83,1016.5,Haze
+1450,2023-01-14,Bangalore,Karnataka,Winter,16.0,46,29.2,0.97,1006.9,Fog
+1451,2022-06-12,Pune,Maharashtra,Winter,25.7,35,5.5,0.89,1008.6,Storm
+1452,2023-08-19,Bangalore,Karnataka,Winter,16.7,51,15.5,1.73,1013.1,Sunny
+1453,2022-01-15,Ahmedabad,Gujarat,Monsoon,27.3,56,4.1,2.08,1005.9,Rain
+1454,2023-11-14,Chennai,Tamil Nadu,Monsoon,28.0,60,19.2,15.17,1023.2,Rain
+1455,2024-04-28,Bangalore,Karnataka,Summer,27.8,51,31.7,1.82,1008.8,Cloudy
+1456,2022-02-23,Chennai,Tamil Nadu,Monsoon,28.1,90,7.7,2.01,1004.3,Cloudy
+1457,2022-01-06,Mumbai,Maharashtra,Monsoon,24.4,83,28.9,2.43,1013.2,Storm
+1458,2022-09-02,Lucknow,Uttar Pradesh,Summer,31.9,90,3.7,0.16,1004.4,Rain
+1459,2022-11-09,Pune,Maharashtra,Autumn,25.5,40,26.3,0.58,1018.4,Sunny
+1460,2023-02-23,Bangalore,Karnataka,Summer,35.7,65,28.4,2.07,1003.1,Haze
+1461,2024-06-07,Ahmedabad,Gujarat,Monsoon,22.5,80,32.5,3.4,1003.1,Storm
+1462,2024-01-04,Delhi,Delhi,Monsoon,23.4,60,14.6,8.69,1013.2,Haze
+1463,2023-10-06,Delhi,Delhi,Monsoon,26.4,37,1.6,3.33,1021.3,Storm
+1464,2023-11-07,Delhi,Delhi,Monsoon,28.2,94,1.7,0.52,1021.5,Rain
+1465,2023-12-13,Kolkata,West Bengal,Summer,33.0,49,6.3,0.44,1007.8,Fog
+1466,2023-01-29,Lucknow,Uttar Pradesh,Summer,36.6,92,12.2,0.69,1021.0,Haze
+1467,2022-09-25,Hyderabad,Telangana,Summer,26.1,60,10.8,0.84,1004.0,Cloudy
+1468,2024-02-01,Pune,Maharashtra,Summer,23.8,48,20.0,0.83,1005.5,Rain
+1469,2023-05-10,Ahmedabad,Gujarat,Summer,35.3,89,21.3,0.85,1008.9,Cloudy
+1470,2023-12-01,Bangalore,Karnataka,Monsoon,31.6,75,30.4,5.53,1012.5,Haze
+1471,2022-09-13,Ahmedabad,Gujarat,Summer,30.7,47,7.9,0.93,1014.9,Haze
+1472,2024-05-25,Bangalore,Karnataka,Autumn,32.5,79,14.3,4.5,1010.4,Cloudy
+1473,2023-03-31,Mumbai,Maharashtra,Autumn,22.9,90,5.1,1.26,1008.3,Cloudy
+1474,2022-03-24,Mumbai,Maharashtra,Monsoon,23.8,85,6.3,0.28,1009.7,Storm
+1475,2023-06-21,Delhi,Delhi,Autumn,27.1,66,33.9,1.76,1004.9,Cloudy
+1476,2022-11-26,Pune,Maharashtra,Monsoon,33.6,54,34.5,6.18,1011.5,Sunny
+1477,2024-06-07,Jaipur,Rajasthan,Monsoon,29.5,44,4.1,15.19,1000.1,Rain
+1478,2023-09-25,Kolkata,West Bengal,Summer,34.8,44,29.7,0.04,1004.6,Haze
+1479,2022-02-26,Pune,Maharashtra,Autumn,28.5,94,24.8,1.28,1017.1,Fog
+1480,2023-02-20,Chennai,Tamil Nadu,Summer,35.0,38,32.6,0.11,1020.2,Cloudy
+1481,2022-04-08,Chennai,Tamil Nadu,Winter,17.1,40,0.7,0.59,1005.5,Haze
+1482,2022-10-13,Jaipur,Rajasthan,Summer,30.5,62,0.2,2.27,1010.5,Sunny
+1483,2023-06-25,Mumbai,Maharashtra,Autumn,22.0,40,33.7,0.82,1016.0,Sunny
+1484,2022-07-25,Delhi,Delhi,Summer,35.1,52,1.5,0.65,1003.8,Storm
+1485,2023-12-13,Mumbai,Maharashtra,Winter,18.9,60,9.8,1.46,1015.8,Haze
+1486,2024-03-29,Chennai,Tamil Nadu,Autumn,33.8,61,20.9,0.68,999.3,Sunny
+1487,2023-07-20,Chennai,Tamil Nadu,Monsoon,28.1,90,31.6,6.62,1000.9,Rain
+1488,2023-11-10,Ahmedabad,Gujarat,Monsoon,26.1,71,11.0,4.36,1005.3,Fog
+1489,2023-04-16,Pune,Maharashtra,Monsoon,24.5,72,8.6,2.08,1008.9,Rain
+1490,2023-05-28,Delhi,Delhi,Winter,22.5,87,11.0,1.81,1004.9,Storm
+1491,2023-07-31,Hyderabad,Telangana,Autumn,25.6,93,26.6,0.56,1010.5,Cloudy
+1492,2022-02-24,Delhi,Delhi,Monsoon,31.9,52,23.7,4.45,1004.3,Storm
+1493,2023-10-13,Delhi,Delhi,Monsoon,27.7,92,33.5,2.15,997.4,Sunny
+1494,2024-02-09,Ahmedabad,Gujarat,Monsoon,26.8,50,0.9,0.72,1007.6,Storm
+1495,2022-03-08,Chennai,Tamil Nadu,Summer,32.7,75,11.2,0.16,1010.1,Cloudy
+1496,2024-06-15,Lucknow,Uttar Pradesh,Winter,18.2,88,15.3,2.35,1000.8,Haze
+1497,2022-05-12,Bangalore,Karnataka,Monsoon,26.7,77,14.8,2.84,1003.1,Rain
+1498,2024-02-20,Pune,Maharashtra,Winter,26.3,80,27.5,0.84,1003.6,Haze
+1499,2023-11-04,Hyderabad,Telangana,Monsoon,26.4,51,32.7,4.18,1025.0,Cloudy
+1500,2023-02-08,Jaipur,Rajasthan,Summer,41.1,61,26.3,6.59,1006.0,Fog
+1501,2023-08-29,Mumbai,Maharashtra,Summer,38.7,81,11.0,2.12,1008.7,Haze
+1502,2023-06-28,Jaipur,Rajasthan,Monsoon,27.9,59,13.3,3.26,1011.5,Haze
+1503,2024-05-16,Bangalore,Karnataka,Monsoon,24.6,83,7.1,0.1,1012.4,Fog
+1504,2022-09-26,Ahmedabad,Gujarat,Summer,40.4,55,31.3,0.11,1014.4,Fog
+1505,2022-02-14,Delhi,Delhi,Monsoon,25.0,72,19.7,3.46,1002.1,Cloudy
+1506,2023-11-10,Pune,Maharashtra,Autumn,24.3,93,33.1,0.55,1009.1,Storm
+1507,2023-01-14,Mumbai,Maharashtra,Autumn,22.4,57,15.5,1.65,1017.2,Haze
+1508,2024-02-24,Pune,Maharashtra,Winter,19.3,57,2.7,1.1,995.1,Cloudy
+1509,2023-11-27,Kolkata,West Bengal,Autumn,21.5,79,31.3,0.46,1004.6,Storm
+1510,2023-10-18,Chennai,Tamil Nadu,Monsoon,24.4,65,21.9,13.25,1017.0,Rain
+1511,2024-04-09,Jaipur,Rajasthan,Monsoon,27.2,79,24.6,1.74,1003.9,Sunny
+1512,2023-02-23,Lucknow,Uttar Pradesh,Summer,32.9,63,11.5,0.25,1004.9,Storm
+1513,2022-01-26,Kolkata,West Bengal,Monsoon,26.2,44,1.3,0.49,998.5,Haze
+1514,2024-04-10,Chennai,Tamil Nadu,Summer,34.4,49,3.7,0.53,1015.3,Storm
+1515,2024-03-18,Bangalore,Karnataka,Winter,23.3,38,15.5,2.5,1008.7,Cloudy
+1516,2023-03-24,Lucknow,Uttar Pradesh,Monsoon,31.8,77,18.5,11.22,999.1,Rain
+1517,2023-01-28,Chennai,Tamil Nadu,Summer,32.3,36,2.8,0.37,1013.7,Sunny
+1518,2022-03-12,Hyderabad,Telangana,Monsoon,29.5,67,1.8,15.76,992.8,Haze
+1519,2024-04-11,Bangalore,Karnataka,Autumn,24.4,83,29.0,2.74,1008.3,Cloudy
+1520,2023-12-11,Bangalore,Karnataka,Monsoon,29.7,56,19.0,8.69,1012.7,Fog
+1521,2023-03-11,Ahmedabad,Gujarat,Monsoon,26.5,62,9.9,3.37,1001.8,Cloudy
+1522,2022-07-09,Jaipur,Rajasthan,Monsoon,24.9,38,3.3,16.76,1014.5,Rain
+1523,2023-01-06,Chennai,Tamil Nadu,Winter,23.1,89,1.1,0.47,1006.6,Sunny
+1524,2024-05-15,Hyderabad,Telangana,Winter,15.2,92,24.8,0.42,999.7,Storm
+1525,2023-11-16,Jaipur,Rajasthan,Monsoon,24.7,53,19.5,2.01,1004.4,Haze
+1526,2022-02-11,Lucknow,Uttar Pradesh,Autumn,23.9,86,5.1,0.66,1017.7,Rain
+1527,2023-10-03,Mumbai,Maharashtra,Winter,12.0,84,3.4,0.59,1012.7,Rain
+1528,2024-06-07,Lucknow,Uttar Pradesh,Summer,31.8,84,0.8,0.37,1008.7,Rain
+1529,2022-08-04,Kolkata,West Bengal,Monsoon,22.9,44,17.9,1.39,1016.4,Haze
+1530,2023-01-14,Hyderabad,Telangana,Monsoon,25.2,77,13.9,5.2,1004.0,Sunny
+1531,2022-07-02,Lucknow,Uttar Pradesh,Autumn,23.5,35,0.4,0.35,1011.6,Rain
+1532,2022-01-14,Pune,Maharashtra,Summer,36.0,60,34.3,0.98,1006.9,Haze
+1533,2023-11-29,Lucknow,Uttar Pradesh,Winter,23.7,49,21.2,0.33,1001.9,Rain
+1534,2023-12-07,Lucknow,Uttar Pradesh,Autumn,21.9,37,30.7,0.19,1022.0,Rain
+1535,2024-03-27,Delhi,Delhi,Winter,14.7,41,15.6,2.21,1005.2,Fog
+1536,2024-05-25,Kolkata,West Bengal,Winter,29.5,92,16.5,0.27,1018.6,Sunny
+1537,2022-12-07,Hyderabad,Telangana,Autumn,23.8,62,12.9,0.63,1006.9,Storm
+1538,2022-06-24,Hyderabad,Telangana,Monsoon,26.7,93,21.6,0.6,1002.3,Rain
+1539,2022-10-29,Hyderabad,Telangana,Winter,19.5,35,1.6,0.49,1018.2,Fog
+1540,2022-10-18,Delhi,Delhi,Summer,37.4,43,28.4,1.75,1009.2,Rain
+1541,2023-06-19,Jaipur,Rajasthan,Summer,34.7,94,0.4,0.16,1016.0,Rain
+1542,2023-05-11,Lucknow,Uttar Pradesh,Monsoon,31.6,37,5.2,1.14,1009.8,Sunny
+1543,2023-12-19,Delhi,Delhi,Summer,39.9,57,28.5,2.26,1019.0,Fog
+1544,2023-08-30,Kolkata,West Bengal,Autumn,26.3,70,14.3,0.05,1013.9,Fog
+1545,2023-06-13,Pune,Maharashtra,Summer,32.8,77,19.0,0.62,1019.3,Storm
+1546,2022-08-08,Chennai,Tamil Nadu,Monsoon,27.2,64,8.6,4.02,999.8,Rain
+1547,2023-05-16,Lucknow,Uttar Pradesh,Monsoon,30.7,39,14.4,2.79,1015.7,Rain
+1548,2022-08-02,Hyderabad,Telangana,Monsoon,26.2,88,23.4,0.21,1009.7,Haze
+1549,2023-02-13,Kolkata,West Bengal,Monsoon,30.7,66,19.7,3.34,1004.9,Sunny
+1550,2023-06-13,Hyderabad,Telangana,Autumn,30.1,40,17.8,0.71,1022.3,Fog
+1551,2022-06-01,Delhi,Delhi,Winter,11.3,46,33.2,2.96,1015.3,Rain
+1552,2023-11-15,Kolkata,West Bengal,Monsoon,33.8,63,32.0,5.33,1019.9,Fog
+1553,2022-02-09,Lucknow,Uttar Pradesh,Autumn,25.1,63,19.0,0.73,1030.9,Rain
+1554,2023-05-09,Hyderabad,Telangana,Winter,19.8,63,7.6,0.04,1012.8,Rain
+1555,2024-04-16,Mumbai,Maharashtra,Winter,25.8,73,30.2,0.69,1006.6,Cloudy
+1556,2022-05-21,Bangalore,Karnataka,Summer,32.0,83,18.1,0.41,1019.5,Fog
+1557,2023-11-30,Mumbai,Maharashtra,Autumn,24.0,80,14.7,2.14,1020.1,Cloudy
+1558,2023-04-23,Bangalore,Karnataka,Winter,9.0,56,0.9,0.83,1002.4,Sunny
+1559,2023-12-17,Lucknow,Uttar Pradesh,Summer,33.3,54,23.9,0.58,1007.4,Cloudy
+1560,2023-12-17,Bangalore,Karnataka,Summer,32.3,91,24.0,0.48,1011.0,Rain
+1561,2023-11-07,Bangalore,Karnataka,Winter,17.7,48,11.8,2.44,1009.3,Haze
+1562,2022-04-10,Ahmedabad,Gujarat,Autumn,27.7,35,0.5,0.11,1004.7,Fog
+1563,2023-06-02,Kolkata,West Bengal,Summer,35.6,41,28.5,0.56,1030.4,Sunny
+1564,2024-05-28,Chennai,Tamil Nadu,Autumn,30.4,84,0.4,0.16,1012.6,Cloudy
+1565,2023-02-10,Kolkata,West Bengal,Monsoon,28.2,39,4.0,8.95,1012.5,Rain
+1566,2023-08-20,Kolkata,West Bengal,Monsoon,27.8,35,15.2,3.73,1010.9,Haze
+1567,2023-09-07,Pune,Maharashtra,Summer,28.4,90,0.8,0.8,1012.5,Rain
+1568,2022-10-09,Kolkata,West Bengal,Monsoon,27.1,91,8.8,1.26,1004.8,Fog
+1569,2024-02-20,Kolkata,West Bengal,Summer,32.9,67,14.5,1.8,1012.1,Cloudy
+1570,2024-06-12,Hyderabad,Telangana,Autumn,24.6,52,19.1,1.0,1028.7,Haze
+1571,2022-03-02,Chennai,Tamil Nadu,Summer,33.6,76,7.7,0.02,1003.2,Sunny
+1572,2024-03-29,Bangalore,Karnataka,Monsoon,25.7,69,20.3,14.19,1016.9,Rain
+1573,2024-05-22,Kolkata,West Bengal,Summer,34.9,74,16.6,0.35,997.6,Sunny
+1574,2023-02-05,Delhi,Delhi,Winter,20.3,84,7.4,2.22,1022.5,Rain
+1575,2022-12-16,Ahmedabad,Gujarat,Autumn,26.2,46,33.9,0.33,1015.4,Sunny
+1576,2022-07-17,Pune,Maharashtra,Autumn,27.2,42,31.2,0.42,1019.1,Sunny
+1577,2022-11-14,Hyderabad,Telangana,Autumn,24.8,38,25.7,0.93,1018.3,Sunny
+1578,2023-07-05,Ahmedabad,Gujarat,Summer,37.6,51,16.5,1.86,1020.6,Rain
+1579,2023-02-20,Mumbai,Maharashtra,Autumn,25.2,62,16.7,0.71,1014.5,Cloudy
+1580,2022-12-14,Hyderabad,Telangana,Summer,33.3,88,29.1,0.12,1009.9,Cloudy
+1581,2024-05-12,Kolkata,West Bengal,Autumn,25.3,40,29.5,1.43,997.8,Cloudy
+1582,2023-06-20,Ahmedabad,Gujarat,Summer,31.7,75,4.4,2.0,1010.9,Sunny
+1583,2022-06-03,Hyderabad,Telangana,Autumn,21.0,78,20.5,0.12,1012.4,Cloudy
+1584,2024-02-19,Delhi,Delhi,Monsoon,32.0,87,10.6,4.32,1013.3,Sunny
+1585,2023-10-26,Bangalore,Karnataka,Monsoon,26.0,67,26.9,3.09,1005.2,Haze
+1586,2023-11-10,Mumbai,Maharashtra,Winter,20.0,93,4.5,0.02,1008.2,Cloudy
+1587,2022-06-08,Mumbai,Maharashtra,Winter,12.5,37,22.7,0.81,1011.0,Sunny
+1588,2022-02-23,Kolkata,West Bengal,Summer,34.3,42,22.4,0.94,1015.8,Storm
+1589,2024-05-12,Pune,Maharashtra,Winter,15.9,92,19.5,0.97,1011.6,Fog
+1590,2022-06-12,Pune,Maharashtra,Monsoon,24.8,75,11.5,1.39,1010.7,Storm
+1591,2022-01-28,Kolkata,West Bengal,Winter,15.9,74,17.3,1.26,997.8,Fog
+1592,2022-05-21,Kolkata,West Bengal,Monsoon,27.3,77,9.6,2.09,1012.2,Cloudy
+1593,2023-07-23,Mumbai,Maharashtra,Monsoon,28.7,60,1.1,5.22,999.0,Storm
+1594,2024-05-02,Delhi,Delhi,Summer,33.3,41,14.7,1.5,1009.3,Cloudy
+1595,2023-08-09,Delhi,Delhi,Summer,38.8,82,27.2,2.37,1002.2,Fog
+1596,2022-01-06,Chennai,Tamil Nadu,Monsoon,31.5,80,30.9,1.31,1012.1,Haze
+1597,2022-07-17,Pune,Maharashtra,Monsoon,24.3,57,23.0,1.86,996.0,Rain
+1598,2024-02-23,Jaipur,Rajasthan,Winter,16.6,44,6.2,0.26,1010.6,Sunny
+1599,2022-04-13,Mumbai,Maharashtra,Monsoon,30.3,89,34.0,1.93,1011.7,Rain
+1600,2022-08-05,Hyderabad,Telangana,Monsoon,30.8,45,23.0,6.98,1015.3,Haze
+1601,2022-08-01,Lucknow,Uttar Pradesh,Summer,32.3,52,6.4,0.1,995.7,Rain
+1602,2023-06-14,Bangalore,Karnataka,Autumn,29.5,91,19.7,1.31,1001.1,Rain
+1603,2023-10-23,Chennai,Tamil Nadu,Monsoon,30.4,60,19.2,1.82,1013.5,Haze
+1604,2023-09-07,Bangalore,Karnataka,Winter,17.8,94,7.6,0.2,999.1,Storm
+1605,2022-08-31,Jaipur,Rajasthan,Monsoon,20.3,48,1.2,3.71,1013.2,Sunny
+1606,2023-01-22,Jaipur,Rajasthan,Summer,35.2,55,15.0,1.98,1019.2,Haze
+1607,2022-03-05,Lucknow,Uttar Pradesh,Autumn,20.7,35,4.7,1.11,1006.5,Haze
+1608,2022-11-12,Bangalore,Karnataka,Summer,32.7,43,28.4,0.04,1021.9,Haze
+1609,2023-02-12,Lucknow,Uttar Pradesh,Winter,14.7,66,30.7,1.16,1012.9,Rain
+1610,2022-06-23,Delhi,Delhi,Summer,34.4,65,24.2,3.17,1011.1,Haze
+1611,2022-11-28,Mumbai,Maharashtra,Monsoon,26.9,76,25.9,2.4,1010.8,Storm
+1612,2023-05-24,Bangalore,Karnataka,Monsoon,25.7,44,34.9,8.59,999.1,Cloudy
+1613,2023-04-18,Delhi,Delhi,Summer,32.7,63,30.9,0.25,1008.6,Sunny
+1614,2023-07-03,Bangalore,Karnataka,Summer,37.5,50,25.1,0.05,1004.8,Cloudy
+1615,2023-03-06,Delhi,Delhi,Summer,30.8,90,7.0,0.69,1008.2,Sunny
+1616,2022-04-08,Kolkata,West Bengal,Winter,22.7,90,14.7,2.94,1013.4,Rain
+1617,2024-01-17,Hyderabad,Telangana,Autumn,28.2,41,10.5,1.24,1000.0,Fog
+1618,2024-02-05,Hyderabad,Telangana,Winter,25.6,42,30.7,0.14,1010.6,Cloudy
+1619,2023-07-08,Chennai,Tamil Nadu,Summer,27.3,42,32.4,1.08,1016.2,Cloudy
+1620,2023-12-12,Kolkata,West Bengal,Winter,14.1,88,9.2,0.37,1010.3,Fog
+1621,2022-05-21,Jaipur,Rajasthan,Winter,18.3,42,23.4,1.31,1022.8,Haze
+1622,2022-09-05,Lucknow,Uttar Pradesh,Summer,42.2,37,28.1,0.25,996.6,Sunny
+1623,2023-07-19,Jaipur,Rajasthan,Winter,17.4,53,6.4,3.15,1010.6,Rain
+1624,2022-02-20,Hyderabad,Telangana,Winter,15.7,39,11.1,0.47,1005.2,Haze
+1625,2022-04-18,Delhi,Delhi,Summer,29.9,35,14.8,0.78,1025.0,Storm
+1626,2022-11-03,Chennai,Tamil Nadu,Autumn,25.8,60,26.9,0.73,1003.8,Storm
+1627,2024-02-02,Kolkata,West Bengal,Autumn,26.7,65,34.7,0.81,992.4,Haze
+1628,2024-01-16,Chennai,Tamil Nadu,Autumn,35.4,79,27.4,0.5,1008.1,Cloudy
+1629,2023-04-30,Chennai,Tamil Nadu,Summer,31.9,55,18.9,1.7,1009.3,Storm
+1630,2022-06-16,Ahmedabad,Gujarat,Summer,31.0,78,9.2,0.15,1019.7,Fog
+1631,2024-02-07,Mumbai,Maharashtra,Monsoon,30.3,49,24.7,4.34,1013.4,Cloudy
+1632,2022-12-18,Chennai,Tamil Nadu,Autumn,26.0,51,27.6,0.18,1015.5,Haze
+1633,2023-09-12,Jaipur,Rajasthan,Winter,10.2,70,23.7,1.39,1018.1,Cloudy
+1634,2023-04-26,Kolkata,West Bengal,Autumn,26.1,64,17.2,0.03,1013.0,Haze
+1635,2023-05-11,Bangalore,Karnataka,Winter,25.9,47,10.3,2.1,1013.8,Haze
+1636,2023-12-09,Jaipur,Rajasthan,Monsoon,36.0,37,13.8,6.09,1009.6,Fog
+1637,2023-08-13,Jaipur,Rajasthan,Autumn,25.5,75,24.3,0.59,996.5,Rain
+1638,2023-09-16,Bangalore,Karnataka,Monsoon,25.7,39,0.6,8.51,1003.3,Cloudy
+1639,2022-10-11,Mumbai,Maharashtra,Summer,33.6,82,15.9,1.22,1003.7,Rain
+1640,2023-09-07,Chennai,Tamil Nadu,Monsoon,30.6,75,4.0,3.32,990.2,Haze
+1641,2022-06-12,Mumbai,Maharashtra,Winter,18.2,79,8.2,0.0,1008.6,Fog
+1642,2022-11-02,Lucknow,Uttar Pradesh,Autumn,21.5,77,21.1,1.14,1017.6,Haze
+1643,2022-05-15,Jaipur,Rajasthan,Monsoon,25.3,77,1.2,10.79,1015.3,Sunny
+1644,2023-10-19,Hyderabad,Telangana,Winter,18.0,89,9.7,2.4,1000.0,Sunny
+1645,2022-03-21,Lucknow,Uttar Pradesh,Monsoon,26.7,44,7.2,0.41,1002.5,Rain
+1646,2022-05-14,Jaipur,Rajasthan,Summer,26.2,91,17.4,0.93,1005.9,Cloudy
+1647,2023-07-20,Kolkata,West Bengal,Autumn,22.8,53,8.8,0.41,1018.4,Cloudy
+1648,2023-11-10,Bangalore,Karnataka,Summer,36.2,88,20.3,0.54,1006.7,Storm
+1649,2022-04-10,Bangalore,Karnataka,Monsoon,26.6,40,14.7,3.09,1019.4,Haze
+1650,2022-04-29,Hyderabad,Telangana,Autumn,27.8,40,13.8,1.69,1008.7,Haze
+1651,2024-04-13,Chennai,Tamil Nadu,Monsoon,28.4,43,14.8,5.22,1007.8,Storm
+1652,2022-04-17,Hyderabad,Telangana,Monsoon,28.0,74,7.1,0.97,995.2,Rain
+1653,2024-04-23,Hyderabad,Telangana,Autumn,28.7,92,34.2,2.74,1008.5,Rain
+1654,2023-01-19,Hyderabad,Telangana,Monsoon,28.7,52,29.3,10.74,1007.1,Fog
+1655,2023-09-22,Bangalore,Karnataka,Summer,34.2,43,8.9,1.86,1012.7,Storm
+1656,2022-12-01,Hyderabad,Telangana,Monsoon,25.7,35,17.7,0.15,1001.8,Fog
+1657,2022-10-22,Kolkata,West Bengal,Autumn,31.1,93,20.8,0.55,1016.9,Storm
+1658,2022-10-27,Kolkata,West Bengal,Winter,19.7,41,26.2,0.65,1006.6,Storm
+1659,2022-06-18,Chennai,Tamil Nadu,Monsoon,31.0,91,25.7,4.24,1009.1,Fog
+1660,2022-05-17,Mumbai,Maharashtra,Monsoon,28.0,47,3.2,1.26,1009.6,Sunny
+1661,2023-12-08,Pune,Maharashtra,Winter,24.3,65,16.8,0.54,1013.5,Sunny
+1662,2023-01-17,Lucknow,Uttar Pradesh,Monsoon,24.9,86,17.9,17.63,1015.6,Rain
+1663,2022-07-23,Kolkata,West Bengal,Autumn,25.4,37,20.6,0.24,998.7,Fog
+1664,2023-02-02,Lucknow,Uttar Pradesh,Autumn,25.9,56,1.2,1.39,1025.0,Storm
+1665,2023-01-26,Bangalore,Karnataka,Winter,18.6,84,4.0,0.55,1016.1,Haze
+1666,2022-03-04,Mumbai,Maharashtra,Summer,35.9,45,19.5,0.1,1013.2,Rain
+1667,2024-02-02,Jaipur,Rajasthan,Autumn,27.3,41,29.3,2.74,1009.3,Cloudy
+1668,2023-07-21,Mumbai,Maharashtra,Summer,37.7,90,20.1,0.1,1014.9,Rain
+1669,2023-02-08,Mumbai,Maharashtra,Autumn,26.3,56,32.4,0.47,1008.1,Storm
+1670,2022-03-14,Hyderabad,Telangana,Winter,13.9,67,33.9,0.69,1015.5,Storm
+1671,2023-03-17,Lucknow,Uttar Pradesh,Summer,42.5,61,24.1,1.22,1008.8,Rain
+1672,2022-03-26,Jaipur,Rajasthan,Autumn,25.7,81,12.5,0.08,1003.8,Cloudy
+1673,2023-08-11,Kolkata,West Bengal,Autumn,24.8,79,15.1,0.51,1011.4,Fog
+1674,2023-11-08,Kolkata,West Bengal,Winter,19.4,41,4.6,0.23,1010.9,Rain
+1675,2022-09-29,Kolkata,West Bengal,Winter,23.5,55,28.3,0.55,1004.0,Fog
+1676,2023-12-21,Kolkata,West Bengal,Monsoon,26.6,64,33.9,3.89,1019.3,Cloudy
+1677,2023-01-15,Bangalore,Karnataka,Autumn,26.3,63,22.8,1.12,1007.8,Cloudy
+1678,2022-11-22,Mumbai,Maharashtra,Autumn,23.5,82,34.2,0.36,1003.7,Sunny
+1679,2023-09-04,Mumbai,Maharashtra,Monsoon,27.9,46,3.8,0.68,1006.7,Storm
+1680,2023-04-10,Chennai,Tamil Nadu,Summer,37.4,70,17.4,0.35,1023.8,Fog
+1681,2022-03-13,Lucknow,Uttar Pradesh,Autumn,24.9,58,30.9,1.15,1009.9,Sunny
+1682,2024-01-25,Jaipur,Rajasthan,Autumn,21.6,42,1.2,0.73,1014.2,Cloudy
+1683,2023-11-12,Lucknow,Uttar Pradesh,Winter,7.5,70,3.8,0.67,1010.4,Haze
+1684,2022-12-29,Lucknow,Uttar Pradesh,Monsoon,24.9,79,30.1,11.08,1010.8,Rain
+1685,2022-02-24,Mumbai,Maharashtra,Winter,19.9,36,34.4,0.46,1004.2,Rain
+1686,2023-04-30,Lucknow,Uttar Pradesh,Summer,41.6,45,6.2,2.72,1000.7,Storm
+1687,2023-07-29,Lucknow,Uttar Pradesh,Summer,35.8,48,27.9,0.3,1011.6,Haze
+1688,2022-09-11,Pune,Maharashtra,Winter,25.1,69,13.9,1.6,1015.9,Rain
+1689,2024-03-13,Chennai,Tamil Nadu,Winter,26.6,93,19.9,1.0,996.6,Cloudy
+1690,2022-02-03,Ahmedabad,Gujarat,Autumn,22.9,93,4.4,1.33,1011.1,Storm
+1691,2022-04-15,Hyderabad,Telangana,Autumn,28.2,50,22.4,0.45,1013.0,Cloudy
+1692,2023-08-16,Lucknow,Uttar Pradesh,Autumn,25.3,64,29.5,1.95,1004.6,Haze
+1693,2023-11-11,Delhi,Delhi,Summer,39.8,40,18.9,0.94,1013.0,Sunny
+1694,2022-10-27,Kolkata,West Bengal,Summer,39.4,48,19.7,0.09,1008.6,Cloudy
+1695,2024-01-23,Kolkata,West Bengal,Summer,40.5,43,11.5,0.26,1013.4,Rain
+1696,2023-10-24,Delhi,Delhi,Monsoon,31.0,44,8.2,0.43,993.1,Rain
+1697,2023-07-22,Lucknow,Uttar Pradesh,Monsoon,24.2,53,18.9,15.4,1007.9,Sunny
+1698,2023-03-25,Lucknow,Uttar Pradesh,Autumn,23.5,35,15.8,1.57,997.8,Cloudy
+1699,2024-06-15,Bangalore,Karnataka,Summer,33.5,74,15.6,0.33,1009.3,Haze
+1700,2023-07-10,Chennai,Tamil Nadu,Monsoon,29.9,45,2.6,4.46,1012.5,Rain
+1701,2024-05-05,Delhi,Delhi,Monsoon,30.7,73,3.8,3.16,1002.9,Sunny
+1702,2022-04-16,Mumbai,Maharashtra,Monsoon,21.1,78,22.9,8.34,1006.7,Sunny
+1703,2022-03-07,Kolkata,West Bengal,Summer,34.2,82,17.2,0.52,1000.5,Storm
+1704,2022-01-23,Jaipur,Rajasthan,Winter,21.6,94,21.9,1.64,1009.7,Fog
+1705,2024-05-17,Pune,Maharashtra,Autumn,27.4,86,0.3,2.08,1012.2,Fog
+1706,2022-08-11,Delhi,Delhi,Summer,33.3,90,34.1,0.17,1003.3,Haze
+1707,2023-06-19,Ahmedabad,Gujarat,Autumn,24.0,72,11.8,4.93,999.2,Fog
+1708,2022-08-26,Mumbai,Maharashtra,Summer,31.4,65,17.9,0.63,1010.2,Haze
+1709,2022-05-29,Lucknow,Uttar Pradesh,Monsoon,31.1,71,33.9,2.32,1004.7,Haze
+1710,2022-10-11,Lucknow,Uttar Pradesh,Winter,20.5,45,23.1,0.01,1009.4,Sunny
+1711,2023-07-16,Bangalore,Karnataka,Winter,10.7,92,27.6,2.36,1011.1,Haze
+1712,2023-12-29,Chennai,Tamil Nadu,Monsoon,26.2,38,21.0,1.36,1002.0,Haze
+1713,2023-08-08,Ahmedabad,Gujarat,Summer,40.6,61,32.1,0.28,1011.5,Cloudy
+1714,2024-02-15,Mumbai,Maharashtra,Monsoon,26.9,50,1.2,0.06,1004.0,Haze
+1715,2022-09-14,Hyderabad,Telangana,Winter,18.4,41,8.2,2.76,1003.2,Sunny
+1716,2022-10-02,Kolkata,West Bengal,Summer,34.7,94,31.4,2.1,1010.2,Fog
+1717,2024-01-04,Ahmedabad,Gujarat,Monsoon,23.5,65,29.6,4.0,1015.6,Cloudy
+1718,2024-06-12,Kolkata,West Bengal,Summer,33.6,40,15.4,2.08,1013.2,Fog
+1719,2023-02-09,Lucknow,Uttar Pradesh,Summer,39.1,37,3.4,0.63,1007.4,Sunny
+1720,2022-09-28,Bangalore,Karnataka,Winter,25.1,94,8.7,0.72,1008.8,Storm
+1721,2022-10-08,Ahmedabad,Gujarat,Autumn,21.7,88,1.6,1.4,1020.0,Storm
+1722,2023-04-06,Lucknow,Uttar Pradesh,Autumn,26.8,35,13.7,0.44,1007.2,Fog
+1723,2022-12-19,Chennai,Tamil Nadu,Winter,25.3,74,16.8,0.76,1002.4,Sunny
+1724,2022-03-29,Kolkata,West Bengal,Winter,17.4,73,4.7,0.12,1005.4,Fog
+1725,2024-03-05,Bangalore,Karnataka,Winter,11.1,85,1.2,0.02,1010.5,Haze
+1726,2023-09-22,Lucknow,Uttar Pradesh,Monsoon,29.2,84,20.1,11.25,1009.6,Rain
+1727,2022-09-11,Lucknow,Uttar Pradesh,Winter,14.9,90,30.0,0.51,1017.0,Fog
+1728,2023-03-10,Jaipur,Rajasthan,Summer,42.1,79,3.8,0.28,1017.5,Haze
+1729,2022-08-17,Pune,Maharashtra,Autumn,27.6,57,20.6,1.8,1016.7,Fog
+1730,2022-09-09,Jaipur,Rajasthan,Autumn,26.4,94,6.7,0.96,1007.9,Sunny
+1731,2023-08-15,Lucknow,Uttar Pradesh,Winter,19.7,60,19.8,0.66,1016.7,Storm
+1732,2024-04-12,Mumbai,Maharashtra,Summer,34.7,65,19.7,0.16,1011.4,Storm
+1733,2023-05-03,Delhi,Delhi,Winter,21.7,36,26.8,0.59,1014.4,Fog
+1734,2023-10-23,Jaipur,Rajasthan,Winter,27.6,56,29.8,0.24,1010.0,Storm
+1735,2023-09-17,Mumbai,Maharashtra,Summer,38.1,83,7.7,0.04,1006.3,Storm
+1736,2024-04-19,Hyderabad,Telangana,Summer,37.8,39,3.3,0.66,1004.1,Sunny
+1737,2023-03-15,Mumbai,Maharashtra,Summer,28.9,64,26.5,2.35,1002.8,Storm
+1738,2023-02-05,Ahmedabad,Gujarat,Winter,12.0,36,22.3,0.43,1012.7,Fog
+1739,2022-02-17,Jaipur,Rajasthan,Monsoon,23.9,67,23.9,2.44,1007.0,Storm
+1740,2024-03-09,Pune,Maharashtra,Autumn,24.5,67,11.9,0.59,1000.5,Fog
+1741,2022-03-09,Bangalore,Karnataka,Monsoon,30.7,36,4.6,17.72,1011.8,Sunny
+1742,2024-05-12,Bangalore,Karnataka,Autumn,21.3,92,33.4,0.89,1013.8,Storm
+1743,2023-12-14,Delhi,Delhi,Summer,37.9,71,21.8,0.36,1010.4,Rain
+1744,2023-11-29,Jaipur,Rajasthan,Autumn,30.2,90,14.7,1.91,996.3,Cloudy
+1745,2022-06-16,Lucknow,Uttar Pradesh,Summer,37.2,45,15.1,1.73,1016.9,Haze
+1746,2023-07-23,Ahmedabad,Gujarat,Summer,38.5,70,25.3,0.24,1011.0,Storm
+1747,2023-07-01,Jaipur,Rajasthan,Summer,27.6,60,8.7,1.51,1019.5,Cloudy
+1748,2023-08-21,Ahmedabad,Gujarat,Autumn,27.9,62,34.8,0.25,1006.1,Cloudy
+1749,2022-06-07,Mumbai,Maharashtra,Autumn,29.3,83,20.0,0.08,1008.7,Rain
+1750,2022-11-24,Hyderabad,Telangana,Monsoon,28.0,57,26.2,1.5,1014.8,Sunny
+1751,2023-12-24,Chennai,Tamil Nadu,Autumn,27.9,73,21.6,4.02,1003.8,Haze
+1752,2024-04-15,Pune,Maharashtra,Autumn,28.3,65,10.8,0.66,1017.5,Sunny
+1753,2023-10-04,Chennai,Tamil Nadu,Monsoon,25.0,63,5.1,3.6,1002.4,Rain
+1754,2023-08-15,Bangalore,Karnataka,Winter,19.5,68,30.7,0.14,1003.4,Haze
+1755,2023-09-03,Lucknow,Uttar Pradesh,Winter,12.9,49,8.4,2.17,1000.8,Rain
+1756,2022-06-15,Pune,Maharashtra,Winter,10.1,72,19.7,4.14,1011.7,Rain
+1757,2022-04-10,Ahmedabad,Gujarat,Autumn,29.2,91,8.8,0.59,1012.5,Rain
+1758,2023-08-15,Jaipur,Rajasthan,Autumn,27.2,64,12.3,0.17,1006.4,Rain
+1759,2023-11-11,Jaipur,Rajasthan,Winter,21.8,43,25.7,0.95,1013.8,Fog
+1760,2022-09-02,Bangalore,Karnataka,Monsoon,31.7,71,11.2,4.01,999.9,Rain
+1761,2023-01-20,Jaipur,Rajasthan,Monsoon,28.9,74,14.3,3.37,1005.0,Storm
+1762,2022-05-10,Ahmedabad,Gujarat,Monsoon,30.3,53,3.0,2.52,1019.2,Fog
+1763,2022-01-26,Lucknow,Uttar Pradesh,Monsoon,28.9,62,26.7,2.66,1011.3,Haze
+1764,2022-04-13,Hyderabad,Telangana,Autumn,22.2,51,20.6,0.82,1015.8,Storm
+1765,2022-11-05,Jaipur,Rajasthan,Monsoon,30.4,50,25.4,3.53,1005.1,Fog
+1766,2023-03-03,Hyderabad,Telangana,Autumn,27.7,63,14.7,0.31,1003.6,Fog
+1767,2023-07-16,Lucknow,Uttar Pradesh,Winter,14.2,46,22.7,0.41,1017.4,Fog
+1768,2023-04-15,Delhi,Delhi,Monsoon,28.5,87,34.3,4.48,1005.8,Cloudy
+1769,2022-08-15,Mumbai,Maharashtra,Monsoon,30.9,57,25.6,5.55,1002.3,Rain
+1770,2023-11-17,Pune,Maharashtra,Winter,29.7,71,23.1,0.35,1009.5,Sunny
+1771,2022-02-19,Kolkata,West Bengal,Winter,17.6,61,11.1,0.2,997.4,Sunny
+1772,2023-12-04,Hyderabad,Telangana,Winter,11.3,35,2.0,1.92,1004.9,Rain
+1773,2023-06-21,Bangalore,Karnataka,Autumn,23.5,90,27.3,0.51,1009.0,Haze
+1774,2024-03-02,Mumbai,Maharashtra,Monsoon,25.1,74,1.4,1.94,1017.1,Storm
+1775,2022-09-06,Bangalore,Karnataka,Autumn,26.4,41,27.4,0.19,1018.0,Cloudy
+1776,2024-04-22,Bangalore,Karnataka,Monsoon,31.8,73,4.5,2.32,1001.4,Cloudy
+1777,2022-04-20,Mumbai,Maharashtra,Summer,29.7,83,26.2,1.98,1016.8,Fog
+1778,2022-05-29,Chennai,Tamil Nadu,Monsoon,30.2,63,3.6,18.18,1001.5,Rain
+1779,2023-09-20,Mumbai,Maharashtra,Monsoon,25.3,67,33.7,20.68,1024.5,Storm
+1780,2022-01-21,Mumbai,Maharashtra,Summer,37.6,48,4.1,0.61,1005.0,Rain
+1781,2023-01-11,Kolkata,West Bengal,Monsoon,25.7,58,20.3,0.35,1019.4,Haze
+1782,2022-12-30,Hyderabad,Telangana,Autumn,29.3,92,21.9,0.49,1025.6,Cloudy
+1783,2022-11-18,Pune,Maharashtra,Winter,17.2,61,20.0,2.64,1019.7,Sunny
+1784,2023-04-08,Hyderabad,Telangana,Winter,21.0,84,29.6,3.03,1014.9,Haze
+1785,2024-03-02,Hyderabad,Telangana,Autumn,25.8,75,20.2,0.34,1004.7,Haze
+1786,2024-05-12,Chennai,Tamil Nadu,Monsoon,28.7,62,21.1,3.1,1011.9,Storm
+1787,2023-09-20,Pune,Maharashtra,Summer,35.5,48,24.7,0.71,1025.2,Haze
+1788,2023-02-09,Jaipur,Rajasthan,Winter,15.5,83,15.8,0.53,1010.1,Cloudy
+1789,2022-04-01,Hyderabad,Telangana,Winter,17.9,93,31.3,1.2,1009.5,Fog
+1790,2023-06-16,Delhi,Delhi,Autumn,26.3,84,1.8,0.33,1011.6,Haze
+1791,2023-10-04,Mumbai,Maharashtra,Summer,33.7,82,12.7,1.59,1015.1,Haze
+1792,2023-01-20,Kolkata,West Bengal,Monsoon,33.5,87,20.3,0.6,1012.8,Fog
+1793,2022-03-20,Lucknow,Uttar Pradesh,Winter,23.4,42,32.7,0.5,1014.7,Fog
+1794,2024-06-18,Lucknow,Uttar Pradesh,Summer,29.9,47,15.9,1.13,1002.4,Rain
+1795,2024-04-26,Kolkata,West Bengal,Winter,18.0,57,21.1,0.49,997.6,Cloudy
+1796,2023-01-01,Ahmedabad,Gujarat,Autumn,30.5,85,5.1,0.47,997.5,Fog
+1797,2022-11-15,Kolkata,West Bengal,Monsoon,31.4,85,12.1,4.28,995.3,Storm
+1798,2023-03-29,Delhi,Delhi,Autumn,24.5,82,4.1,0.24,1025.7,Rain
+1799,2023-07-13,Lucknow,Uttar Pradesh,Autumn,24.2,47,27.1,1.12,1009.6,Fog
+1800,2023-05-27,Mumbai,Maharashtra,Winter,12.0,68,1.7,0.22,1012.7,Cloudy
+1801,2022-12-13,Chennai,Tamil Nadu,Summer,31.5,39,9.3,0.02,1017.8,Storm
+1802,2022-03-16,Hyderabad,Telangana,Autumn,23.5,40,2.7,0.86,1008.8,Haze
+1803,2022-09-02,Hyderabad,Telangana,Autumn,22.2,66,32.5,0.04,1016.7,Storm
+1804,2023-09-04,Bangalore,Karnataka,Monsoon,30.1,38,8.1,6.48,1019.5,Fog
+1805,2022-02-15,Chennai,Tamil Nadu,Autumn,24.9,56,13.5,0.33,1012.1,Cloudy
+1806,2022-03-04,Hyderabad,Telangana,Monsoon,32.4,77,17.5,14.71,1012.9,Haze
+1807,2022-09-21,Bangalore,Karnataka,Autumn,23.9,56,11.2,0.51,1004.4,Cloudy
+1808,2023-02-06,Bangalore,Karnataka,Summer,39.0,93,25.7,0.57,1012.1,Fog
+1809,2024-04-27,Kolkata,West Bengal,Summer,38.7,69,10.6,0.25,1004.4,Storm
+1810,2022-11-21,Jaipur,Rajasthan,Monsoon,25.8,58,21.2,1.55,1013.7,Sunny
+1811,2022-07-20,Chennai,Tamil Nadu,Summer,40.4,36,20.5,2.4,1018.9,Fog
+1812,2023-02-05,Delhi,Delhi,Winter,18.9,72,30.2,0.2,1003.8,Rain
+1813,2022-08-13,Bangalore,Karnataka,Monsoon,31.7,65,29.2,2.9,1018.9,Sunny
+1814,2023-04-19,Delhi,Delhi,Monsoon,29.0,85,34.1,0.35,1008.7,Storm
+1815,2023-10-21,Chennai,Tamil Nadu,Winter,12.5,78,32.3,2.11,1014.4,Rain
+1816,2023-12-18,Mumbai,Maharashtra,Summer,34.3,38,15.6,0.51,1005.5,Sunny
+1817,2023-07-04,Jaipur,Rajasthan,Monsoon,31.4,64,24.1,1.59,1008.0,Cloudy
+1818,2024-03-03,Delhi,Delhi,Summer,33.7,53,21.1,1.58,1016.4,Fog
+1819,2024-05-14,Bangalore,Karnataka,Autumn,22.8,69,5.1,0.5,1008.6,Fog
+1820,2023-05-08,Bangalore,Karnataka,Summer,36.9,52,32.0,0.19,996.3,Cloudy
+1821,2022-10-29,Bangalore,Karnataka,Winter,19.0,47,25.1,0.3,1007.1,Cloudy
+1822,2023-10-28,Chennai,Tamil Nadu,Summer,31.0,72,32.4,1.63,999.0,Haze
+1823,2022-08-26,Mumbai,Maharashtra,Summer,37.3,72,7.5,0.02,999.6,Haze
+1824,2022-03-04,Kolkata,West Bengal,Winter,23.1,94,4.5,0.33,1014.6,Sunny
+1825,2022-04-08,Pune,Maharashtra,Winter,20.3,91,7.0,0.71,1015.7,Sunny
+1826,2023-07-18,Pune,Maharashtra,Autumn,30.3,56,21.7,0.44,1002.9,Fog
+1827,2024-06-14,Chennai,Tamil Nadu,Winter,19.7,55,2.8,3.18,1004.0,Cloudy
+1828,2023-01-23,Ahmedabad,Gujarat,Autumn,26.8,50,24.1,1.13,1002.5,Haze
+1829,2023-09-26,Pune,Maharashtra,Summer,32.1,61,27.1,0.96,1006.4,Haze
+1830,2023-01-27,Hyderabad,Telangana,Monsoon,26.8,75,13.7,4.71,1005.3,Cloudy
+1831,2022-03-23,Chennai,Tamil Nadu,Summer,30.8,44,24.7,0.47,999.9,Rain
+1832,2023-07-30,Bangalore,Karnataka,Summer,39.8,45,5.9,0.1,1004.4,Storm
+1833,2022-07-09,Ahmedabad,Gujarat,Autumn,28.0,45,0.1,2.11,1019.1,Haze
+1834,2023-12-29,Bangalore,Karnataka,Summer,24.8,94,34.5,1.04,1025.0,Storm
+1835,2022-08-29,Bangalore,Karnataka,Summer,33.6,87,31.7,0.91,1013.9,Cloudy
+1836,2022-01-06,Ahmedabad,Gujarat,Monsoon,30.5,92,34.3,2.1,1003.0,Cloudy
+1837,2023-01-31,Kolkata,West Bengal,Monsoon,28.2,59,16.1,1.61,1007.4,Rain
+1838,2023-12-25,Chennai,Tamil Nadu,Summer,40.6,55,2.5,6.73,1010.0,Storm
+1839,2023-10-22,Hyderabad,Telangana,Monsoon,23.5,66,11.8,2.2,1021.6,Fog
+1840,2023-06-27,Mumbai,Maharashtra,Monsoon,24.5,84,33.9,1.71,1003.7,Cloudy
+1841,2024-06-12,Pune,Maharashtra,Summer,33.2,43,5.0,1.3,1002.0,Rain
+1842,2023-10-26,Ahmedabad,Gujarat,Summer,31.1,54,9.1,0.79,1008.6,Storm
+1843,2022-07-31,Kolkata,West Bengal,Monsoon,28.7,83,25.8,4.45,1000.8,Cloudy
+1844,2023-11-28,Hyderabad,Telangana,Winter,10.6,92,3.8,1.99,1014.3,Storm
+1845,2022-03-03,Ahmedabad,Gujarat,Summer,39.2,92,34.3,0.52,1005.1,Storm
+1846,2024-05-05,Lucknow,Uttar Pradesh,Monsoon,29.0,56,5.6,6.25,1008.8,Rain
+1847,2024-03-08,Ahmedabad,Gujarat,Summer,27.6,94,25.4,0.38,1012.8,Storm
+1848,2023-07-11,Lucknow,Uttar Pradesh,Summer,35.1,93,0.6,1.31,1004.3,Storm
+1849,2023-07-07,Jaipur,Rajasthan,Summer,34.6,64,1.2,1.3,1010.1,Cloudy
+1850,2022-02-13,Jaipur,Rajasthan,Monsoon,27.7,85,11.9,1.18,1030.2,Cloudy
+1851,2024-04-15,Delhi,Delhi,Autumn,22.5,39,1.0,0.23,1012.6,Rain
+1852,2023-10-28,Jaipur,Rajasthan,Autumn,28.7,38,29.2,1.18,1019.4,Rain
+1853,2023-03-16,Pune,Maharashtra,Autumn,31.4,53,4.4,0.16,1008.9,Sunny
+1854,2024-06-04,Kolkata,West Bengal,Autumn,24.2,37,17.1,0.53,1014.5,Cloudy
+1855,2022-07-08,Bangalore,Karnataka,Monsoon,34.2,54,25.4,1.03,1006.8,Fog
+1856,2023-08-09,Lucknow,Uttar Pradesh,Autumn,29.0,69,16.0,1.73,1006.0,Fog
+1857,2023-02-04,Jaipur,Rajasthan,Summer,40.5,76,17.8,0.23,1010.7,Sunny
+1858,2023-12-05,Hyderabad,Telangana,Summer,36.8,38,32.5,0.02,1007.2,Rain
+1859,2022-07-12,Delhi,Delhi,Winter,17.0,92,25.3,1.19,1011.7,Sunny
+1860,2022-04-06,Mumbai,Maharashtra,Monsoon,28.6,59,30.4,1.03,1003.7,Rain
+1861,2023-03-28,Mumbai,Maharashtra,Monsoon,26.3,57,16.4,11.26,1006.3,Haze
+1862,2023-02-07,Hyderabad,Telangana,Monsoon,27.0,89,27.0,3.82,1013.9,Sunny
+1863,2022-10-09,Kolkata,West Bengal,Summer,31.4,84,16.1,0.56,997.1,Cloudy
+1864,2023-11-26,Hyderabad,Telangana,Summer,28.3,57,33.6,0.18,1004.3,Haze
+1865,2023-04-13,Hyderabad,Telangana,Winter,11.5,79,2.4,0.25,1011.2,Sunny
+1866,2023-11-18,Ahmedabad,Gujarat,Winter,14.7,88,31.1,3.61,1009.5,Sunny
+1867,2022-07-28,Ahmedabad,Gujarat,Summer,32.4,64,4.9,0.02,1012.4,Cloudy
+1868,2022-07-29,Delhi,Delhi,Summer,38.0,89,28.3,1.24,1011.7,Rain
+1869,2023-04-27,Pune,Maharashtra,Summer,35.2,75,18.0,2.04,1008.9,Fog
+1870,2023-10-14,Pune,Maharashtra,Summer,26.3,87,31.8,0.98,1020.0,Cloudy
+1871,2023-04-21,Pune,Maharashtra,Winter,17.6,77,6.0,1.79,994.4,Cloudy
+1872,2023-04-30,Chennai,Tamil Nadu,Autumn,28.0,62,27.5,1.71,1016.6,Haze
+1873,2022-01-09,Pune,Maharashtra,Winter,22.1,71,10.6,0.75,1021.1,Haze
+1874,2024-01-25,Kolkata,West Bengal,Autumn,28.1,47,21.1,7.1,993.9,Haze
+1875,2023-11-20,Jaipur,Rajasthan,Monsoon,27.8,40,15.0,3.53,1008.7,Storm
+1876,2023-12-09,Ahmedabad,Gujarat,Summer,36.5,86,3.5,0.18,1008.8,Haze
+1877,2023-06-27,Kolkata,West Bengal,Summer,38.9,35,18.1,1.21,1013.2,Cloudy
+1878,2022-04-13,Delhi,Delhi,Winter,22.3,63,23.4,0.54,1012.4,Sunny
+1879,2023-06-28,Hyderabad,Telangana,Winter,16.1,59,27.8,1.6,1007.0,Fog
+1880,2024-02-14,Jaipur,Rajasthan,Winter,12.3,89,13.2,0.18,1016.6,Rain
+1881,2023-12-10,Kolkata,West Bengal,Winter,23.8,91,9.4,0.7,996.2,Fog
+1882,2023-02-08,Chennai,Tamil Nadu,Monsoon,29.4,65,15.4,1.45,1005.6,Sunny
+1883,2024-06-11,Bangalore,Karnataka,Winter,19.4,39,15.9,1.28,1001.1,Cloudy
+1884,2024-06-06,Delhi,Delhi,Monsoon,23.9,80,31.5,3.94,1014.6,Sunny
+1885,2022-05-06,Mumbai,Maharashtra,Summer,33.0,66,21.1,0.69,1002.3,Sunny
+1886,2023-12-31,Lucknow,Uttar Pradesh,Winter,25.5,37,32.4,1.05,1011.3,Fog
+1887,2024-01-21,Mumbai,Maharashtra,Winter,26.6,70,33.5,0.11,1011.0,Cloudy
+1888,2024-06-05,Chennai,Tamil Nadu,Autumn,22.4,61,4.6,0.07,1008.9,Storm
+1889,2023-10-19,Chennai,Tamil Nadu,Monsoon,27.9,35,7.9,8.36,1009.4,Haze
+1890,2022-05-09,Kolkata,West Bengal,Monsoon,26.7,62,0.7,3.8,1017.3,Sunny
+1891,2023-04-19,Hyderabad,Telangana,Autumn,24.6,36,8.0,1.66,1004.6,Sunny
+1892,2023-01-01,Ahmedabad,Gujarat,Monsoon,30.5,55,25.0,5.41,998.0,Storm
+1893,2024-01-02,Ahmedabad,Gujarat,Autumn,20.6,65,1.8,0.43,1007.1,Sunny
+1894,2022-06-04,Kolkata,West Bengal,Winter,20.6,81,17.7,0.17,1007.0,Haze
+1895,2023-05-29,Chennai,Tamil Nadu,Summer,36.2,45,13.2,0.83,1004.1,Fog
+1896,2023-11-30,Mumbai,Maharashtra,Autumn,24.0,83,4.6,0.76,1011.5,Haze
+1897,2022-12-16,Pune,Maharashtra,Autumn,23.9,60,17.0,0.05,1007.2,Cloudy
+1898,2023-11-11,Kolkata,West Bengal,Summer,31.3,55,19.8,1.56,1020.0,Fog
+1899,2022-08-13,Jaipur,Rajasthan,Summer,26.6,43,18.0,3.88,1011.8,Storm
+1900,2022-01-02,Lucknow,Uttar Pradesh,Monsoon,30.4,47,2.1,5.14,999.5,Haze
+1901,2022-05-29,Jaipur,Rajasthan,Winter,18.0,52,28.5,2.35,1006.9,Sunny
+1902,2023-11-06,Bangalore,Karnataka,Winter,20.2,84,21.3,0.78,1005.1,Sunny
+1903,2023-10-02,Kolkata,West Bengal,Summer,28.6,54,26.1,0.56,1001.4,Rain
+1904,2023-01-14,Ahmedabad,Gujarat,Monsoon,28.8,40,27.9,7.85,1003.2,Cloudy
+1905,2022-06-03,Pune,Maharashtra,Summer,27.6,56,31.9,0.36,1007.3,Haze
+1906,2022-12-24,Pune,Maharashtra,Winter,18.8,76,14.6,0.78,1022.2,Sunny
+1907,2022-09-08,Ahmedabad,Gujarat,Monsoon,30.7,59,33.1,1.44,1001.2,Sunny
+1908,2022-05-03,Chennai,Tamil Nadu,Monsoon,30.9,62,13.6,1.07,1012.9,Storm
+1909,2022-01-01,Chennai,Tamil Nadu,Monsoon,21.0,38,4.3,0.57,1010.0,Storm
+1910,2022-12-12,Chennai,Tamil Nadu,Autumn,33.2,68,33.1,0.03,1009.5,Haze
+1911,2023-09-23,Chennai,Tamil Nadu,Autumn,20.8,61,12.7,1.01,1004.6,Haze
+1912,2022-01-04,Mumbai,Maharashtra,Monsoon,32.9,91,7.8,1.24,1017.5,Sunny
+1913,2023-01-07,Pune,Maharashtra,Monsoon,29.5,62,1.2,2.98,1002.4,Fog
+1914,2023-05-19,Mumbai,Maharashtra,Winter,19.5,39,23.8,0.37,1012.4,Storm
+1915,2024-01-07,Kolkata,West Bengal,Autumn,29.0,85,10.5,0.78,1016.4,Sunny
+1916,2023-01-04,Chennai,Tamil Nadu,Winter,9.7,91,30.0,0.58,1020.2,Haze
+1917,2024-01-25,Bangalore,Karnataka,Monsoon,26.6,88,21.0,1.02,1022.8,Fog
+1918,2022-10-20,Delhi,Delhi,Summer,42.1,73,11.0,0.53,1020.0,Storm
+1919,2022-09-20,Bangalore,Karnataka,Autumn,20.3,73,25.1,0.01,1005.9,Rain
+1920,2024-04-24,Jaipur,Rajasthan,Winter,20.0,39,3.1,0.06,1014.4,Sunny
+1921,2022-03-26,Lucknow,Uttar Pradesh,Monsoon,37.6,74,10.1,0.11,1018.1,Haze
+1922,2023-05-01,Bangalore,Karnataka,Monsoon,28.6,89,28.9,2.63,1004.6,Storm
+1923,2023-01-08,Hyderabad,Telangana,Winter,12.9,46,24.6,0.83,1009.1,Rain
+1924,2023-02-14,Hyderabad,Telangana,Monsoon,30.0,93,28.3,2.97,1009.2,Haze
+1925,2023-06-18,Delhi,Delhi,Autumn,27.7,67,23.3,0.54,1005.9,Rain
+1926,2022-05-19,Chennai,Tamil Nadu,Autumn,26.8,74,14.9,2.68,1005.5,Rain
+1927,2022-08-22,Bangalore,Karnataka,Monsoon,27.4,85,4.4,2.73,1011.0,Fog
+1928,2024-05-12,Pune,Maharashtra,Summer,34.1,84,8.7,2.4,1023.1,Rain
+1929,2023-02-10,Kolkata,West Bengal,Winter,21.1,46,27.1,1.31,1015.4,Rain
+1930,2023-03-25,Chennai,Tamil Nadu,Autumn,23.9,37,22.9,1.31,1014.8,Storm
+1931,2023-06-30,Bangalore,Karnataka,Summer,39.2,81,24.1,0.17,1009.0,Rain
+1932,2024-02-17,Lucknow,Uttar Pradesh,Winter,16.6,50,2.4,2.46,1011.5,Fog
+1933,2023-01-30,Mumbai,Maharashtra,Monsoon,27.0,76,18.3,2.45,1008.3,Haze
+1934,2022-11-06,Kolkata,West Bengal,Monsoon,26.1,46,0.8,0.52,1008.9,Fog
+1935,2023-06-18,Kolkata,West Bengal,Monsoon,28.3,54,27.4,0.08,1024.3,Haze
+1936,2023-06-21,Ahmedabad,Gujarat,Winter,22.6,68,27.9,4.24,1001.0,Haze
+1937,2023-06-03,Delhi,Delhi,Summer,36.9,84,32.0,0.12,1005.7,Cloudy
+1938,2022-04-12,Mumbai,Maharashtra,Autumn,22.1,59,31.2,0.27,999.3,Fog
+1939,2024-05-07,Mumbai,Maharashtra,Autumn,25.8,75,16.5,0.61,1009.2,Rain
+1940,2022-07-07,Kolkata,West Bengal,Autumn,28.1,91,13.4,1.32,1001.2,Sunny
+1941,2023-06-13,Chennai,Tamil Nadu,Monsoon,31.3,85,16.8,10.72,1018.8,Fog
+1942,2022-01-16,Mumbai,Maharashtra,Autumn,26.1,59,15.8,2.96,1012.8,Storm
+1943,2022-04-29,Delhi,Delhi,Monsoon,32.1,40,29.0,6.38,1015.9,Sunny
+1944,2024-06-12,Hyderabad,Telangana,Winter,16.7,67,19.9,2.59,1015.2,Fog
+1945,2024-02-26,Bangalore,Karnataka,Monsoon,33.7,69,11.7,3.32,1012.9,Fog
+1946,2022-06-21,Kolkata,West Bengal,Summer,32.7,38,9.4,1.77,1015.8,Haze
+1947,2023-09-17,Lucknow,Uttar Pradesh,Monsoon,27.0,56,11.1,0.55,1003.3,Sunny
+1948,2023-03-24,Lucknow,Uttar Pradesh,Monsoon,26.1,78,34.7,1.33,1024.9,Sunny
+1949,2023-05-09,Jaipur,Rajasthan,Autumn,22.1,93,11.0,1.72,1013.2,Fog
+1950,2022-04-02,Hyderabad,Telangana,Monsoon,38.8,88,1.3,5.36,1016.3,Fog
+1951,2022-03-31,Pune,Maharashtra,Summer,34.0,57,7.8,0.72,1017.5,Storm
+1952,2023-08-31,Mumbai,Maharashtra,Monsoon,26.7,46,15.3,2.81,1004.2,Haze
+1953,2024-01-12,Delhi,Delhi,Monsoon,27.1,72,21.2,0.01,1007.6,Fog
+1954,2023-03-26,Bangalore,Karnataka,Summer,42.6,67,22.0,1.41,1013.4,Sunny
+1955,2023-06-30,Jaipur,Rajasthan,Winter,12.2,55,5.2,0.15,1008.1,Sunny
+1956,2022-11-22,Chennai,Tamil Nadu,Summer,29.1,64,16.1,1.01,1012.2,Haze
+1957,2023-11-20,Delhi,Delhi,Autumn,28.9,59,0.9,1.3,1011.3,Sunny
+1958,2022-05-11,Mumbai,Maharashtra,Monsoon,30.8,92,21.7,1.71,1006.2,Storm
+1959,2024-05-24,Kolkata,West Bengal,Monsoon,28.8,62,6.1,0.37,1019.6,Storm
+1960,2023-06-25,Lucknow,Uttar Pradesh,Monsoon,24.3,52,26.8,5.61,1013.7,Rain
+1961,2024-06-03,Mumbai,Maharashtra,Summer,34.4,88,23.5,0.01,1012.8,Haze
+1962,2022-05-27,Mumbai,Maharashtra,Summer,40.8,94,0.1,0.11,994.7,Fog
+1963,2023-07-18,Jaipur,Rajasthan,Winter,19.2,54,30.1,0.29,1004.5,Haze
+1964,2023-07-26,Pune,Maharashtra,Monsoon,29.7,65,28.1,1.44,998.2,Fog
+1965,2022-05-02,Hyderabad,Telangana,Winter,13.1,91,0.2,1.51,1001.6,Sunny
+1966,2022-11-02,Pune,Maharashtra,Summer,31.7,77,9.3,0.11,1012.0,Sunny
+1967,2023-02-18,Hyderabad,Telangana,Autumn,22.0,66,11.8,0.56,1000.5,Haze
+1968,2023-07-08,Ahmedabad,Gujarat,Autumn,24.9,68,22.9,0.16,1005.6,Cloudy
+1969,2022-08-19,Ahmedabad,Gujarat,Summer,34.4,82,5.3,0.17,1001.8,Haze
+1970,2022-07-19,Chennai,Tamil Nadu,Monsoon,25.8,38,34.2,6.71,1015.2,Storm
+1971,2024-03-18,Chennai,Tamil Nadu,Winter,11.4,90,5.1,0.47,997.2,Haze
+1972,2024-03-19,Jaipur,Rajasthan,Summer,27.8,91,15.4,0.08,1003.5,Storm
+1973,2022-01-27,Bangalore,Karnataka,Winter,20.9,70,33.7,0.22,1014.7,Fog
+1974,2024-02-21,Ahmedabad,Gujarat,Winter,16.1,85,33.3,0.43,1006.4,Storm
+1975,2022-12-13,Chennai,Tamil Nadu,Autumn,28.0,53,4.2,2.06,1007.1,Haze
+1976,2023-12-27,Ahmedabad,Gujarat,Autumn,27.0,76,24.5,4.08,1016.1,Storm
+1977,2024-05-09,Bangalore,Karnataka,Monsoon,27.7,78,30.7,0.09,1005.4,Sunny
+1978,2022-03-02,Mumbai,Maharashtra,Monsoon,30.2,91,4.0,2.23,1008.5,Fog
+1979,2023-09-03,Chennai,Tamil Nadu,Monsoon,23.6,39,13.2,1.36,1021.6,Fog
+1980,2023-12-13,Mumbai,Maharashtra,Winter,16.9,93,11.9,0.57,1009.7,Cloudy
+1981,2022-02-23,Hyderabad,Telangana,Winter,25.5,72,15.9,0.14,1004.2,Rain
+1982,2024-06-01,Bangalore,Karnataka,Monsoon,23.1,59,20.1,0.22,1000.0,Haze
+1983,2022-11-01,Lucknow,Uttar Pradesh,Monsoon,24.5,76,27.6,4.1,1003.1,Cloudy
+1984,2023-10-05,Lucknow,Uttar Pradesh,Monsoon,28.4,47,22.0,0.22,1015.2,Rain
+1985,2023-06-14,Pune,Maharashtra,Monsoon,26.9,74,1.8,0.99,1002.3,Cloudy
+1986,2023-12-27,Kolkata,West Bengal,Autumn,28.1,91,29.3,0.7,1006.9,Fog
+1987,2023-09-08,Delhi,Delhi,Summer,24.7,92,12.0,0.59,1014.7,Rain
+1988,2022-05-19,Chennai,Tamil Nadu,Autumn,25.7,41,26.3,0.31,1024.0,Sunny
+1989,2022-12-23,Pune,Maharashtra,Summer,32.4,92,32.9,1.08,1020.4,Fog
+1990,2024-04-15,Pune,Maharashtra,Winter,7.2,59,1.3,0.07,1012.3,Rain
+1991,2022-10-31,Pune,Maharashtra,Monsoon,27.9,79,15.9,2.27,1008.3,Haze
+1992,2023-08-28,Ahmedabad,Gujarat,Monsoon,26.6,94,33.0,6.82,1014.2,Rain
+1993,2023-05-13,Lucknow,Uttar Pradesh,Summer,38.7,51,23.6,1.41,1002.4,Rain
+1994,2023-03-13,Lucknow,Uttar Pradesh,Summer,33.2,65,8.7,0.87,1014.9,Sunny
+1995,2023-05-26,Ahmedabad,Gujarat,Autumn,26.3,65,33.6,1.61,1019.8,Storm
+1996,2022-01-17,Pune,Maharashtra,Autumn,27.7,80,10.0,1.67,1009.4,Cloudy
+1997,2023-02-18,Hyderabad,Telangana,Monsoon,21.6,64,9.2,2.53,1018.0,Storm
+1998,2023-02-12,Hyderabad,Telangana,Autumn,25.7,53,13.0,0.07,1012.3,Storm
+1999,2022-12-09,Lucknow,Uttar Pradesh,Monsoon,28.5,82,22.6,2.36,1026.2,Cloudy
+2000,2023-04-26,Ahmedabad,Gujarat,Winter,10.8,72,24.5,2.27,1011.2,Storm
